@@ -12,7 +12,9 @@ After you finish installation you will be able to run scripts requiring
 within Jupyter notebook environment.
 
 ## Examples
-* [Train and visualize SVM model using simplified Iris dataset (06-02-2016)](https://github.com/martinkersner/data-science-seoul-meetup/blob/master/06-02-2016/SVM_iris.ipynb)
+* 6-2-2016
+  * [Train and visualize SVM model using simplified Iris dataset](https://github.com/martinkersner/data-science-seoul-meetup/blob/master/06-02-2016/SVM_Iris.ipynb)
+  * [K-fold cross-validaton on Iris dataset using SVM model](https://github.com/martinkersner/data-science-seoul-meetup/blob/master/06-02-2016/SVM_Iris_2.ipynb)
 
 ## Datasets
 * Iris ([download](https://archive.ics.uci.edu/ml/datasets/Iris), [description](https://en.wikipedia.org/wiki/Iris_flower_data_set))
