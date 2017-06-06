@@ -1,20 +1,42 @@
-# Data Science Seoul Meetup
+# Seoul Artificial Intelligence Meetup
 
-## Prerequisities
-All required prerequisities (for Ubuntu 14.04) can be installed from this [link](http://bikulov.org/blog/2015/11/07/install-jupyter-notebook-and-scientific-environment-in-ubuntu-14-dot-04-with-python-3/).
-After you finish installation you will be able to run scripts requiring
+## Upcoming Meetup
+### When
+10th June 2017, 10AM
 
-* Pandas
-* Numpy
-* Scikit-learn
-* Matplotlib
+### Where
+서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.google.com/maps/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+789-4,+%EC%84%9C%EC%9A%B8/@37.4972562,127.0363414,16z/data=!3m1!4b1))
 
-within Jupyter notebook environment.
+### Program
+10:00 - 10:10 Waiting for late-comers
 
-## Examples
-* 6-2-2016
-  * [Train and visualize SVM model using simplified Iris dataset](https://github.com/martinkersner/data-science-seoul-meetup/blob/master/06-02-2016/SVM_Iris.ipynb)
-  * [K-fold cross-validaton on Iris dataset using SVM model](https://github.com/martinkersner/data-science-seoul-meetup/blob/master/06-02-2016/SVM_Iris_2.ipynb)
+10:10 - 10:25 Spark introduction (John Hwang)
 
-## Datasets
-* Iris ([download](https://archive.ics.uci.edu/ml/datasets/Iris), [description](https://en.wikipedia.org/wiki/Iris_flower_data_set))
+10:25 - 11:25 Probabilistic Machine Learning (more information at [https://seoulai.slack.com](https://seoulai.slack.com) at *bayes* channel)
+
+11:25 - 12:00 Fun practice - Topic Modeling ([Cinyoung](https://github.com/hurcy))
+
+### Price
+KRW 5,000
+
+
+## Previous Meetups
+### 27th May, 2017
+* T-Rex Runner ([martinkersner](https://github.com/martinkersner))
+ * [presentation](https://docs.google.com/presentation/d/1gjrz9zvIXKf0Qw1gzr8_jIMCYkq2E4F1WdKVo320g18/edit?usp=sharing)
+* Hand Sign Recognition Using Hidden Markov Models ([Cinyoung](https://github.com/hurcy))
+
+### 13th May, 2017
+* T-Rex Runner ([martinkersner](https://github.com/martinkersner))
+ * [presentation](https://docs.google.com/presentation/d/1DaVv4PVHQRRoT3PA7aNdDcFYTWDZlAX2QfnWCelmQV8/edit?usp=sharing)
+* Sentiment analysis extracted from books over time from ([adelshb](https://github.com/adelshb))
+* Harmonic Search (Victor)
+
+### 30th April, 2017
+* Sudoku solver ([Cinyoung](https://github.com/hurcy))
+ * [presentation](https://docs.google.com/presentation/d/1kmI2ChNoh1orQFEje2nuR00gKdxOEEEQ32diI2t1nQg/edit#slide=id.p)
+* Image Segmentation Using Genetic Alogorithm ([martinkersner](https://github.com/martinkersner))
+ * [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm)
+
+### 2th April, 2017
+Meeting for the first time. Discussing what direction meetup meetup evolve.
