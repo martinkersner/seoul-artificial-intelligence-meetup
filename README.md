@@ -35,7 +35,7 @@ KRW 5,000
 * T-Rex Runner ([martinkersner](https://github.com/martinkersner))
   * [presentation](https://docs.google.com/presentation/d/1DaVv4PVHQRRoT3PA7aNdDcFYTWDZlAX2QfnWCelmQV8/edit?usp=sharing)
   * > Genetic Algorithm, Reinforcement Learning, Neural Networks
-* Prresentation of The Expression of Emotions in 20th Century Books ([adelshb](https://github.com/adelshb))
+* Presentation of The Expression of Emotions in 20th Century Books ([adelshb](https://github.com/adelshb))
   * [paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059030)
   * > Emotions, Fear, Language Behavior, Culture, Statistical data, Cultural evolution
 * Harmonic Search (Victor)
