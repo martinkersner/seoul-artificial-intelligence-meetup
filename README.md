@@ -16,7 +16,7 @@ If you want to collaborate with us, register at https://seoulai.herokuapp.com/ a
 
 10:10 - 10:25 Spark introduction (John Hwang)
 
-10:25 - 11:25 Probabilistic Machine Learning ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1uVpTKMlnNzTwvw2mAGpWd49dVEYY-S-VGWV3J1pGv2c/edit?usp=sharing))
+10:25 - 11:25 Multinomial Naive Bayes Classifier ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1uVpTKMlnNzTwvw2mAGpWd49dVEYY-S-VGWV3J1pGv2c/edit?usp=sharing))
 > More information at [https://seoulai.slack.com](https://seoulai.slack.com) at *bayes* channel.
 
 11:25 - 12:00 Fun practice - Topic Modeling ([Cinyoung](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
@@ -49,5 +49,5 @@ KRW 5,000
   * [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm)
   * > Problem Encoding, Evaluation Of Fitness, Selection, Crossover, Mutation, Algorithm Evaluation
 
-### 2th April, 2017
+### 2nd April, 2017
 Meeting for the first time. Discussing what direction meetup will evolve.
