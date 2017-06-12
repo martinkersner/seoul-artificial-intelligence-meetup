@@ -20,8 +20,8 @@ KRW 5,000
 
 ## Previous Meetups
 ### 10th June, 2017
-* Spark introduction (John Hwang)
-* Fun practice - Topic Modeling ([Cinyoung](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
+* Spark introduction (Hwang Joongwon, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/presentations/ApacheSparkIntroduction.pdf))
+* Practice - Topic Modeling ([Cinyoung](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
 * Multinomial Naive Bayes Classifier ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1uVpTKMlnNzTwvw2mAGpWd49dVEYY-S-VGWV3J1pGv2c/edit?usp=sharing))
 
 ### 27th May, 2017
