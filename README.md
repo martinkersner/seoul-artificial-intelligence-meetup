@@ -28,14 +28,16 @@ KRW 5,000
 
 ## Previous Meetups
 ### June 10, 2017
-* Spark introduction (Hwang Joongwon, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/ApacheSparkIntroduction.pdf))
-* Practice - Topic Modeling ([cinyoung](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
+* Spark introduction ([HwangJohn](https://github.com/HwangJohn), [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/ApacheSparkIntroduction.pdf))
+* Practice - Topic Modeling ([hurcy](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
 * Multinomial Naive Bayes Classifier ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1uVpTKMlnNzTwvw2mAGpWd49dVEYY-S-VGWV3J1pGv2c/edit?usp=sharing))
+  * Java ([HwangJohn](https://github.com/HwangJohn), [source](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/tree/master/algorithms/naive-bayes-classifier/JohnHwang))
+  * Common Lisp ([martinkersner](https://github.com/martinkersner), [source](https://github.com/martinkersner/cl-ml/tree/master/naive-bayes-classifier))
 
 ### May 27, 2017
 * T-Rex Runner ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1gjrz9zvIXKf0Qw1gzr8_jIMCYkq2E4F1WdKVo320g18/edit?usp=sharing))
   * Reinforcement Learning, Deep Q Learning, ConvnetJS, Dead Network, NaN Weights
-* Hand Sign Recognition Using Hidden Markov Models ([cinyoung](https://github.com/hurcy))
+* Hand Sign Recognition Using Hidden Markov Models ([hurcy](https://github.com/hurcy))
 
 ### May 13, 2017
 * T-Rex Runner ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1DaVv4PVHQRRoT3PA7aNdDcFYTWDZlAX2QfnWCelmQV8/edit?usp=sharing))
@@ -45,9 +47,9 @@ KRW 5,000
 * Harmonic Search (Victor)
 
 ### April 30, 2017
-* Sudoku solver ([cinyoung](https://github.com/hurcy), [presentation](https://docs.google.com/presentation/d/1kmI2ChNoh1orQFEje2nuR00gKdxOEEEQ32diI2t1nQg/edit#slide=id.p))
+* Sudoku solver ([hurcy](https://github.com/hurcy), [presentation](https://docs.google.com/presentation/d/1kmI2ChNoh1orQFEje2nuR00gKdxOEEEQ32diI2t1nQg/edit#slide=id.p))
   * Constraing Propagation, Search, Elimination, Naked Twins 
-* Image Segmentation Using Genetic Algorithm ([martinkersner](https://github.com/martinkersner), [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm))
+* Image Segmentation Using Genetic Algorithm ([martinkersner](https://github.com/martinkersner), [source](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm))
   * Problem Encoding, Evaluation Of Fitness, Selection, Crossover, Mutation, Algorithm Evaluation
 
 ### April 2, 2017
