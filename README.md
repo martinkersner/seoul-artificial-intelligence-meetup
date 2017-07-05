@@ -6,13 +6,19 @@ If you want to collaborate with us, register at https://seoulai.herokuapp.com/ a
 
 ## Upcoming Meetup
 ### When
-TBD
+July 8, 10 AM
 
 ### Where
 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.google.com/maps/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+789-4,+%EC%84%9C%EC%9A%B8/@37.4972562,127.0363414,16z/data=!3m1!4b1))
 
 ### Program
-TBD
+10:00 - 10:10 Waiting for late-comers
+
+10:10 - 10:40 Probability basics (Cinyoung, hands-on tutorial)
+
+10:40 - 11:20 Automatic Viewpoint Selection on 360 Videos (Dae-Yong, presentation)
+
+11:20 - 12:00 Autoencoders (Martin) 
 
 ### Price
 KRW 5,000
