@@ -23,6 +23,7 @@ KRW 5,000
 *  Bayesian Classification in Computer Vision (Dae-Yong, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/%5B20170722%5D%20BayesianClassificationInComputerVision.pdf))
 * k-Means ([martinkersner](https://github.com/martinkersner), [github](https://github.com/martinkersner/kmeans-meetup/blob/master/k-Means.ipynb))
   * Common Lisp ([martinkersner](https://github.com/martinkersner), [source](https://github.com/martinkersner/cl-ml/tree/master/k-means))
+  * Python ([martinkersner](https://github.com/martinkersner), [source](https://gist.github.com/martinkersner/6415e7306925bd0918cfba42e9754116))
 
 ### July 8, 2017
 * Automatic Viewpoint Selection on 360° Videos (Dae-Yong, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/%5B20170708%5D%20Automatic_Viewpoint_Selection_on_360_Videos.pdf))
