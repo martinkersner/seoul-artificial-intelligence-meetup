@@ -6,7 +6,7 @@ If you want to collaborate with us, register at https://seoulai.herokuapp.com/ a
 
 ## Upcoming Meetup
 ### When
-TBD
+September 2, 2017
 
 ### Where
 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.google.com/maps/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+789-4,+%EC%84%9C%EC%9A%B8/@37.4972562,127.0363414,16z/data=!3m1!4b1))
@@ -19,6 +19,10 @@ KRW 5,000
 
 
 ## Previous Meetups
+### August 19, 2017
+* Non Technical Overview of Deep Learning (Han Bin, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Non%20Technical%20Overview%20of%20Deep%20Learning.pptx))
+* Lock-less SGD (Renaud)
+
 ### August 5, 2017
 * Kalman Filter (Zaur, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/kalman.pdf))
     * [C++ implementation](https://github.com/hmartiro/kalman-cpp)
