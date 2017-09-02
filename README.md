@@ -20,7 +20,7 @@ KRW 5,000
 
 ## Previous Meetups
 ### August 19, 2017
-* Non Technical Overview of Deep Learning (Han Bin, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Non%20Technical%20Overview%20of%20Deep%20Learning.pptx))
+* Non Technical Overview of Deep Learning ([Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Non%20Technical%20Overview%20of%20Deep%20Learning.pptx))
 * Lock-less SGD (Renaud)
 
 ### August 5, 2017
