@@ -20,7 +20,7 @@ KRW 5,000
 
 ## Previous Meetups
 ### September 2, 2017
-* Introduction to Blockchain & Ethereum (Raj, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Introduction%20to%20Blockchain%20%26%20Ethereum.pdf))
+* Introduction to Blockchain & Ethereum (Raj, Presentation [pdf](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Introduction%20to%20Blockchain%20%26%20Ethereum.pdf)/[pptx](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Introduction%20to%20Blockchain%20%26%20Ethereum.pptx))
 * Pitching idea for Nexar challenge plus lane detection using DL (Renaud & [Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Nexar%20deep%20learning%20challenge%20II.pdf))
 
 ### August 19, 2017
