@@ -6,16 +6,31 @@ If you want to collaborate with us, register at https://seoulai.herokuapp.com/ a
 
 ## Upcoming Meetup
 ### When
-September 16, 2017
+Saturday, September 16, 2017
+
+2:00 PM to 4:00 PM
 
 ### Where
+Songpa Makerspace, 2nd floor
+
+서울 송파구 문정동 11-12 선빌딩 2층
+
+http://songpamakers.com/
+<!--
 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.google.com/maps/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+789-4,+%EC%84%9C%EC%9A%B8/@37.4972562,127.0363414,16z/data=!3m1!4b1))
+-->
 
 ### Program
-TBD
+02:00 - 02:10 Waiting for late-comers
+
+02:10 - 03:00 Bayesian Regression (Cinyoung)
+
+03:00 - 04:00 Meta Learning (Martin)
+
 
 ### Price
-KRW 5,000
+FREE
+<!-- KRW 5,000 -->
 
 
 ## Previous Meetups
