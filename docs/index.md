@@ -36,36 +36,36 @@ FREE
 ## Previous Meetups
 ### September 2, 2017
 * Introduction to Blockchain & Ethereum (Raj, Presentation [pdf](presentations/Introduction_to_Blockchain_&_Ethereum.pdf)/[pptx](presentations/Introduction_to_Blockchain_&_Ethereum.pptx))
-* Pitching idea for Nexar challenge plus lane detection using DL (Renaud & [Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Nexar%20deep%20learning%20challenge%20II.pdf))
+* Pitching idea for Nexar challenge plus lane detection using DL (Renaud & [Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](presentations/Nexar_deep_learning_challenge_II.pdf))
 
 ### August 19, 2017
-* Non Technical Overview of Deep Learning ([Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Non%20Technical%20Overview%20of%20Deep%20Learning.pptx))
+* Non Technical Overview of Deep Learning ([Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](presentations/Non_Technical_Overview_of_Deep_Learning.pptx))
 * Lock-less SGD (Renaud)
 
 ### August 5, 2017
-* Kalman Filter (Zaur, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/kalman.pdf))
+* Kalman Filter (Zaur, [presentation](presentations/kalman.pdf))
   * [C++ implementation](https://github.com/hmartiro/kalman-cpp)
 * Recurrent Neural Networks ([martinkersner](https://github.com/martinkersner), [github](https://github.com/martinkersner/rnn-meetup)) 
   * Sum Two Binary Numbers Using RNN ([martinkersner](https://github.com/martinkersner), [Jupyter Notebook](https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb))
 
 ### July 22, 2017
-*  Bayesian Classification in Computer Vision (Dae-Yong, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/%5B20170722%5D%20BayesianClassificationInComputerVision.pdf))
+*  Bayesian Classification in Computer Vision (Dae-Yong, [presentation](presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf))
 * k-Means ([martinkersner](https://github.com/martinkersner), [github](https://github.com/martinkersner/kmeans-meetup/blob/master/k-Means.ipynb))
   * Common Lisp ([martinkersner](https://github.com/martinkersner), [source](https://github.com/martinkersner/cl-ml/tree/master/k-means))
   * Python ([martinkersner](https://github.com/martinkersner), [source](https://gist.github.com/martinkersner/6415e7306925bd0918cfba42e9754116))
 
 ### July 8, 2017
-* Automatic Viewpoint Selection on 360° Videos (Dae-Yong, [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/%5B20170708%5D%20Automatic_Viewpoint_Selection_on_360_Videos.pdf))
+* Automatic Viewpoint Selection on 360° Videos (Dae-Yong, [presentation](presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf))
 * Autoencoders ([martinkersner](https://github.com/martinkersner), [github](https://github.com/martinkersner/autoencoder-meetup/blob/master/autoencoders.ipynb))
 
 ### June 25, 2017
-* Introduction to Quantum Computing ([adelshb](https://github.com/adelshb), [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/Introduction_to_Quantum_Computing.pdf))
+* Introduction to Quantum Computing ([adelshb](https://github.com/adelshb), [presentation](presentations/Introduction_to_Quantum_Computing.pdf))
 * Probability basics ([hurcy](https://github.com/hurcy), [jupyter notebook](https://github.com/hurcy/ThinkBayes/blob/master/notebooks/02_Computational_Statistics.ipynb))
 * Artificial Neural Networks ([martinkersner](https://github.com/martinkersner), [github](https://github.com/martinkersner/ann-meetup))
   * Common Lisp ([martinkersner](https://github.com/martinkersner), [source](https://github.com/martinkersner/cl-ml/tree/master/ann))
 
 ### June 10, 2017
-* Spark introduction ([HwangJohn](https://github.com/HwangJohn), [presentation](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/blob/master/presentations/ApacheSparkIntroduction.pdf))
+* Spark introduction ([HwangJohn](https://github.com/HwangJohn), [presentation](presentations/ApacheSparkIntroduction.pdf))
 * Practice - Topic Modeling ([hurcy](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
 * Multinomial Naive Bayes Classifier ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1uVpTKMlnNzTwvw2mAGpWd49dVEYY-S-VGWV3J1pGv2c/edit?usp=sharing))
   * Java ([HwangJohn](https://github.com/HwangJohn), [source](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/tree/master/algorithms/naive-bayes-classifier/JohnHwang))
