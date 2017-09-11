@@ -13,7 +13,7 @@ Saturday, September 16, 2017
 ### Where
 Songpa Makerspace, 2nd floor
 
-서울 송파구 문정동 11-12 선빌딩 2층
+[서울 송파구 문정동 11-12 선빌딩 2층](http://naver.me/xsrO8rkg)
 
 [http://songpamakers.com/](http://songpamakers.com/)
 <!--
