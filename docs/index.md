@@ -72,12 +72,12 @@ FREE
   * Common Lisp ([martinkersner](https://github.com/martinkersner), [source](https://github.com/martinkersner/cl-ml/tree/master/naive-bayes-classifier))
 
 ### May 27, 2017
-* T-Rex Runner ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1gjrz9zvIXKf0Qw1gzr8_jIMCYkq2E4F1WdKVo320g18/edit?usp=sharing))
+* T-Rex Runner ([martinkersner](https://github.com/martinkersner), [presentation](presentations/T-Rex_Runner_II.pdf))
   * Reinforcement Learning, Deep Q Learning, ConvnetJS, Dead Network, NaN Weights
 * Hand Sign Recognition Using Hidden Markov Models ([hurcy](https://github.com/hurcy))
 
 ### May 13, 2017
-* T-Rex Runner ([martinkersner](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1DaVv4PVHQRRoT3PA7aNdDcFYTWDZlAX2QfnWCelmQV8/edit?usp=sharing))
+* T-Rex Runner ([martinkersner](https://github.com/martinkersner), [presentation](presentations/T-Rex_Runner_I.pdf))
   * Genetic Algorithm, Reinforcement Learning, Neural Networks
 * Presentation of The Expression of Emotions in 20th Century Books ([adelshb](https://github.com/adelshb), [paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059030))
     * Emotions, Fear, Language Behavior, Culture, Statistical data, Cultural evolution
