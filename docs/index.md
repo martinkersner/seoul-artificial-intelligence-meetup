@@ -36,11 +36,11 @@ FREE
 ## Previous Meetups
 ### September 2, 2017
 * Introduction to Blockchain & Ethereum (Raj, Presentation [pdf](presentations/Introduction_to_Blockchain_&_Ethereum.pdf)/[pptx](presentations/Introduction_to_Blockchain_&_Ethereum.pptx))
-* Pitching idea for Nexar challenge plus lane detection using DL (Renaud & [Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](presentations/Nexar_deep_learning_challenge_II.pdf))
+* Pitching idea for Nexar challenge plus lane detection using DL ([Renaud](https://kr.linkedin.com/in/renaudbechade) & [Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](presentations/Nexar_deep_learning_challenge_II.pdf))
 
 ### August 19, 2017
 * Non Technical Overview of Deep Learning ([Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](presentations/Non_Technical_Overview_of_Deep_Learning.pptx))
-* Lock-less SGD (Renaud)
+* Lock-less SGD ([Renaud](https://kr.linkedin.com/in/renaudbechade), [presentation](presentations/LocklessSGDfinal.pdf))
 
 ### August 5, 2017
 * Kalman Filter (Zaur, [presentation](presentations/kalman.pdf))
