@@ -14,9 +14,11 @@ Saturday, September 30, 2017
 TBD
 <!--
 Songpa Makerspace, 2nd floor
-
+-->
+<!--
 [서울 송파구 문정동 11-12 선빌딩 2층](http://naver.me/xsrO8rkg)
-
+-->
+<!--
 [http://songpamakers.com/](http://songpamakers.com/)
 -->
 
@@ -25,13 +27,14 @@ Songpa Makerspace, 2nd floor
 -->
 
 ### Program
-10:00 - 12:10 Waiting for late-comers
+10:00 - 10:10 Waiting for late-comers
 
 10:10 - 11:00 Bitcoin Price Prediction (Cinyoung)
 
 11:00 - 12:00 Object Detection - part 1 (Dae-Yong)
 
 ### Price
+TBD
 <!-- FREE -->
 <!-- KRW 5,000 -->
 
