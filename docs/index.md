@@ -41,11 +41,11 @@ TBD
 
 ## Previous Meetups
 ### September 16, 2017
-* Bayesian Regression ([Cinyoung](https://github.com/hurcy), presentation)
+* Bayesian Regression ([Cinyoung](https://github.com/hurcy), [presentation](presentations/BayesianRegressionBitcoin_20170916.pdf))
 * Meta Learning ([Martin](https://github.com/martinkersner), [presentation](presentations/MetaLearning_20170916.pdf)/[github](https://github.com/martinkersner/meta-learning-meetup))
 
 ### September 2, 2017
-* Introduction to Blockchain & Ethereum (Raj, Presentation [pdf](presentations/Introduction_to_Blockchain_&_Ethereum.pdf)/[pptx](presentations/Introduction_to_Blockchain_&_Ethereum.pptx))
+* Introduction to Blockchain & Ethereum (Raj, presentation [pdf](presentations/Introduction_to_Blockchain_&_Ethereum.pdf)/[pptx](presentations/Introduction_to_Blockchain_&_Ethereum.pptx))
 * Pitching idea for Nexar challenge plus lane detection using DL ([Renaud](https://kr.linkedin.com/in/renaudbechade) & [Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](presentations/Nexar_deep_learning_challenge_II.pdf))
 
 ### August 19, 2017
