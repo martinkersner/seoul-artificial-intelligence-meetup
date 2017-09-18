@@ -40,6 +40,7 @@ TBD
 
 
 ## Previous Meetups
+<span id="20170916"></span>
 ### September 16, 2017
 * Bayesian Regression ([Cinyoung](https://github.com/hurcy), [presentation](presentations/BayesianRegressionBitcoin_20170916.pdf))
 * Meta Learning ([Martin](https://github.com/martinkersner), [presentation](presentations/MetaLearning_20170916.pdf)/[github](https://github.com/martinkersner/meta-learning-meetup))
