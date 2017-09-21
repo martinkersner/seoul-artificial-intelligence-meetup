@@ -66,7 +66,7 @@ TBD
 
 ### July 8, 2017
 * Automatic Viewpoint Selection on 360° Videos (Dae-Yong, [presentation](presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf))
-* Autoencoders ([Martin](https://github.com/martinkersner), [github](https://github.com/martinkersner/autoencoder-meetup/blob/master/autoencoders.ipynb))
+* Autoencoders ([Martin](https://github.com/martinkersner), [presentation](presentations/Autoencoders_20170708.pdf)/[github](https://github.com/martinkersner/autoencoder-meetup/blob/master/autoencoders.ipynb))
 
 ### June 25, 2017
 * Introduction to Quantum Computing ([adelshb](https://github.com/adelshb), [presentation](presentations/Introduction_to_Quantum_Computing.pdf))
