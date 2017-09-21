@@ -60,13 +60,13 @@ TBD
 
 ### July 22, 2017
 *  Bayesian Classification in Computer Vision (Dae-Yong, [presentation](presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf))
-* k-Means ([Martin](https://github.com/martinkersner), [github](https://github.com/martinkersner/kmeans-meetup/blob/master/k-Means.ipynb))
+* k-Means ([Martin](https://github.com/martinkersner), [presentation](presentations/k-Means_20170722.pdf)/[github](https://github.com/martinkersner/kmeans-meetup))
   * Common Lisp ([Martin](https://github.com/martinkersner), [source](https://github.com/martinkersner/cl-ml/tree/master/k-means))
   * Python ([Martin](https://github.com/martinkersner), [source](https://gist.github.com/martinkersner/6415e7306925bd0918cfba42e9754116))
 
 ### July 8, 2017
 * Automatic Viewpoint Selection on 360° Videos (Dae-Yong, [presentation](presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf))
-* Autoencoders ([Martin](https://github.com/martinkersner), [presentation](presentations/Autoencoders_20170708.pdf)/[github](https://github.com/martinkersner/autoencoder-meetup/blob/master/autoencoders.ipynb))
+* Autoencoders ([Martin](https://github.com/martinkersner), [presentation](presentations/Autoencoders_20170708.pdf)/[github](https://github.com/martinkersner/autoencoder-meetup))
 
 ### June 25, 2017
 * Introduction to Quantum Computing ([adelshb](https://github.com/adelshb), [presentation](presentations/Introduction_to_Quantum_Computing.pdf))
