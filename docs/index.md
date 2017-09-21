@@ -27,7 +27,7 @@ Songpa Makerspace, 2nd floor
 -->
 
 ### Program
-10:00 - 10:10 Waiting for late-comers
+10:00 - 10:10 Networking
 
 10:10 - 11:00 Bitcoin Price Prediction (Cinyoung)
 
