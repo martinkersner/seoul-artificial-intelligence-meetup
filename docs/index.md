@@ -77,7 +77,7 @@ TBD
 ### June 10, 2017
 * Spark introduction ([HwangJohn](https://github.com/HwangJohn), [presentation](presentations/ApacheSparkIntroduction.pdf))
 * Practice - Topic Modeling ([Cinyoung](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
-* Multinomial Naive Bayes Classifier ([Martin](https://github.com/martinkersner), [presentation](https://docs.google.com/presentation/d/1uVpTKMlnNzTwvw2mAGpWd49dVEYY-S-VGWV3J1pGv2c/edit?usp=sharing))
+* Multinomial Naive Bayes Classifier ([Martin](https://github.com/martinkersner), [presentation](presentations/Naive_Bayes_Classifier_20170610.pdf))
   * Java ([HwangJohn](https://github.com/HwangJohn), [source](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/tree/master/algorithms/naive-bayes-classifier/JohnHwang))
   * Common Lisp ([Martin](https://github.com/martinkersner), [source](https://github.com/martinkersner/cl-ml/tree/master/naive-bayes-classifier))
 
