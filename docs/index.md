@@ -42,7 +42,7 @@ TBD
 ## Previous Meetups
 ### September 16, 2017
 * Bayesian Regression ([Cinyoung](https://github.com/hurcy), [presentation](presentations/BayesianRegressionBitcoin_20170916.pdf))
-* Meta Learning ([Martin](members/martin.html), [presentation](presentations/MetaLearning_20170916.pdf)/[github](https://github.com/martinkersner/meta-learning-meetup))
+* Meta Learning ([Martin](members/martin), [presentation](presentations/MetaLearning_20170916.pdf)/[github](https://github.com/martinkersner/meta-learning-meetup))
 
 ### September 2, 2017
 * Introduction to Blockchain & Ethereum (Raj, presentation [pdf](presentations/Introduction_to_Blockchain_&_Ethereum.pdf)/[pptx](presentations/Introduction_to_Blockchain_&_Ethereum.pptx))
@@ -55,39 +55,39 @@ TBD
 ### August 5, 2017
 * Kalman Filter (Zaur, [presentation](presentations/kalman.pdf))
   * [C++ implementation](https://github.com/hmartiro/kalman-cpp)
-* Recurrent Neural Networks ([Martin](members/martin.html), [presentation](presentations/RecurrentNeuralNetwork_20170805.pdf)/[github](https://github.com/martinkersner/rnn-meetup)) 
-  * Sum Two Binary Numbers Using RNN ([Martin](members/martin.html), [Jupyter Notebook](https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb))
+* Recurrent Neural Networks ([Martin](members/martin), [presentation](presentations/RecurrentNeuralNetwork_20170805.pdf)/[github](https://github.com/martinkersner/rnn-meetup)) 
+  * Sum Two Binary Numbers Using RNN ([Martin](members/martin), [Jupyter Notebook](https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb))
 
 ### July 22, 2017
 *  Bayesian Classification in Computer Vision (Dae-Yong, [presentation](presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf))
-* k-Means ([Martin](members/martin.html), [presentation](presentations/k-Means_20170722.pdf)/[github](https://github.com/martinkersner/kmeans-meetup))
-  * Common Lisp ([Martin](members/martin.html), [source](https://github.com/martinkersner/cl-ml/tree/master/k-means))
-  * Python ([Martin](members/martin.html), [source](https://gist.github.com/martinkersner/6415e7306925bd0918cfba42e9754116))
+* k-Means ([Martin](members/martin), [presentation](presentations/k-Means_20170722.pdf)/[github](https://github.com/martinkersner/kmeans-meetup))
+  * Common Lisp ([Martin](members/martin), [source](https://github.com/martinkersner/cl-ml/tree/master/k-means))
+  * Python ([Martin](members/martin), [source](https://gist.github.com/martinkersner/6415e7306925bd0918cfba42e9754116))
 
 ### July 8, 2017
 * Automatic Viewpoint Selection on 360° Videos (Dae-Yong, [presentation](presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf))
-* Autoencoders ([Martin](members/martin.html), [presentation](presentations/Autoencoders_20170708.pdf)/[github](https://github.com/martinkersner/autoencoder-meetup))
+* Autoencoders ([Martin](members/martin), [presentation](presentations/Autoencoders_20170708.pdf)/[github](https://github.com/martinkersner/autoencoder-meetup))
 
 ### June 25, 2017
 * Introduction to Quantum Computing ([adelshb](https://github.com/adelshb), [presentation](presentations/Introduction_to_Quantum_Computing.pdf))
 * Probability basics ([Cinyoung](https://github.com/hurcy), [jupyter notebook](https://github.com/hurcy/ThinkBayes/blob/master/notebooks/02_Computational_Statistics.ipynb))
-* Artificial Neural Networks ([Martin](members/martin.html), [github](https://github.com/martinkersner/ann-meetup))
-  * Common Lisp ([Martin](members/martin.html), [source](https://github.com/martinkersner/cl-ml/tree/master/ann))
+* Artificial Neural Networks ([Martin](members/martin), [github](https://github.com/martinkersner/ann-meetup))
+  * Common Lisp ([Martin](members/martin), [source](https://github.com/martinkersner/cl-ml/tree/master/ann))
 
 ### June 10, 2017
 * Spark introduction ([HwangJohn](https://github.com/HwangJohn), [presentation](presentations/ApacheSparkIntroduction.pdf))
 * Practice - Topic Modeling ([Cinyoung](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
-* Multinomial Naive Bayes Classifier ([Martin](members/martin.html), [presentation](presentations/Naive_Bayes_Classifier_20170610.pdf))
+* Multinomial Naive Bayes Classifier ([Martin](members/martin), [presentation](presentations/Naive_Bayes_Classifier_20170610.pdf))
   * Java ([HwangJohn](https://github.com/HwangJohn), [source](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/tree/master/algorithms/naive-bayes-classifier/JohnHwang))
-  * Common Lisp ([Martin](members/martin.html), [source](https://github.com/martinkersner/cl-ml/tree/master/naive-bayes-classifier))
+  * Common Lisp ([Martin](members/martin), [source](https://github.com/martinkersner/cl-ml/tree/master/naive-bayes-classifier))
 
 ### May 27, 2017
-* T-Rex Runner ([Martin](members/martin.html), [presentation](presentations/T-Rex_Runner_II.pdf))
+* T-Rex Runner ([Martin](members/martin), [presentation](presentations/T-Rex_Runner_II.pdf))
   * Reinforcement Learning, Deep Q Learning, ConvnetJS, Dead Network, NaN Weights
 * Hand Sign Recognition Using Hidden Markov Models ([Cinyoung](https://github.com/hurcy))
 
 ### May 13, 2017
-* T-Rex Runner ([Martin](members/martin.html), [presentation](presentations/T-Rex_Runner_I.pdf))
+* T-Rex Runner ([Martin](members/martin), [presentation](presentations/T-Rex_Runner_I.pdf))
   * Genetic Algorithm, Reinforcement Learning, Neural Networks
 * Presentation of The Expression of Emotions in 20th Century Books ([adelshb](https://github.com/adelshb), [paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059030))
     * Emotions, Fear, Language Behavior, Culture, Statistical data, Cultural evolution
@@ -96,7 +96,7 @@ TBD
 ### April 30, 2017
 * Sudoku solver ([Cinyoung](https://github.com/hurcy), [presentation](https://docs.google.com/presentation/d/1kmI2ChNoh1orQFEje2nuR00gKdxOEEEQ32diI2t1nQg/edit#slide=id.p))
   * Constraing Propagation, Search, Elimination, Naked Twins 
-* Image Segmentation Using Genetic Algorithm ([Martin](members/martin.html), [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm))
+* Image Segmentation Using Genetic Algorithm ([Martin](members/martin), [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm))
     * Problem Encoding, Evaluation Of Fitness, Selection, Crossover, Mutation, Algorithm Evaluation
 
 ### April 2, 2017
