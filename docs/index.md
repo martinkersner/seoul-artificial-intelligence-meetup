@@ -28,9 +28,9 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ### Program
 02:00 - 02:10 Networking
 
-02:10 - 03:00 Bitcoin Price Prediction (Cinyoung)
+02:10 - 03:00 Object Detection - part 1 (Dae-Yong)
 
-03:00 - 04:00 Object Detection - part 1 (Dae-Yong)
+03:00 - 04:00 Trading Bitcoin and Online Time Series Prediction (Adel)
 
 ### Price
 <!-- TBD -->
