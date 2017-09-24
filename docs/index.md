@@ -8,10 +8,11 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ### When
 Saturday, September 30, 2017
 
-10:00 AM to 12:00 PM
+02:00 PM to 04:00 PM
+<!-- 10:00 AM to 12:00 PM -->
 
 ### Where
-TBD
+<!-- TBD -->
 <!--
 Songpa Makerspace, 2nd floor
 -->
@@ -22,21 +23,19 @@ Songpa Makerspace, 2nd floor
 [http://songpamakers.com/](http://songpamakers.com/)
 -->
 
-<!--
-서울특별시 강남구 역삼동 789-4, 서울 ( [map](https://www.google.com/maps/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+789-4,+%EC%84%9C%EC%9A%B8/@37.4972562,127.0363414,16z/data=!3m1!4b1))
--->
+Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.google.com/maps/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+789-4,+%EC%84%9C%EC%9A%B8/@37.4972562,127.0363414,16z/data=!3m1!4b1))
 
 ### Program
-10:00 - 10:10 Networking
+02:00 - 02:10 Networking
 
-10:10 - 11:00 Bitcoin Price Prediction (Cinyoung)
+02:10 - 03:00 Bitcoin Price Prediction (Cinyoung)
 
-11:00 - 12:00 Object Detection - part 1 (Dae-Yong)
+03:00 - 04:00 Object Detection - part 1 (Dae-Yong)
 
 ### Price
-TBD
+<!-- TBD -->
 <!-- FREE -->
-<!-- KRW 5,000 -->
+KRW 5,000
 
 
 ## Previous Meetups
