@@ -2,6 +2,7 @@
 
 # {{ member.fullname }}
 
+{% if member.email %}* <{{ member.email }}> {% endif %}
 {% if member.linkedin %}* [LinkedIn](https://www.linkedin.com/in/{{ member.linkedin }}){% endif %}
 {% if member.github %}* [GitHub](https://www.github.com/{{ member.github }}){% endif %}
 {% if member.gitlab %}* [https://www.gitlab.com/{{ member.github }}](GitLab) {% endif %}

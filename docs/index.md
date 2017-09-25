@@ -28,7 +28,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ### Program
 02:00 - 02:10 Networking
 
-02:10 - 03:00 Object Detection - part 1 (Dae-Yong)
+02:10 - 03:00 Object Detection - part 1 ([Dae-Yong](members/daeyong))
 
 03:00 - 04:00 Trading Bitcoin and Online Time Series Prediction (Adel)
 
@@ -58,13 +58,13 @@ KRW 5,000
   * Sum Two Binary Numbers Using RNN ([Martin](members/martin), [Jupyter Notebook](https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb))
 
 ### July 22, 2017
-*  Bayesian Classification in Computer Vision (Dae-Yong, [presentation](presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf))
+*  Bayesian Classification in Computer Vision ([Dae-Yong](members/daeyong), [presentation](presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf))
 * k-Means ([Martin](members/martin), [presentation](presentations/k-Means_20170722.pdf)/[github](https://github.com/martinkersner/kmeans-meetup))
   * Common Lisp ([Martin](members/martin), [source](https://github.com/martinkersner/cl-ml/tree/master/k-means))
   * Python ([Martin](members/martin), [source](https://gist.github.com/martinkersner/6415e7306925bd0918cfba42e9754116))
 
 ### July 8, 2017
-* Automatic Viewpoint Selection on 360° Videos (Dae-Yong, [presentation](presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf))
+* Automatic Viewpoint Selection on 360° Videos ([Dae-Yong](members/daeyong), [presentation](presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf))
 * Autoencoders ([Martin](members/martin), [presentation](presentations/Autoencoders_20170708.pdf)/[github](https://github.com/martinkersner/autoencoder-meetup))
 
 ### June 25, 2017

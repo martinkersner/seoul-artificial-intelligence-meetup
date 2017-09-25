@@ -69,3 +69,28 @@ martin:
       pdf:
       ppt:
       github: https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm
+
+daeyong:
+  fullname: Dae-Yong
+  github:
+  gitlab:
+  linkedin:
+  email: romanity2014@gmail.com 
+  bio: Dae-Yong is mainly interested in Object Detection and Semantic Segmentation in Computer Vision and Artificial Intelligence. Currently, he is working on part of Advanced Driving Assistant System and Autonomous Driving System.
+  presentations:
+    - date: July 22, 2017
+      title: Bayesian Classification in Computer Vision 
+      pdf: ../presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf
+      ppt:
+      github: 
+      cl: 
+      py: 
+      pynb: 
+    - date: July 8, 2017
+      title: Automatic Viewpoint Selection on 360° Videos  
+      pdf: ../presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf
+      ppt:
+      github: 
+      cl: 
+      py: 
+      pynb: 
