@@ -29,9 +29,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 TBD
 <!--
 02:00 - 02:10 Networking
-
+-->
+<!--
 02:10 - 03:00 Object Detection - part 1 ([Dae-Yong](members/daeyong))
-
+-->
+<!--
 03:00 - 04:00 Trading Bitcoin and Online Time Series Prediction (Adel)
 -->
 ### Price
@@ -45,6 +47,7 @@ TBD
 * Object Detection - part 1 ([Dae-Yong](members/daeyong), [presentation](presentations/%5B20170930%5D%20ObjectDetectionInComputerVision_Part1.pdf))
 * Trading Bitcoin and Online Time Series Prediction (Adel, [presentation](presentations/Trading_Bitcoin_and_Online_Time_Series_Prediction.pdf
 ))
+
 ### September 16, 2017
 * Bayesian Regression ([Cinyoung](https://github.com/hurcy), [presentation](presentations/BayesianRegressionBitcoin_20170916.pdf))
 * Meta Learning ([Martin](members/martin), [presentation](presentations/MetaLearning_20170916.pdf)/[github](https://github.com/martinkersner/meta-learning-meetup))
