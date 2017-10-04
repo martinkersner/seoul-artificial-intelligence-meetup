@@ -78,6 +78,14 @@ daeyong:
   email: romanity2014@gmail.com 
   bio: Dae-Yong is mainly interested in Object Detection and Semantic Segmentation in Computer Vision and Artificial Intelligence. Currently, he is working on part of Advanced Driving Assistant System and Autonomous Driving System.
   presentations:
+      - date: September 30, 2017
+      title: Object Detection - part 1
+      pdf: ../presentations/%5B20170930%5D%20ObjectDetectionInComputerVision_Part1.pdf
+      ppt:
+      github: 
+      cl: 
+      py: 
+      pynb:
     - date: July 22, 2017
       title: Bayesian Classification in Computer Vision 
       pdf: ../presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf
