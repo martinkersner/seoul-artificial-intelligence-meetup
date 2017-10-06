@@ -11,37 +11,38 @@ Saturday, October 14, 2017
 02:00 PM to 04:00 PM
 <!-- 10:00 AM to 12:00 PM -->
 
+### Program
+<!--TBD-->
+02:00 - 02:15 Networking
+
+02:15 - 03:00 Object Detection - part 2 ([Dae-Yong](members/daeyong))
+
+03:00 - 04:00 TBD (Cinyoung)
+
+### Price
+<!--TBD-->
+FREE 
+<!-- KRW 5,000 -->
+
 ### Where
-TBD
-<!--
+<!--TBD-->
 Songpa Makerspace, 2nd floor
--->
-<!--
-[서울 송파구 문정동 11-12 선빌딩 2층](http://naver.me/xsrO8rkg)
--->
-<!--
+
+[서울 송파구 문정동 11-12 선빌딩 2층](https://www.google.co.kr/maps/place/11-12+Munjeong+1(il)-dong,+Songpa-gu,+Seoul/@37.4892478,127.1256735,17z/data=!3m1!4b1!4m5!3m4!1s0x357caf6225578839:0x15045516ce9d743c!8m2!3d37.4892478!4d127.1278622?hl=en)
+
 [http://songpamakers.com/](http://songpamakers.com/)
--->
+
+<center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.791437375784!2d127.12567351487975!3d37.4892477798125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357caf6225578839%3A0x15045516ce9d743c!2s11-12+Munjeong+1(il)-dong%2C+Songpa-gu%2C+Seoul!5e0!3m2!1sen!2skr!4v1507279171955" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.791437375784!2d127.12567351487975!3d37.4892477798125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357caf6225578839%3A0x15045516ce9d743c!2s11-12+Munjeong+1(il)-dong%2C+Songpa-gu%2C+Seoul!5e0!3m2!1sen!2skr!4v1507279171955" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+</center>
+
 <!--
 Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.google.com/maps/search/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EB%82%A8%EA%B5%AC+%EC%97%AD%EC%82%BC%EB%8F%99+789-4,+%EC%84%9C%EC%9A%B8/@37.4972562,127.0363414,16z/data=!3m1!4b1))
 -->
-### Program
-TBD
-<!--
-02:00 - 02:10 Networking
--->
-<!--
-02:10 - 03:00 Object Detection - part 1 ([Dae-Yong](members/daeyong))
--->
-<!--
-03:00 - 04:00 Trading Bitcoin and Online Time Series Prediction (Adel)
--->
-### Price
-TBD
-<!-- FREE -->
-<!-- KRW 5,000 -->
 
 
+<br/>
 ## Previous Meetups
 ### September 30, 2017
 * Object Detection - part 1 ([Dae-Yong](members/daeyong), [presentation](presentations/%5B20170930%5D%20ObjectDetectionInComputerVision_Part1.pdf))
@@ -103,7 +104,7 @@ TBD
 
 ### April 30, 2017
 * Sudoku solver ([Cinyoung](https://github.com/hurcy), [presentation](https://docs.google.com/presentation/d/1kmI2ChNoh1orQFEje2nuR00gKdxOEEEQ32diI2t1nQg/edit#slide=id.p))
-  * Constraing Propagation, Search, Elimination, Naked Twins 
+  * Constraint Propagation, Search, Elimination, Naked Twins 
 * Image Segmentation Using Genetic Algorithm ([Martin](members/martin), [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm))
     * Problem Encoding, Evaluation Of Fitness, Selection, Crossover, Mutation, Algorithm Evaluation
 
