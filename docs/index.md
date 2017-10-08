@@ -15,9 +15,9 @@ Saturday, October 14, 2017
 <!--TBD-->
 02:00 - 02:15 Networking
 
-02:15 - 03:00 Object Detection - part 2 ([Dae-Yong](members/daeyong))
+02:15 - 02:50 Object Detection - part 2 ([Dae-Yong](members/daeyong))
 
-03:00 - 03:30 Kaggle - Personalized Medicine ([Cinyoung](members/cinyoung))
+02:50 - 03:30 Kaggle - Personalized Medicine ([Cinyoung](members/cinyoung))
 
 03:30 - 04:00 AI & Experience with Face Recognition (Alyn)
 
