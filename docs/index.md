@@ -19,7 +19,7 @@ Saturday, October 14, 2017
 
 03:00 - 03:30 Kaggle - Personalized Medicine ([Cinyoung](members/cinyoung))
 
-03:30 - 04:00 AI & Experience with Face Recognition (Ayln)
+03:30 - 04:00 AI & Experience with Face Recognition (Alyn)
 
 ### Price
 <!--TBD-->
