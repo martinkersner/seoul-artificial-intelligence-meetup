@@ -17,7 +17,9 @@ Saturday, October 14, 2017
 
 02:15 - 03:00 Object Detection - part 2 ([Dae-Yong](members/daeyong))
 
-03:00 - 04:00 TBD (Cinyoung)
+03:00 - 03:30 Kaggle - Personalized Medicine ([Cinyoung](members/cinyoung))
+
+03:30 - 04:00 AI & Experience with Face Recognition (Ayln)
 
 ### Price
 <!--TBD-->
