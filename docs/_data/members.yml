@@ -111,23 +111,23 @@ cinyoung:
   email: cinyoung.hur@gmail.com
   bio: Medical data engineer, currently working at Linewalks,Inc. 
   presentations:
-    - date: September 16, 2017
-      title: Bayesain regressions 
-      pdf: https://github.com/hurcy/bayesreg/blob/master/BayesianRegressionBitcoin.pdf 
-      ppt:
-      github: https://github.com/hurcy/bayesreg
-      cl: 
-      py: 
-      pynb: 
-
     - date: October 14, 2017
-      title: Personalized Medicine: Redefining Cancer Treatment 
+      title: Personalized Medicine&#58; Redefining Cancer Treatment 
       pdf: 
       ppt:
       github: 
       cl: 
       py: 
       pynb:
+
+    - date: September 16, 2017
+      title: Bayesian regressions 
+      pdf: ../presentations/BayesianRegressionBitcoin_20170916.pdf
+      ppt:
+      github: https://github.com/hurcy/bayesreg
+      cl: 
+      py: 
+      pynb: 
       
     - date: July 8, 2017
       title: Probability basics - Part 2

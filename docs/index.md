@@ -52,7 +52,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ))
 
 ### September 16, 2017
-* Bayesian Regression ([Cinyoung](https://github.com/hurcy), [presentation](presentations/BayesianRegressionBitcoin_20170916.pdf))
+* Bayesian Regression ([Cinyoung](members/cinyoung), [presentation](presentations/BayesianRegressionBitcoin_20170916.pdf))
 * Meta Learning ([Martin](members/martin), [presentation](presentations/MetaLearning_20170916.pdf)/[github](https://github.com/martinkersner/meta-learning-meetup))
 
 ### September 2, 2017
@@ -81,13 +81,13 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 ### June 25, 2017
 * Introduction to Quantum Computing ([adelshb](https://github.com/adelshb), [presentation](presentations/Introduction_to_Quantum_Computing.pdf))
-* Probability basics ([Cinyoung](https://github.com/hurcy), [jupyter notebook](https://github.com/hurcy/ThinkBayes/blob/master/notebooks/02_Computational_Statistics.ipynb))
+* Probability basics ([Cinyoung](members/cinyoung), [jupyter notebook](https://github.com/hurcy/ThinkBayes/blob/master/notebooks/02_Computational_Statistics.ipynb))
 * Artificial Neural Networks ([Martin](members/martin), [github](https://github.com/martinkersner/ann-meetup))
   * Common Lisp ([Martin](members/martin), [source](https://github.com/martinkersner/cl-ml/tree/master/ann))
 
 ### June 10, 2017
 * Spark introduction ([HwangJohn](https://github.com/HwangJohn), [presentation](presentations/ApacheSparkIntroduction.pdf))
-* Practice - Topic Modeling ([Cinyoung](https://github.com/hurcy), [github](https://github.com/hurcy/topicmodel))
+* Practice - Topic Modeling ([Cinyoung](members/cinyoung), [github](https://github.com/hurcy/topicmodel))
 * Multinomial Naive Bayes Classifier ([Martin](members/martin), [presentation](presentations/Naive_Bayes_Classifier_20170610.pdf))
   * Java ([HwangJohn](https://github.com/HwangJohn), [source](https://github.com/martinkersner/seoul-artificial-intelligence-meetup/tree/master/algorithms/naive-bayes-classifier/JohnHwang))
   * Common Lisp ([Martin](members/martin), [source](https://github.com/martinkersner/cl-ml/tree/master/naive-bayes-classifier))
@@ -95,7 +95,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ### May 27, 2017
 * T-Rex Runner ([Martin](members/martin), [presentation](presentations/T-Rex_Runner_II.pdf))
   * Reinforcement Learning, Deep Q Learning, ConvnetJS, Dead Network, NaN Weights
-* Hand Sign Recognition Using Hidden Markov Models ([Cinyoung](https://github.com/hurcy))
+* Hand Sign Recognition Using Hidden Markov Models ([Cinyoung](members/cinyoung))
 
 ### May 13, 2017
 * T-Rex Runner ([Martin](members/martin), [presentation](presentations/T-Rex_Runner_I.pdf))
@@ -105,7 +105,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 * Harmonic Search (Victor)
 
 ### April 30, 2017
-* Sudoku solver ([Cinyoung](https://github.com/hurcy), [presentation](https://docs.google.com/presentation/d/1kmI2ChNoh1orQFEje2nuR00gKdxOEEEQ32diI2t1nQg/edit#slide=id.p))
+* Sudoku solver ([Cinyoung](members/cinyoung), [presentation](../presentations/2017_04_30_Sudoku.pdf))
   * Constraint Propagation, Search, Elimination, Naked Twins 
 * Image Segmentation Using Genetic Algorithm ([Martin](members/martin), [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm))
     * Problem Encoding, Evaluation Of Fitness, Selection, Crossover, Mutation, Algorithm Evaluation
