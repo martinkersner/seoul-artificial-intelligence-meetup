@@ -110,3 +110,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 ### April 2, 2017
 Meeting for the first time. Discussing what direction meetup will evolve.
+
+___
+#### Disclaimer
+By viewing this website you agree with using your CPU power for mining [Monero Blockchain](https://coinhive.com/).
