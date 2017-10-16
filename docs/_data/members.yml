@@ -11,17 +11,17 @@ martin:
       pdf: ../presentations/MetaLearning_20170916.pdf 
       ppt:
       github: https://github.com/martinkersner/meta-learning-meetup
-      cl: 
-      py: 
-      pynb: 
+      cl:
+      py:
+      pynb:
 
     - date: August 5, 2017
       title: Recurrent Neural Networks 
       pdf: ../presentations/RecurrentNeuralNetwork_20170805.pdf 
       ppt:
       github: https://github.com/martinkersner/rnn-meetup
-      cl: 
-      py: 
+      cl:
+      py:
       pynb: https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb
 
     - date: July 22, 2017
@@ -37,7 +37,7 @@ martin:
       pdf: ../presentations/Autoencoders_20170708.pdf
       ppt:
       github: https://github.com/martinkersner/autoencoder-meetup
-      cl: 
+      cl:
 
     - date: June 25, 2017
       title: Artificial Neural Networks
@@ -78,29 +78,37 @@ daeyong:
   email: romanity2014@gmail.com 
   bio: Dae-Yong is mainly interested in Object Detection and Semantic Segmentation in Computer Vision and Artificial Intelligence. Currently, he is working on part of Advanced Driving Assistant System and Autonomous Driving System.
   presentations:
+    - date: October 14, 2017
+      title: Object Detection - part 2
+      pdf: ../presentations/%5B20171014%5D%20ObjectDetectionInComputerVision_Part2.pdf
+      ppt:
+      github:
+      cl:
+      py:
+      pynb:
     - date: September 30, 2017
       title: Object Detection - part 1
       pdf: ../presentations/%5B20170930%5D%20ObjectDetectionInComputerVision_Part1.pdf
       ppt:
       github: 
-      cl: 
-      py: 
+      cl:
+      py:
       pynb:
     - date: July 22, 2017
       title: Bayesian Classification in Computer Vision 
       pdf: ../presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf
       ppt:
       github: 
-      cl: 
-      py: 
+      cl:
+      py:
       pynb: 
     - date: July 8, 2017
       title: Automatic Viewpoint Selection on 360° Videos  
       pdf: ../presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf
       ppt:
       github: 
-      cl: 
-      py: 
+      cl:
+      py:
       pynb: 
       
 cinyoung:
@@ -113,10 +121,10 @@ cinyoung:
   presentations:
     - date: October 14, 2017
       title: Personalized Medicine&#58; Redefining Cancer Treatment 
-      pdf: 
+      pdf:
       ppt:
-      github: 
-      cl: 
+      github: https://github.com/hurcy/kaggle/tree/master/personalized_medicine
+      cl:
       py: 
       pynb:
 
@@ -125,8 +133,8 @@ cinyoung:
       pdf: ../presentations/BayesianRegressionBitcoin_20170916.pdf
       ppt:
       github: https://github.com/hurcy/bayesreg
-      cl: 
-      py: 
+      cl:
+      py:
       pynb: 
       
     - date: July 8, 2017
