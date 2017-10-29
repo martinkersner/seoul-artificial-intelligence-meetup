@@ -53,7 +53,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ## Previous Meetups
 ### October 28, 2017
 * Kaggle - Personalized Medicine (part 2) ([Cinyoung](members/cinyoung), [github](https://github.com/hurcy/kaggle/tree/master/personalized_medicine))
-* Linear Regression (part 1) - Ordinary Least Squares ([Martin](members/martin), [presentation](presentations/LinearRegression_1.pdf)/[Jupyter Notebook](https://github.com/martinkersner/regression-meetup/blob/master/OrdinaryLeastSquares.ipynb))
+* Linear Regression (part 1) - Ordinary Least Squares ([Martin](members/martin), [presentation](presentations/Linear_Regression_1.pdf)/[Jupyter Notebook](https://github.com/martinkersner/regression-meetup/blob/master/OrdinaryLeastSquares.ipynb))
 
 ### October 14, 2017
 * Object Detection - part 2 ([Dae-Yong](members/daeyong), [presentation](presentations/%5B20171014%5D%20ObjectDetectionInComputerVision_Part2.pdf))
