@@ -6,24 +6,24 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 
 ## Upcoming Meetup
 ### When
-Saturday, October 28, 2017
+Saturday, November 11, 2017
 
 02:00 PM to 04:00 PM
 <!-- 10:00 AM to 12:00 PM -->
 
 ### Program
-<!--TBD-->
+TBD
 
-02:00 - 02:15 Networking
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 03:00 Kaggle - Personalized Medicine (part 2) ([Cinyoung](members/cinyoung))
+<!--02:15 - 03:00 Kaggle - Personalized Medicine (part 2) ([Cinyoung](members/cinyoung))-->
 
-03:00 - 04:00 Linear Regression (part 1) - Ordinary Least Squares ([Martin](members/martin))
+<!--03:00 - 04:00 Linear Regression (part 1) - Ordinary Least Squares ([Martin](members/martin))-->
 
 
 ### Price
-FREE
-<!--TBD-->
+<!--FREE-->
+TBD
 <!-- KRW 5,000 -->
 
 ### Where
@@ -51,9 +51,13 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+### October 28, 2017
+* Kaggle - Personalized Medicine (part 2) ([Cinyoung](members/cinyoung), [github](https://github.com/hurcy/kaggle/tree/master/personalized_medicine))
+* Linear Regression (part 1) - Ordinary Least Squares ([Martin](members/martin), [presentation](presentations/LinearRegression_1.pdf)/[Jupyter Notebook](https://github.com/martinkersner/regression-meetup/blob/master/OrdinaryLeastSquares.ipynb))
+
 ### October 14, 2017
 * Object Detection - part 2 ([Dae-Yong](members/daeyong), [presentation](presentations/%5B20171014%5D%20ObjectDetectionInComputerVision_Part2.pdf))
-* Kaggle - Personalized Medicine ([Cinyoung](members/cinyoung), [github](https://github.com/hurcy/kaggle/tree/master/personalized_medicine))
+* Kaggle - Personalized Medicine (part 1) ([Cinyoung](members/cinyoung), [github](https://github.com/hurcy/kaggle/tree/master/personalized_medicine))
 
 ### September 30, 2017
 * Object Detection - part 1 ([Dae-Yong](members/daeyong), [presentation](presentations/%5B20170930%5D%20ObjectDetectionInComputerVision_Part1.pdf))
