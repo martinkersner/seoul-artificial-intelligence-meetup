@@ -8,7 +8,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ### When
 Saturday, November 11, 2017
 
-02:00 PM to 04:00 PM
+<!--02:00 PM to 04:00 PM-->
 <!-- 10:00 AM to 12:00 PM -->
 
 ### Program
@@ -27,13 +27,15 @@ TBD
 <!-- KRW 5,000 -->
 
 ### Where
-[서울시 서초구 서초대로78길 5, 대각빌딩 14층 Seoul](https://www.google.com/maps/place/%EB%8C%80%EA%B0%81%EB%B9%8C%EB%94%A9/@37.4972664,127.0273556,17z/data=!3m1!4b1!4m5!3m4!1s0x357ca15a2f9719ab:0x20210a76b2b256f7!8m2!3d37.4972664!4d127.0273556)
-
-<center>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.4515690893822!2d127.02735559999999!3d37.4972664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca15a2f9719ab%3A0x20210a76b2b256f7!2z64yA6rCB67mM65Sp!5e0!3m2!1sen!2s!4v1508801167955" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</center>
-
 <!-- TBD -->
+
+<!--Hyperconnect-->
+<!--[서울시 서초구 서초대로78길 5, 대각빌딩 14층 Seoul](https://www.google.com/maps/place/%EB%8C%80%EA%B0%81%EB%B9%8C%EB%94%A9/@37.4972664,127.0273556,17z/data=!3m1!4b1!4m5!3m4!1s0x357ca15a2f9719ab:0x20210a76b2b256f7!8m2!3d37.4972664!4d127.0273556)-->
+
+<!--<center>-->
+<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.4515690893822!2d127.02735559999999!3d37.4972664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca15a2f9719ab%3A0x20210a76b2b256f7!2z64yA6rCB67mM65Sp!5e0!3m2!1sen!2s!4v1508801167955" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+<!--</center>-->
+
 <!--Songpa Makerspace, 2nd floor-->
 
 <!--[서울 송파구 문정동 11-12 선빌딩 2층](https://www.google.co.kr/maps/place/11-12+Munjeong+1(il)-dong,+Songpa-gu,+Seoul/@37.4892478,127.1256735,17z/data=!3m1!4b1!4m5!3m4!1s0x357caf6225578839:0x15045516ce9d743c!8m2!3d37.4892478!4d127.1278622?hl=en)-->
