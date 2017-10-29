@@ -4,11 +4,19 @@ martin:
   gitlab:
   linkedin: martinkersner
   email: m.kersner@gmail.com
-  bio: Martin is aspiring researcher with a passion for Machine Learning, Computer Vision and Artificial Intelligence. Currently primary focus on solving Computer Vision tasks, mainly Object Detection and Semantic Image Segmentation, using Deep Neural Networks. Has worked both in a team and as an individual. Implemented Machine Learning and Computer Vision solutions from scratch and also maintained existing code bases.
+  bio: Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
   presentations:
+    - date: October 28, 2017
+      title: Ordinary Least Squares
+      pdf: ../presentations/Linear_Regression_1.pdf
+      ppt:
+      github:
+      cl:
+      py:
+      pynb: https://github.com/martinkersner/regression-meetup/blob/master/OrdinaryLeastSquares.ipynb
     - date: September 16, 2017
-      title: Meta Learning 
-      pdf: ../presentations/MetaLearning_20170916.pdf 
+      title: Meta Learning
+      pdf: ../presentations/MetaLearning_20170916.pdf
       ppt:
       github: https://github.com/martinkersner/meta-learning-meetup
       cl:
@@ -16,8 +24,8 @@ martin:
       pynb:
 
     - date: August 5, 2017
-      title: Recurrent Neural Networks 
-      pdf: ../presentations/RecurrentNeuralNetwork_20170805.pdf 
+      title: Recurrent Neural Networks
+      pdf: ../presentations/RecurrentNeuralNetwork_20170805.pdf
       ppt:
       github: https://github.com/martinkersner/rnn-meetup
       cl:
@@ -25,7 +33,7 @@ martin:
       pynb: https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb
 
     - date: July 22, 2017
-      title: k-Means 
+      title: k-Means
       pdf: ../presentations/k-Means_20170722.pdf
       ppt:
       github: https://github.com/martinkersner/kmeans-meetup
@@ -33,7 +41,7 @@ martin:
       py: https://gist.github.com/martinkersner/6415e7306925bd0918cfba42e9754116
 
     - date: July 8, 2017
-      title: Autoencoders 
+      title: Autoencoders
       pdf: ../presentations/Autoencoders_20170708.pdf
       ppt:
       github: https://github.com/martinkersner/autoencoder-meetup
@@ -43,8 +51,8 @@ martin:
       title: Artificial Neural Networks
       pdf:
       ppt:
-      github: https://github.com/martinkersner/ann-meetup 
-      cl: https://github.com/martinkersner/cl-ml/tree/master/ann 
+      github: https://github.com/martinkersner/ann-meetup
+      cl: https://github.com/martinkersner/cl-ml/tree/master/ann
 
     - date: June 10, 2017
       title: Multinomial Naive Bayes Classifier
@@ -75,7 +83,7 @@ daeyong:
   github:
   gitlab:
   linkedin:
-  email: romanity2014@gmail.com 
+  email: romanity2014@gmail.com
   bio: Dae-Yong is mainly interested in Object Detection and Semantic Segmentation in Computer Vision and Artificial Intelligence. Currently, he is working on part of Advanced Driving Assistant System and Autonomous Driving System.
   presentations:
     - date: October 14, 2017
@@ -90,58 +98,54 @@ daeyong:
       title: Object Detection - part 1
       pdf: ../presentations/%5B20170930%5D%20ObjectDetectionInComputerVision_Part1.pdf
       ppt:
-      github: 
+      github:
       cl:
       py:
       pynb:
     - date: July 22, 2017
-      title: Bayesian Classification in Computer Vision 
+      title: Bayesian Classification in Computer Vision
       pdf: ../presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf
       ppt:
-      github: 
+      github:
       cl:
       py:
-      pynb: 
+      pynb:
     - date: July 8, 2017
-      title: Automatic Viewpoint Selection on 360° Videos  
+      title: Automatic Viewpoint Selection on 360° Videos
       pdf: ../presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf
       ppt:
-      github: 
+      github:
       cl:
       py:
-      pynb: 
-      
+      pynb:
 cinyoung:
   fullname: Cinyoung Hur
   github: hurcy
   gitlab: hurcy
   linkedin: cinyounghur
   email: cinyoung.hur@gmail.com
-  bio: Medical data engineer, currently working at Linewalks,Inc. 
+  bio: Medical data engineer, currently working at Linewalks,Inc.
   presentations:
     - date: October 14, 2017
-      title: Personalized Medicine&#58; Redefining Cancer Treatment 
+      title: Personalized Medicine&#58; Redefining Cancer Treatment
       pdf:
       ppt:
       github: https://github.com/hurcy/kaggle/tree/master/personalized_medicine
       cl:
-      py: 
+      py:
       pynb:
 
     - date: September 16, 2017
-      title: Bayesian regressions 
+      title: Bayesian regressions
       pdf: ../presentations/BayesianRegressionBitcoin_20170916.pdf
       ppt:
       github: https://github.com/hurcy/bayesreg
       cl:
       py:
-      pynb: 
-      
+      pynb:
     - date: July 8, 2017
       title: Probability basics - Part 2
-      
     - date: June 25, 2017
       title: Probability basics
-      
     - date: June 10, 2017
-      title: Topic modeling 
+      title: Topic modeling
