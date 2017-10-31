@@ -8,22 +8,22 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ### When
 Saturday, November 11, 2017
 
-<!--02:00 PM to 04:00 PM-->
+02:00 PM to 04:00 PM
 <!-- 10:00 AM to 12:00 PM -->
 
 ### Program
 TBD
 
-<!--02:00 - 02:15 Networking-->
+02:00 - 02:15 Networking
 
-<!--02:15 - 03:00 Kaggle - Personalized Medicine (part 2) ([Cinyoung](members/cinyoung))-->
+02:15 - 03:00 Introduction To Cryptocurrency Ecosystem (Raj)
 
-<!--03:00 - 04:00 Linear Regression (part 1) - Ordinary Least Squares ([Martin](members/martin))-->
+03:00 - 04:00 Linear Regression (part 2) ([Martin](members/martin))
 
 
 ### Price
-<!--FREE-->
-TBD
+FREE
+<!--TBD-->
 <!-- KRW 5,000 -->
 
 ### Where
