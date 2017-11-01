@@ -31,7 +31,7 @@ FREE
 ### Where
 <!--TBD-->
 
-[Hyperconnect](hpcnt.com)
+[Hyperconnect](www.hpcnt.com)
 
 [서울시 서초구 서초대로78길 5, 대각빌딩 14층 Seoul](https://www.google.com/maps/place/%EB%8C%80%EA%B0%81%EB%B9%8C%EB%94%A9/@37.4972664,127.0273556,17z/data=!3m1!4b1!4m5!3m4!1s0x357ca15a2f9719ab:0x20210a76b2b256f7!8m2!3d37.4972664!4d127.0273556)
 
