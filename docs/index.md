@@ -16,7 +16,7 @@ Saturday, November 11, 2017
 
 02:00 - 02:15 Networking
 
-02:15 - 02:30 NALBI (https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...
+02:15 - 02:30 [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...
 
 02:30 - 03:00 Introduction To Cryptocurrency Ecosystem (Raj)
 
