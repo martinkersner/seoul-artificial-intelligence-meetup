@@ -3,10 +3,11 @@
 # {{ member.fullname }}
 
 {% if member.email %}* <{{ member.email }}> {% endif %}
-{% if member.linkedin %}* [LinkedIn](https://www.linkedin.com/in/{{ member.linkedin }}){% endif %}
+{% if member.rajweb %}* [INF Trading]({{member.rajweb}})
+{% else %}{% if member.linkedin %}* [LinkedIn](https://www.linkedin.com/in/{{ member.linkedin }}){% endif %}
 {% if member.github %}* [GitHub](https://www.github.com/{{ member.github }}){% endif %}
 {% if member.gitlab %}* [GitLab](https://www.gitlab.com/{{ member.github }}) {% endif %}
-{% if member.rajweb %}* [INF Trading](member.rajweb) {% endif %}
+{% endif %}
 
 {% if member.bio %} {{ member.bio }} {% endif %}
 

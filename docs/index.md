@@ -18,7 +18,7 @@ Saturday, November 11, 2017
 
 02:15 - 02:30 [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...
 
-02:30 - 03:00 Introduction To Cryptocurrency Ecosystem (Raj)
+02:30 - 03:00 Introduction To Cryptocurrency Ecosystem ([Raj](members/raj))
 
 03:00 - 04:00 Linear Regression (part 2) ([Martin](members/martin))
 
@@ -74,7 +74,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 * Meta Learning ([Martin](members/martin), [presentation](presentations/MetaLearning_20170916.pdf)/[github](https://github.com/martinkersner/meta-learning-meetup))
 
 ### September 2, 2017
-* Introduction to Blockchain & Ethereum (Raj, presentation [pdf](presentations/Introduction_to_Blockchain_&_Ethereum.pdf)/[pptx](presentations/Introduction_to_Blockchain_&_Ethereum.pptx))
+* Introduction to Blockchain & Ethereum ([Raj](members/raj), presentation [pdf](presentations/Introduction_to_Blockchain_&_Ethereum.pdf)/[pptx](presentations/Introduction_to_Blockchain_&_Ethereum.pptx))
 * Pitching idea for Nexar challenge plus lane detection using DL ([Renaud](https://kr.linkedin.com/in/renaudbechade) & [Han Bin](https://www.seoulrobotics.org/our-team-team-korea-robotics), [presentation](presentations/Nexar_deep_learning_challenge_II.pdf))
 
 ### August 19, 2017

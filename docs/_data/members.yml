@@ -119,12 +119,12 @@ daeyong:
       py:
       pynb:
 cinyoung:
-  fullname: Cinyoung Hur
+  fullname: cinyoung hur
   github: hurcy
   gitlab: hurcy
   linkedin: cinyounghur
   email: cinyoung.hur@gmail.com
-  bio: Medical data engineer, currently working at Linewalks,Inc.
+  bio: medical data engineer, currently working at linewalks,inc.
   presentations:
     - date: October 14, 2017
       title: Personalized Medicine&#58; Redefining Cancer Treatment
@@ -151,6 +151,18 @@ cinyoung:
       title: Topic modeling
 raj:
   fullname: Raj Thimmiah
+  github:
+  gitlab:
+  linkedin:
   email: raj.contact@inf.tc
   rajweb: https://www.inf.tc
   bio: Cryptocurrency and blockchain specialist with an interest in Artificial Intelligence. Currently working at [INF Trading](https://www.inf.tc).
+  presentations:
+    - date: September 2, 2017
+      title: Introduction to Blockchain & Ethereum 
+      pdf: ../presentations/Introduction_to_Blockchain_&_Ethereum.pdf
+      ppt: ../presentations/Introduction_to_Blockchain_&_Ethereum.pptx
+      github:
+      cl:
+      py:
+      pynb:
