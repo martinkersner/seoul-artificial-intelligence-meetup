@@ -6,6 +6,10 @@ martin:
   email: m.kersner@gmail.com
   bio: Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
   presentations:
+    - date: November 11, 2017
+      title: Locally Weighted Linear Regression, Polynomial Regression
+      pdf: ../presentations/Linear_Regression_2.pdf
+      github: https://github.com/martinkersner/regression-meetup
     - date: October 28, 2017
       title: Ordinary Least Squares
       pdf: ../presentations/Linear_Regression_1.pdf
@@ -159,7 +163,7 @@ raj:
   bio: Cryptocurrency and blockchain specialist with an interest in Artificial Intelligence. Currently working at [INF Trading](https://www.inf.tc).
   presentations:
     - date: September 2, 2017
-      title: Introduction to Blockchain & Ethereum 
+      title: Introduction to Blockchain & Ethereum
       pdf: ../presentations/Introduction_to_Blockchain_&_Ethereum.pdf
       ppt: ../presentations/Introduction_to_Blockchain_&_Ethereum.pptx
       github:

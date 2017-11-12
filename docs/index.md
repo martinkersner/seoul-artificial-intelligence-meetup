@@ -6,21 +6,21 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 
 ## Upcoming Meetup
 ### When
-Saturday, November 11, 2017
+Saturday, November 25, 2017
 
 02:00 PM to 04:00 PM
 <!-- 10:00 AM to 12:00 PM -->
 
 ### Program
-<!--TBD-->
+TBD
 
-02:00 - 02:15 Networking
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 02:30 [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...
+<!--02:15 - 02:30 [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...-->
 
-02:30 - 03:00 Introduction To Cryptocurrency Ecosystem ([Raj](members/raj))
+<!--02:30 - 03:00 Introduction To Cryptocurrency Ecosystem ([Raj](members/raj))-->
 
-03:00 - 04:00 Linear Regression (part 2) ([Martin](members/martin))
+<!--03:00 - 04:00 Linear Regression (part 2) ([Martin](members/martin))-->
 
 
 ### Price
@@ -56,6 +56,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+### November 11, 2017
+ * [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...
+ * Linear Regression (part 2) ([Martin](members/martin), [presentation](presentations/Linear_Regression_2.pdf)/[github](https://github.com/martinkersner/regression-meetup))
+ * Introduction To Cryptocurrency Ecosystem (part 1) ([Raj](members/raj))
+
 ### October 28, 2017
 * Kaggle - Personalized Medicine (part 2) ([Cinyoung](members/cinyoung), [github](https://github.com/hurcy/kaggle/tree/master/personalized_medicine))
 * Linear Regression (part 1) - Ordinary Least Squares ([Martin](members/martin), [presentation](presentations/Linear_Regression_1.pdf)/[Jupyter Notebook](https://github.com/martinkersner/regression-meetup/blob/master/OrdinaryLeastSquares.ipynb))
