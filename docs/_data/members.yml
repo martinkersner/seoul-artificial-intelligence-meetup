@@ -10,36 +10,26 @@ martin:
       title: Locally Weighted Linear Regression, Polynomial Regression
       pdf: ../presentations/Linear_Regression_2.pdf
       github: https://github.com/martinkersner/regression-meetup
+
     - date: October 28, 2017
       title: Ordinary Least Squares
       pdf: ../presentations/Linear_Regression_1.pdf
-      ppt:
-      github:
-      cl:
-      py:
       pynb: https://github.com/martinkersner/regression-meetup/blob/master/OrdinaryLeastSquares.ipynb
+
     - date: September 16, 2017
       title: Meta Learning
       pdf: ../presentations/MetaLearning_20170916.pdf
-      ppt:
       github: https://github.com/martinkersner/meta-learning-meetup
-      cl:
-      py:
-      pynb:
 
     - date: August 5, 2017
       title: Recurrent Neural Networks
       pdf: ../presentations/RecurrentNeuralNetwork_20170805.pdf
-      ppt:
       github: https://github.com/martinkersner/rnn-meetup
-      cl:
-      py:
       pynb: https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb
 
     - date: July 22, 2017
       title: k-Means
       pdf: ../presentations/k-Means_20170722.pdf
-      ppt:
       github: https://github.com/martinkersner/kmeans-meetup
       cl: https://github.com/martinkersner/cl-ml/tree/master/k-means
       py: https://gist.github.com/martinkersner/6415e7306925bd0918cfba42e9754116
@@ -47,39 +37,28 @@ martin:
     - date: July 8, 2017
       title: Autoencoders
       pdf: ../presentations/Autoencoders_20170708.pdf
-      ppt:
       github: https://github.com/martinkersner/autoencoder-meetup
-      cl:
 
     - date: June 25, 2017
       title: Artificial Neural Networks
-      pdf:
-      ppt:
       github: https://github.com/martinkersner/ann-meetup
       cl: https://github.com/martinkersner/cl-ml/tree/master/ann
 
     - date: June 10, 2017
       title: Multinomial Naive Bayes Classifier
       pdf: ../presentations/Naive_Bayes_Classifier_20170610.pdf
-      ppt:
       cl: https://github.com/martinkersner/cl-ml/tree/master/naive-bayes-classifier
 
     - date: May 27, 2017
       title: T-Rex Runner II
       pdf: ../presentations/T-Rex_Runner_II.pdf
-      ppt:
-      github:
 
     - date: May 13, 2017
       title: T-Rex Runner I
       pdf: ../presentations/T-Rex_Runner_I.pdf
-      ppt:
-      github:
 
     - date: April 30, 2017
       title: Image Segmentation Using Genetic Algorithm
-      pdf:
-      ppt:
       github: https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm
 
 daeyong:
@@ -93,37 +72,21 @@ daeyong:
     - date: October 14, 2017
       title: Object Detection - part 2
       pdf: ../presentations/%5B20171014%5D%20ObjectDetectionInComputerVision_Part2.pdf
-      ppt:
-      github:
-      cl:
-      py:
-      pynb:
+
     - date: September 30, 2017
       title: Object Detection - part 1
       pdf: ../presentations/%5B20170930%5D%20ObjectDetectionInComputerVision_Part1.pdf
-      ppt:
-      github:
-      cl:
-      py:
-      pynb:
+
     - date: July 22, 2017
       title: Bayesian Classification in Computer Vision
       pdf: ../presentations/%5B20170722%5D_BayesianClassificationInComputerVision.pdf
-      ppt:
-      github:
-      cl:
-      py:
-      pynb:
+
     - date: July 8, 2017
       title: Automatic Viewpoint Selection on 360° Videos
       pdf: ../presentations/%5B20170708%5D_Automatic_Viewpoint_Selection_on_360_Videos.pdf
-      ppt:
-      github:
-      cl:
-      py:
-      pynb:
+
 cinyoung:
-  fullname: cinyoung hur
+  fullname: Cinyoung Hur
   github: hurcy
   gitlab: hurcy
   linkedin: cinyounghur
@@ -132,27 +95,23 @@ cinyoung:
   presentations:
     - date: October 14, 2017
       title: Personalized Medicine&#58; Redefining Cancer Treatment
-      pdf:
-      ppt:
       github: https://github.com/hurcy/kaggle/tree/master/personalized_medicine
-      cl:
-      py:
-      pynb:
 
     - date: September 16, 2017
       title: Bayesian regressions
       pdf: ../presentations/BayesianRegressionBitcoin_20170916.pdf
       ppt:
       github: https://github.com/hurcy/bayesreg
-      cl:
-      py:
-      pynb:
+
     - date: July 8, 2017
       title: Probability basics - Part 2
+
     - date: June 25, 2017
       title: Probability basics
+
     - date: June 10, 2017
       title: Topic modeling
+
 raj:
   fullname: Raj Thimmiah
   github:
@@ -166,7 +125,8 @@ raj:
       title: Introduction to Blockchain & Ethereum
       pdf: ../presentations/Introduction_to_Blockchain_&_Ethereum.pdf
       ppt: ../presentations/Introduction_to_Blockchain_&_Ethereum.pptx
-      github:
-      cl:
-      py:
-      pynb:
+
+    - date: November 11, 2017
+      title: Introduction To Cryptocurrency Ecosystem (part 1)
+      pdf:
+      ppt:
