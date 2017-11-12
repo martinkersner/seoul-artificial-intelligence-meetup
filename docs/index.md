@@ -2,6 +2,8 @@
 layout: default
 ---
 
+### [Call for presenters/practitioners!](call-for-presenters-practitioners)
+
 If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/).
 
 ## Upcoming Meetup
