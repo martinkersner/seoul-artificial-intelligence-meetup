@@ -128,5 +128,4 @@ raj:
 
     - date: November 11, 2017
       title: Introduction To Cryptocurrency Ecosystem (part 1)
-      pdf:
-      ppt:
+      pdf: ../presentations/Introduction_to_Blockchain_Ecosystem_part1.pdf
