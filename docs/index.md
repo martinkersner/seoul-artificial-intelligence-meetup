@@ -61,7 +61,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ### November 11, 2017
  * [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...
  * Linear Regression (part 2) ([Martin](members/martin), [presentation](presentations/Linear_Regression_2.pdf)/[github](https://github.com/martinkersner/regression-meetup))
- * Introduction To Cryptocurrency Ecosystem (part 1) ([Raj](members/raj), [presentation](../presentations/Introduction_to_Blockchain_Ecosystem_part1.pdf)
+ * Introduction To Cryptocurrency Ecosystem (part 1) ([Raj](members/raj), [presentation](../presentations/Introduction_to_Blockchain_Ecosystem_part1.pdf))
 
 ### October 28, 2017
 * Kaggle - Personalized Medicine (part 2) ([Cinyoung](members/cinyoung), [github](https://github.com/hurcy/kaggle/tree/master/personalized_medicine))
