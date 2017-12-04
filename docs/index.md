@@ -19,7 +19,7 @@ Saturday, December 9, 2017
 <!-- 10:00 AM to 12:00 PM -->
 
 ### Program
-TBD
+<!--TBD-->
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
@@ -43,7 +43,13 @@ TBD
 <!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/245144915).-->
 
 
-<!--02:00 - 02:15 Networking-->
+02:00 - 02:15 Networking
+
+02:15 - 02:45 Hive & Spark & Zeppelin: Useful tips to gathering different data sources ([Cinyoung](members/cinyoung))
+
+02:45 - 03:40 AI and Blockchain ([Raj](members/raj) & Ryan)
+
+03:40 - 04:00 Power of Prolog ([Martin](members/martin))
 
 <!--02:15 - 02:30 [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...-->
 
