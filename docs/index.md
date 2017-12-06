@@ -45,7 +45,7 @@ Saturday, December 9, 2017
 
 02:00 - 02:15 Networking
 
-02:15 - 02:45 Hive & Spark & Zeppelin: Useful tips to gathering different data sources ([Cinyoung](members/cinyoung))
+02:15 - 02:45 Hive & Spark & Zeppelin: Useful tips for gathering different data sources ([Cinyoung](members/cinyoung))
 
 02:45 - 03:40 AI and Blockchain ([Raj](members/raj) & Ryan)
 
