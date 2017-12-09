@@ -12,14 +12,14 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-Saturday, December 9, 2017
+Saturday, December 23, 2017
 
 02:00 PM to 04:00 PM
 <!--01:00 PM to 06:00 PM-->
 <!-- 10:00 AM to 12:00 PM -->
 
 ### Program
-<!--TBD-->
+TBD
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
@@ -43,13 +43,13 @@ Saturday, December 9, 2017
 <!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/245144915).-->
 
 
-02:00 - 02:15 Networking
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 02:45 Hive & Spark & Zeppelin: Useful tips for gathering different data sources ([Cinyoung](members/cinyoung))
+<!--02:15 - 02:45 Hive & Spark & Zeppelin: Useful tips for gathering different data sources ([Cinyoung](members/cinyoung))-->
 
-02:45 - 03:40 AI and Blockchain ([Raj](members/raj) & Ryan)
+<!--02:45 - 03:40 AI and Blockchain ([Raj](members/raj) & Ryan)-->
 
-03:40 - 04:00 Power of Prolog ([Martin](members/martin))
+<!--03:40 - 04:00 Power of Prolog ([Martin](members/martin))-->
 
 <!--02:15 - 02:30 [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...-->
 
@@ -90,6 +90,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+### December 9, 2017
+  * Hive & Spark & Zeppelin: Useful tips for gathering different data sources ([Cinyoung](members/cinyoung), [presentation](presentations/Hive_Spark_Zeppelin.pdf))
+  * AI and Blockchain ([Raj](members/raj) & Ryan)
+  * Power of Prolog ([Martin](members/martin), [presentation](presentations/Power_of_Prolog.pdf))
+
 ### November 25, 2017
   * Mini AI Hackathon
 
