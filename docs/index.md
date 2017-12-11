@@ -92,8 +92,8 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ## Previous Meetups
 ### December 9, 2017
   * Hive & Spark & Zeppelin: Useful tips for gathering different data sources ([Cinyoung](members/cinyoung), [presentation](presentations/Hive_Spark_Zeppelin.pdf))
-  * AI and Blockchain ([Raj](members/raj) & Ryan)
   * Power of Prolog ([Martin](members/martin), [presentation](presentations/Power_of_Prolog.pdf))
+  * AI and Blockchain ([Raj](members/raj) & Ryan, [presentation](presentations/AI_and_Blockchain.pdf))
 
 ### November 25, 2017
   * Mini AI Hackathon
