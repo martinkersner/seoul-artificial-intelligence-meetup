@@ -6,6 +6,10 @@ martin:
   email: m.kersner@gmail.com
   bio: Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
   presentations:
+    - date: December 9, 2017
+      title: Power of Prolog
+      pdf: ../presentations/Power_of_Prolog.pdf
+
     - date: November 11, 2017
       title: Locally Weighted Linear Regression, Polynomial Regression
       pdf: ../presentations/Linear_Regression_2.pdf
@@ -93,6 +97,10 @@ cinyoung:
   email: cinyoung.hur@gmail.com
   bio: medical data engineer, currently working at linewalks,inc.
   presentations:
+    - date: December 9, 2017
+      title: Hive & Spark & Zeppelin: Useful tips for gathering different data sources
+      pdf: ../presentations/Hive_Spark_Zeppelin.pdf
+
     - date: October 14, 2017
       title: Personalized Medicine&#58; Redefining Cancer Treatment
       github: https://github.com/hurcy/kaggle/tree/master/personalized_medicine
@@ -121,6 +129,10 @@ raj:
   rajweb: https://www.inf.tc
   bio: Cryptocurrency and blockchain specialist with an interest in Artificial Intelligence. Currently working at [INF Trading](https://www.inf.tc).
   presentations:
+    - date: December 9, 2017
+      title: Blockchain Basics
+      pdf: ../presentations/AI_and_Blockchain.pdf
+
     - date: September 2, 2017
       title: Introduction to Blockchain & Ethereum
       pdf: ../presentations/Introduction_to_Blockchain_&_Ethereum.pdf
