@@ -175,7 +175,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 * Image Segmentation Using Genetic Algorithm ([Martin](members/martin), [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm))
     * Problem Encoding, Evaluation Of Fitness, Selection, Crossover, Mutation, Algorithm Evaluation
 
-### April 2, 2017
+### April 22, 2017
 Meeting for the first time. Discussing what direction meetup will evolve.
 
 ___
