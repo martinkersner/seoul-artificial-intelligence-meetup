@@ -18,8 +18,7 @@ Saturday, December 23, 2017
 <!--01:00 PM to 06:00 PM-->
 <!-- 10:00 AM to 12:00 PM -->
 
-### Program
-TBD
+<!--TBD-->
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
@@ -39,24 +38,17 @@ TBD
 
 <!--Mini AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
 
-<!--## Registration-->
-<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/245144915).-->
+## Registration
+Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/246000906/).
 
+### Program
+02:00 - 02:15 Networking
 
-<!--02:00 - 02:15 Networking-->
+02:15 - 02:45 Evaluation of classification model for imbalanced dataset ([Cinyoung](members/cinyoung))
 
-<!--02:15 - 02:45 Hive & Spark & Zeppelin: Useful tips for gathering different data sources ([Cinyoung](members/cinyoung))-->
+02:45 - 03:40 Knowledge Distillation ([Martin](members/martin))
 
-<!--02:45 - 03:40 AI and Blockchain ([Raj](members/raj) & Ryan)-->
-
-<!--03:40 - 04:00 Power of Prolog ([Martin](members/martin))-->
-
-<!--02:15 - 02:30 [NALBI](https://www.nalbi.ai/) - How we started AI company, What Computer Vision technology we are developing, ...-->
-
-<!--02:30 - 03:00 Introduction To Cryptocurrency Ecosystem ([Raj](members/raj))-->
-
-<!--03:00 - 04:00 Linear Regression (part 2) ([Martin](members/martin))-->
-
+03:40 - 04:00 Discussion: Future of Seoul AI
 
 ### Price
 FREE
