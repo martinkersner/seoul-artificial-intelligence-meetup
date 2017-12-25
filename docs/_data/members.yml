@@ -6,6 +6,10 @@ martin:
   email: m.kersner@gmail.com
   bio: Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
   presentations:
+    - date: December 23, 2017
+      title: Knowledge Distillation
+      pdf: ../presentations/knowledge-distillation.pdf
+
     - date: December 9, 2017
       title: Power of Prolog
       pdf: ../presentations/Power_of_Prolog.pdf
@@ -97,6 +101,10 @@ cinyoung:
   email: cinyoung.hur@gmail.com
   bio: medical data engineer, currently working at linewalks,inc.
   presentations:
+    - date: December 23, 2017
+      title: Evaluation of classification model for imbalanced dataset
+      pdf:
+
     - date: December 9, 2017
       title: Hive &amp; Spark &amp; Zeppelin&#58; Useful tips for gathering different data sources
       pdf: ../presentations/Hive_Spark_Zeppelin.pdf

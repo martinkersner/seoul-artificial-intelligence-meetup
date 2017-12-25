@@ -12,7 +12,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-Saturday, December 23, 2017
+Saturday, January 6, 2018
 
 02:00 PM to 04:00 PM
 <!--01:00 PM to 06:00 PM-->
@@ -38,22 +38,21 @@ Saturday, December 23, 2017
 
 <!--Mini AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
 
-### Registration
-Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/246000906/).
+<!--### Registration-->
+<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/246000906/).-->
 
 ### Program
-02:00 - 02:15 Networking
+TBD
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 02:45 Evaluation of classification model for imbalanced dataset ([Cinyoung](members/cinyoung))
+<!--02:15 - 02:45 Evaluation of classification model for imbalanced dataset ([Cinyoung](members/cinyoung))-->
 
-02:45 - 03:40 Knowledge Distillation ([Martin](members/martin))
+<!--02:45 - 03:40 Knowledge Distillation ([Martin](members/martin))-->
 
-03:40 - 04:00 Discussion: Future of Seoul AI
+<!--03:40 - 04:00 Discussion: Future of Seoul AI-->
 
 ### Price
 FREE
-<!--TBD-->
-<!-- KRW 5,000 -->
 
 ### Where
 
@@ -82,6 +81,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+### December 23, 2017
+ * Evaluation of classification model for imbalanced dataset ([Cinyoung](members/cinyoung))
+ * Knowledge Distillation ([Martin](members/martin), [presentation](presentations/knowledge-distillation.pdf))
+ * Seoul AI 2017 ([presentation](presentations/seoulai-2017.pdf))
+
 ### December 9, 2017
   * Hive & Spark & Zeppelin: Useful tips for gathering different data sources ([Cinyoung](members/cinyoung), [presentation](presentations/Hive_Spark_Zeppelin.pdf))
   * Power of Prolog ([Martin](members/martin), [presentation](presentations/Power_of_Prolog.pdf))
