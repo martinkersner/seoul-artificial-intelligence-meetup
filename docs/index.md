@@ -167,7 +167,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 ### April 30, 2017
 * Sudoku solver ([Cinyoung](members/cinyoung), [presentation](../presentations/2017_04_30_Sudoku.pdf))
-  * Constraint Propagation, Search, Elimination, Naked Twins 
+  * Constraint Propagation, Search, Elimination, Naked Twins 
 * Image Segmentation Using Genetic Algorithm ([Martin](members/martin), [github](https://github.com/martinkersner/Image-Segmentation-Using-Genetic-Algorithm))
     * Problem Encoding, Evaluation Of Fitness, Selection, Crossover, Mutation, Algorithm Evaluation
 
