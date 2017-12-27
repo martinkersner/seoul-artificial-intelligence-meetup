@@ -103,7 +103,7 @@ cinyoung:
   presentations:
     - date: December 23, 2017
       title: Evaluation of classification model for imbalanced dataset
-      pdf:
+      pdf: ../presentations/imbalance_dataset_1.pdf
 
     - date: December 9, 2017
       title: Hive &amp; Spark &amp; Zeppelin&#58; Useful tips for gathering different data sources

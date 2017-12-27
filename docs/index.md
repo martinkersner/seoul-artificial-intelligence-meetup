@@ -82,7 +82,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 <br/>
 ## Previous Meetups
 ### December 23, 2017
- * Evaluation of classification model for imbalanced dataset ([Cinyoung](members/cinyoung))
+ * Evaluation of classification model for imbalanced dataset ([Cinyoung](members/cinyoung), [presentation](presentations/imbalance_dataset_1.pdf))
  * Knowledge Distillation ([Martin](members/martin), [presentation](presentations/knowledge-distillation.pdf))
  * Seoul AI 2017 ([presentation](presentations/seoulai-2017.pdf))
 
