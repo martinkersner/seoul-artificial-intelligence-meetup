@@ -38,18 +38,16 @@ Saturday, January 6, 2018
 
 <!--Mini AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
 
-<!--### Registration-->
-<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/246000906/).-->
+### Registration
+Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/246317878/).
 
 ### Program
-TBD
-<!--02:00 - 02:15 Networking-->
+02:00 - 02:15 Networking
 
-<!--02:15 - 02:45 Evaluation of classification model for imbalanced dataset ([Cinyoung](members/cinyoung))-->
+02:15 - 03:00 Running Tensorflow on AWS Sagemaker (Sun Keun Choi)
 
-<!--02:45 - 03:40 Knowledge Distillation ([Martin](members/martin))-->
+03:00 - 04:00 CNN visualizations ([Martin](members/martin))
 
-<!--03:40 - 04:00 Discussion: Future of Seoul AI-->
 
 ### Price
 FREE
