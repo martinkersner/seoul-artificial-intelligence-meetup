@@ -46,7 +46,9 @@ Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Me
 
 02:15 - 03:00 Running Tensorflow on AWS Sagemaker (Sun Keun Choi)
 
-03:00 - 04:00 CNN visualizations ([Martin](members/martin))
+03:00 - 03:53 CNN visualizations ([Martin](members/martin))
+
+03:53 - 04:00 Feature Preprocessing and Generation with Respect to Models ([Cinyoung](members/cinyoung))
 
 
 ### Price
