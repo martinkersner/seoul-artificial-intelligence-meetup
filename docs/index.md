@@ -4,8 +4,6 @@ summary: Seoul Artificial Intelligence Meetup (aka Seoul AI) is a group of enthu
 tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Machine Learning",Korea,Gangnam]
 ---
 
-### [Call for presenters/practitioners!](call-for-presenters-practitioners)
-
 If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/).
 
 ## Upcoming Meetup
@@ -41,8 +39,8 @@ Saturday, January 20, 2018
 <!--### Registration-->
 <!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/246317878/).-->
 
-TBD
 ### Program
+TBD
 <!--02:00 - 02:15 Networking-->
 
 
