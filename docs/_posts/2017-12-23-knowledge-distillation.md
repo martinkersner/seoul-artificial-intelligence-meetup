@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Distilling the Knowledge in a Neural Network"
 date:   2017-12-23 00:0:00 +0900
 author: martin
