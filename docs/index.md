@@ -80,7 +80,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 ### January 8, 2018
 * Running Tensorflow on AWS Sagemaker (Sun Keun Choi, [presentation](presentations/Introduction_to_Amazon_Sagemaker.pdf))
-* CNN visualizations ([Martin](members/martin), [presentation](presentations/CNN_Visualizations.pdf))
+* CNN visualizations ([Martin](members/martin), [presentation](presentations/CNN_Visualizations.pdf), [github](https://github.com/martinkersner/cnn-visualizations))
 * Feature Preprocessing and Generation with Respect to Models ([Cinyoung](members/cinyoung), [presentation](presentations/Preprocessing_Tips.pdf))
 
 ### [Presentations from 2017](2017)

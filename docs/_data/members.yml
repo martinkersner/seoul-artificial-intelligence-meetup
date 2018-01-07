@@ -9,6 +9,7 @@ martin:
     - date: January 6, 2018
       title: CNN Visualizations
       pdf: ../presentations/CNN_Visualizations.pdf
+      github: https://github.com/martinkersner/cnn-visualizations
 
     - date: December 23, 2017
       title: Knowledge Distillation
