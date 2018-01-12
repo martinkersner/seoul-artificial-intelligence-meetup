@@ -6,43 +6,38 @@ tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Ma
 
 If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/).
 
-## Upcoming Meetup
-<!--## Mini AI Hackathon-->
+<!--## Upcoming Meetup-->
+## Mini AI Hackathon
 
 ### When
 Saturday, January 20, 2018
 
-02:00 PM to 04:00 PM
-<!--01:00 PM to 06:00 PM-->
-<!-- 10:00 AM to 12:00 PM -->
+<!--02:00 PM to 04:00 PM-->
+01:00 PM to 06:00 PM
 
 <!--TBD-->
-
-<!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
-
-<!--01:15 - 02:00 Hacking-->
-
-<!--02:00 - 02:00 Quick checkup on projects that participants are working on-->
-
-<!--02:00 - 05:45 Hacking-->
-
-<!--05:45 - 06:00 Evaluation - Each participant will get 60 seconds to explain what they achieved/learned during Mini AI Hackathon.-->
-
-<!--## Details-->
-
-<!--It is recommended to think about project you want to work on in advance. You can continue working on some of your projects. You can learn new framework that could be useful for you later on. Or maybe you want implement some new NN architecture? Great! There are no limits to projects, however, the project should be related to Artificial Intelligence.-->
-
-<!--## Team-->
-
-<!--Mini AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
-
-<!--### Registration-->
-<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence-Meetup/events/246317878/).-->
-
 ### Program
-TBD
-<!--02:00 - 02:15 Networking-->
 
+01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?
+
+01:15 - 02:00 Hacking
+
+02:00 - 02:00 Quick checkup on projects that participants are working on
+
+02:00 - 05:45 Hacking
+
+05:45 - 06:00 Evaluation - Each participant will get 60 seconds to explain what they achieved/learned during Mini AI Hackathon.
+
+## Details
+
+It is recommended to think about project you want to work on in advance. You can continue working on some of your projects. You can learn new framework that could be useful for you later on. Or maybe you want implement some new NN architecture? Great! There are no limits to projects, however, the project should be related to Artificial Intelligence.
+
+## Team
+
+Mini AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))
+
+### Registration
+Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/246729049/).
 
 
 ### Price
