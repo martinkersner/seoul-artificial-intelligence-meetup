@@ -66,7 +66,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ## Previous Meetups
 
 ### January 20, 2018
-Mini AI Hackathon ([participant presentations](presentations/mini-ai-hackathon-20180120.pdf))
+Mini AI Hackathon ([project presentations](presentations/mini-ai-hackathon-20180120.pdf))
 
 ### January 8, 2018
 * Running Tensorflow on AWS Sagemaker (Sun Keun Choi, [presentation](presentations/Introduction_to_Amazon_Sagemaker.pdf))
