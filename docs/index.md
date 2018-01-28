@@ -16,7 +16,13 @@ Saturday, February 3, 2018
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-TBD
+02:00 - 02:15 Networking
+
+02:15 - 02:45 Feature Preprocessing and Generation with Respect to Models - part 2 ([Cinyoung](members/cinyoung))
+
+02:45 - 03:40 How to get started with NLP? (Aleksei)
+
+03:40 - 04:00 Popularity prediction based on Twitter log (Changsik)
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
