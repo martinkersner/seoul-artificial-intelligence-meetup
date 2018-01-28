@@ -6,8 +6,8 @@ tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Ma
 
 If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/).
 
-<!--## Upcoming Meetup-->
-## Mini AI Hackathon
+## Upcoming Meetup
+<!--## Mini AI Hackathon-->
 
 ### When
 Saturday, February 3, 2018
