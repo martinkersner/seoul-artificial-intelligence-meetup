@@ -1,11 +1,11 @@
 ---
-layout: default
-title:  "Kaggle - How to use pretrained Keras models? "
+layout: blog
+title:  "Kaggle - How to use pretrained Keras models?"
 date:   2018-01-23 00:0:00 +0000
+disqus_identifier: 2018-01-23
 author: martin
+comments: true
 ---
-
-# Kaggle - How to use pretrained Keras models?
 
 Training deep learning models from scratch is never a good way of aproaching new problem.
 Moreover, if you want to obtain reasonable baseline results fast.
