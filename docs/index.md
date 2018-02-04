@@ -10,19 +10,15 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-Saturday, February 3, 2018
+Saturday, February 17, 2018
 
 02:00 PM to 04:00 PM
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-02:00 - 02:15 Networking
+TBD
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 02:45 Feature Preprocessing and Generation with Respect to Models - part 2 ([Cinyoung](members/cinyoung))
-
-02:45 - 03:40 How to get started with NLP? (Aleksei)
-
-03:40 - 04:00 Popularity prediction based on Twitter log (Changsik)
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
@@ -70,6 +66,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+
+## February 3, 2018
+* Feature Preprocessing and Generation with Respect to Models - part 2 ([Cinyoung](members/cinyoung), [presentation](presentations/Preprocessing_Tips_part2.pdf))
+* Get started with NLP (Aleksei, [presentation](https://docs.google.com/presentation/d/e/2PACX-1vSVEFuHzJQK1bKkXAIyom69NtHAnUrQObkVSTgLYlSnyC1568iO2RfZu5f0wrfmczkLcKvdd-saaKw1/pub?start=false&loop=false&delayms=3000#slide=id.p))
+* Popularity prediction based on Twitter log (Changsik)
 
 ### January 20, 2018
 Mini AI Hackathon ([project presentations](presentations/mini-ai-hackathon-20180120.pdf))
