@@ -19,7 +19,7 @@ At first, it can seem sufficient, but soon you will need to visualize more or di
 Experimenting with different optimizers, learning rates and their schedules requires to see actual value of *learning rate*, however, Keras does not support visualization of learning rate out-of-the-box.
 Visualized metric names are same as defined in Keras (e.g. "loss", "val_loss", "acc", "val_acc"), but it would be nice to use the power of Tensoboard and use names in hierarchical manner (e.g. ("train/loss", "val/loss", "train/acc", "val/acc"). TensorBoard can then group metrics to logical cells and generated visualizations become easier to read.
 
-To solve both issues we will use `[tf.summary](https://www.tensorflow.org/api_docs/python/tf/summary)` module and `[tf.Session](https://www.tensorflow.org/api_docs/python/tf/Session)` class directly.
+To solve both issues we will use [`tf.summary`](https://www.tensorflow.org/api_docs/python/tf/summary) module and `[tf.Session](https://www.tensorflow.org/api_docs/python/tf/Session)` class directly.
 
 ## Add learning rate to Tensorboard
 First, we need to define [placeholder](https://www.tensorflow.org/api_docs/python/tf/placeholder) that will receive learning rate value and then pass it to `[tf.summary.scalar](https://www.tensorflow.org/api_docs/python/tf/summary/scalar)`.
@@ -70,6 +70,7 @@ def on_epoch_end(self, epoch, logs):
 
 ## Rename training and validation metrics in Tensorboard
 To update remaining metrics, we have to add another metrics placeholders and feed current metric values at the end of every epoch.
+
 Below you can find full example of custom Tensorboard class that is supported with Keras.
 
 ```python
