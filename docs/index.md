@@ -16,8 +16,14 @@ Saturday, February 17, 2018
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-TBD
-<!--02:00 - 02:15 Networking-->
+<!--TBD-->
+02:00 - 02:15 Networking
+
+02:15 - 02:45 Velocity Obstacles: Autonomous Navigation on 2D Environments (Vincent)
+
+02:45 - 03:40 Homomorphic Encryption and Applications for Machine Learning and Other Areas ([Raj](members/raj))
+
+03:40 - 04:00 Lightning talks (?)
 
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
