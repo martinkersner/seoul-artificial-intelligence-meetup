@@ -70,7 +70,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ### February 3, 2018
 * Feature Preprocessing and Generation with Respect to Models - part 2 ([Cinyoung](members/cinyoung), [presentation](presentations/Preprocessing_Tips_part2.pdf))
 * Get started with NLP (Aleksei, [presentation](https://docs.google.com/presentation/d/e/2PACX-1vSVEFuHzJQK1bKkXAIyom69NtHAnUrQObkVSTgLYlSnyC1568iO2RfZu5f0wrfmczkLcKvdd-saaKw1/pub?start=false&loop=false&delayms=3000#slide=id.p))
-* Popularity prediction based on Twitter log (Changsik)
+* Popularity prediction based on Twitter log (Changsik, [presentation](presentations/celebrity_popularity_prediction.pdf))
 
 ### January 20, 2018
 Mini AI Hackathon ([project presentations](presentations/mini-ai-hackathon-20180120.pdf))
