@@ -1,14 +1,18 @@
 ---
 layout: blog
-title:  "Distilling the Knowledge in a Neural Network"
+title:  "Temperature in softmax layer"
 date:   2017-12-23 00:0:00 +0000
 disqus_identifier: 2017-12-23
 author: martin
 comments: true
+abstract: In <a href="https://arxiv.org/abs/1503.02531">Distilling the Knowledge in a Neural Network</a> paper, there is described how soft targets of the final <a href="https://en.wikipedia.org/wiki/Softmax_function">softmax layer</a> can be modified by additional denominator called <i>temperature</i>. This blog posts aims to visualize effect of temperature magnitude on output of modified softmax layer.
 ---
 
-[https://arxiv.org/abs/1503.02531](https://arxiv.org/abs/1503.02531)
+In [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) paper, there is described how soft targets of the final [softmax layer](https://en.wikipedia.org/wiki/Softmax_function) can be modified by additional denominator called *temperature*. This blog posts aims to visualize effect of temperature magnitude on output of modified softmax layer.
+
 > Our more general solution, called “distillation”, is to **raise the temperature of the final softmax until the cumbersomemodel produces a suitably soft set of targets**. We then use the same high temperature when training the small model to match these soft targets. We show later that matching the logits of the cumbersome model is actually a special case of distillation.
+>
+> [https://arxiv.org/abs/1503.02531](https://arxiv.org/abs/1503.02531)
 
 ## Temperature
 
