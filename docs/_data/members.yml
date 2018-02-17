@@ -110,7 +110,7 @@ cinyoung:
       title: Feature Preprocessing and Generation with Respect to Models part 2
       pdf: ../presentations/Preprocessing_Tips_part2.pdf
 
-    - date: Januaury 6, 2018
+    - date: January 6, 2018
       title: Feature Preprocessing and Generation with Respect to Models
       pdf: ../presentations/Preprocessing_Tips.pdf
 
@@ -150,6 +150,10 @@ raj:
   rajweb: https://www.inf.tc
   bio: Cryptocurrency and blockchain specialist with an interest in Artificial Intelligence. Currently working at [INF Trading](https://www.inf.tc).
   presentations:
+    - date: February 17, 2018
+      title: Homomorphic Encryption and Applications for Machine Learning and Other Areas
+      pdf: ../presentations/Homomorphic_Encryption.pdf
+
     - date: December 9, 2017
       title: Blockchain Basics
       pdf: ../presentations/AI_and_Blockchain.pdf

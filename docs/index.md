@@ -10,20 +10,20 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-Saturday, February 17, 2018
+Saturday, March 3, 2018
 
 02:00 PM to 04:00 PM
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-<!--TBD-->
-02:00 - 02:15 Networking
+TBD
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 02:45 Velocity Obstacles: Autonomous Navigation on 2D Environments (Vincent)
+<!--02:15 - 02:45 Velocity Obstacles: Autonomous Navigation on 2D Environments (Vincent)-->
 
-02:45 - 03:40 Homomorphic Encryption and Applications for Machine Learning and Other Areas ([Raj](members/raj))
+<!--02:45 - 03:40 Homomorphic Encryption and Applications for Machine Learning and Other Areas ([Raj](members/raj))-->
 
-03:40 - 04:00 Lightning talks (?)
+<!--03:40 - 04:00 Lightning talks (?)-->
 
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
@@ -72,6 +72,10 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+
+### February 17, 2018
+* Velocity Obstacles: Autonomous Navigation on 2D Environments (Vincent, [presentation](presentations/Autonomous_Navigation_2D_Environments.pdf))
+* Homomorphic Encryption and Applications for Machine Learning and Other Areas ([Raj](members/raj), [presentation](presentations/Homomorphic_Encryption.pdf))
 
 ### February 3, 2018
 * Feature Preprocessing and Generation with Respect to Models - part 2 ([Cinyoung](members/cinyoung), [presentation](presentations/Preprocessing_Tips_part2.pdf))
