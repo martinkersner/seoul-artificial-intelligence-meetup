@@ -169,9 +169,9 @@ raj:
 
 adel:
   fullname: Adel Sohbi
-  github: https://github.com/adelshb
+  github: adelshb
   gitlab:
-  linkedin: https://www.linkedin.com/in/adelshb/
+  linkedin: adelshb
   email:
   rajweb:
   bio: Adel is a researcher in Quantum Information with in interest in Machine Learning.
@@ -191,7 +191,7 @@ vincent:
   fullname: Paul Vincent Contreras
   github:
   gitlab:
-  linkedin: www.linkedin.com/in/vincecontreras
+  linkedin: vincecontreras
   email: vincent.contreras@outlook.com
   rajweb:
   bio: Vincent is a software engineer at [BluepanNet](https://www.bluepan.net/) (formerly Bluepan). Outside work, he is very interested in machine learning, optimization algorithms, heuristics and metaheuristics.
