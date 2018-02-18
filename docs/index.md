@@ -74,7 +74,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ## Previous Meetups
 
 ### February 17, 2018
-* Velocity Obstacles: Autonomous Navigation on 2D Environments (Vincent, [presentation](presentations/Autonomous_Navigation_2D_Environments.pdf))
+* Velocity Obstacles: Autonomous Navigation on 2D Environments ([Vincent](members/vincent), [presentation](presentations/Autonomous_Navigation_2D_Environments.pdf))
 * Homomorphic Encryption and Applications for Machine Learning and Other Areas ([Raj](members/raj), [presentation](presentations/Homomorphic_Encryption.pdf))
 
 ### February 3, 2018

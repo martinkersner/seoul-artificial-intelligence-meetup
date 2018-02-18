@@ -186,3 +186,16 @@ adel:
 
     - date: June 25, 2017
       title: Presentation of The Expression of Emotions in 20th Century Books
+
+vincent:
+  fullname: Paul Vincent Contreras
+  github:
+  gitlab:
+  linkedin: www.linkedin.com/in/vincecontreras
+  email: vincent.contreras@outlook.com
+  rajweb:
+  bio: Vincent is a software engineer at [BluepanNet](https://www.bluepan.net/) (formerly Bluepan). Outside work, he is very interested in machine learning, optimization algorithms, heuristics and metaheuristics.
+  presentations:
+    - date: February 17, 2018
+      title: Autonomous Navigation on 2D Environments
+      pdf: ../presentations/Autonomous_Navigation_2D_Environments.pdf
