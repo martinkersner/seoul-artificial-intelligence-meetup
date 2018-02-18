@@ -166,3 +166,23 @@ raj:
     - date: November 11, 2017
       title: Introduction To Cryptocurrency Ecosystem (part 1)
       pdf: ../presentations/Introduction_to_Blockchain_Ecosystem_part1.pdf
+
+adel:
+  fullname: Adel Sohbi
+  github: https://github.com/adelshb
+  gitlab:
+  linkedin: https://www.linkedin.com/in/adelshb/
+  email:
+  rajweb:
+  bio: Adel is a researcher in Quantum Information with in interest in Machine Learning.
+  presentations:
+    - date: September 30, 2017
+      title: Trading Bitcoin and Online Time Series Prediction
+      pdf: ../presentations/Trading_Bitcoin_and_Online_Time_Series_Prediction.pdf
+
+    - date: June 25, 2017
+      title: Introduction to Quantum Computing
+      pdf: ../presentations/Introduction_to_Quantum_Computing.pdf
+
+    - date: June 25, 2017
+      title: Presentation of The Expression of Emotions in 20th Century Books
