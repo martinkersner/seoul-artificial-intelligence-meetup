@@ -1,8 +1,9 @@
 ---
 layout: default
 membername: martin
-summary: Seoul Artificial Intelligence (Seoul AI) is a group of enthusiasts willing to go the extra mile in becoming one of the best in their field. We are sharing our domain knowledge and working on Machine Learning projects in small groups.
-tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Machine Learning",Korea,Gangnam]
+summary: Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
+title: Martin Kersner
+tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Machine Learning",Korea,Gangnam,Martin,Kersner,"Martin Kersner"]
 ---
 
 {% include membertemplate.md %}

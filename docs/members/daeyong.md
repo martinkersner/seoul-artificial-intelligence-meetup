@@ -1,8 +1,9 @@
 ---
 layout: default
 membername: daeyong
-summary: Seoul Artificial Intelligence (Seoul AI) is a group of enthusiasts willing to go the extra mile in becoming one of the best in their field. We are sharing our domain knowledge and working on Machine Learning projects in small groups.
-tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Machine Learning",Korea,Gangnam]
+summary: Dae-Yong is mainly interested in Object Detection and Semantic Segmentation in Computer Vision and Artificial Intelligence. Currently, he is working on part of Advanced Driving Assistant System and Autonomous Driving System.
+title: Dae-Yong
+tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Machine Learning",Korea,Gangnam,"Dae-Yong"]
 ---
 
 {% include membertemplate.md %}
