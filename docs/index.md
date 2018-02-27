@@ -16,15 +16,21 @@ Saturday, March 3, 2018
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-TBD
-<!--02:00 - 02:15 Networking-->
+<!--TBD-->
+02:00 - 02:15 Networking
 
-<!--02:15 - 02:45 Velocity Obstacles: Autonomous Navigation on 2D Environments (Vincent)-->
+02:15 - 02:45 Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption ([Raj](members/raj))
 
-<!--02:45 - 03:40 Homomorphic Encryption and Applications for Machine Learning and Other Areas ([Raj](members/raj))-->
+02:45 - 03:40 Mobile AI (Emilio)
 
-<!--03:40 - 04:00 Lightning talks (?)-->
+03:40 - 04:00 Lightning talks (?)
 
+#### Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption
+Spatial Bloom Filters allow for a client and a server to interact without either party having to trust the other. For example, a server might want to check if a user falls under a blacklist based on their identity information. Using a spatial Bloom Filter along with homomorphic encryption, the server can hide the identity of the blacklisted individuals it is searching for while the user can hide their identity from the server. Even without them having to trust each other, the user can still prove that they do not belong to a blacklist.
+
+
+#### Mobile AI
+AI/Machine Learning on Mobile and IoT Edge Devices
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
