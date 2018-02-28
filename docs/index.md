@@ -30,13 +30,13 @@ Spatial Bloom Filters allow for a client and a server to interact without either
 
 
 #### Mobile AI
-Machine Learning/AI frameworks and pipelines are used to be executed or deployed in a kind of PC+GPU hardware solution. Recently Google, Amazon, Microsoft, Facebook, etc. are opening their internal AI infrastructure to the public, offering ML/AI cloud computing as a service, mostly running NVIDIA’s GPU’s or dedicated NCU ( Neural Computing Units ) in their servers.
+Machine Learning/AI frameworks and pipelines are used to be executed or deployed in a kind of PC+GPU hardware solution. Recently Google, Amazon, Microsoft, Facebook, etc. are opening their internal AI infrastructure to the public, offering ML/AI cloud computing as a service, mostly running NVIDIA's GPUs or dedicated NCU (Neural Computing Units) in their servers.
 
 This solution works pretty well on applications and services that does offline, analytics, defers computing, or does not have hard real time requirements, however, most of the mobile first, upcoming IOT, UAV applications, are pushing for more connected sensors, more data flowing into the cloud, and UX with none or close to zero latencies.
 
-With more powerful mobile and embedded chipsets with specific GPU’s, AI/ML in mobile or IOT edge devices become possible, doing most or “enough” processing into the device itself, offloading some cloud computing processing and bandwidth for specifics.
+With more powerful mobile and embedded chipsets with specific GPUs, AI/ML in mobile or IOT edge devices become possible, doing most or "enough" processing into the device itself, offloading some cloud computing processing and bandwidth for specifics.
 
-Current SOC’s and platform status are probably not enough for the most advanced applications or uses cases, but those are first steps, there is already good open source and community support and is good enough to start playing with it.
+Current SOCs and platform status are probably not enough for the most advanced applications or uses cases, but those are first steps, there is already good open source and community support and is good enough to start playing with it.
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
