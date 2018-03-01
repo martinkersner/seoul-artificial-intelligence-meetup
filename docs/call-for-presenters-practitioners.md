@@ -21,8 +21,8 @@ All presentations/practice sessions should be held in **English**.
 
 You are not limited to proposals listed above, feel free to suggest anything relevant!
 
-## Lighting talk
-If you don't feel ready for long presentation, you can still contribute in the form of [lighting talk](https://en.wikipedia.org/wiki/Lightning_talk)!
+## Lightning talk
+If you don't feel ready for long presentation, you can still contribute in the form of [Lightning talk](https://en.wikipedia.org/wiki/Lightning_talk)!
 Lighting talk is a short presentation between 5 and 10 minutes. You can for example briefly describe what you currently work on, what you got stuck on and how you solved or you can just introduce new tool which helped you to boost your productivity.
 
 For a lighting talk we do not need to know in advance that you will present, but we can't guarantee there will be a free time slot for you.
