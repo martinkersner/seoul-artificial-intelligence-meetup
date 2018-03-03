@@ -10,33 +10,27 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-Saturday, March 3, 2018
+Saturday, March 17, 2018
 
 02:00 PM to 04:00 PM
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-<!--TBD-->
-02:00 - 02:15 Networking
+TBD
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 02:45 Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption ([Raj](members/raj))
-
-02:45 - 03:40 Mobile AI (Emilio)
-
-03:40 - 04:00 Speed it up with .. Python? (Martin )
-
-#### Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption
-Spatial Bloom Filters allow for a client and a server to interact without either party having to trust the other. For example, a server might want to check if a user falls under a blacklist based on their identity information. Using a spatial Bloom Filter along with homomorphic encryption, the server can hide the identity of the blacklisted individuals it is searching for while the user can hide their identity from the server. Even without them having to trust each other, the user can still prove that they do not belong to a blacklist.
+<!--#### Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption-->
+<!--Spatial Bloom Filters allow for a client and a server to interact without either party having to trust the other. For example, a server might want to check if a user falls under a blacklist based on their identity information. Using a spatial Bloom Filter along with homomorphic encryption, the server can hide the identity of the blacklisted individuals it is searching for while the user can hide their identity from the server. Even without them having to trust each other, the user can still prove that they do not belong to a blacklist.-->
 
 
-#### Mobile AI
-Machine Learning/AI frameworks and pipelines are used to be executed or deployed in a kind of PC+GPU hardware solution. Recently Google, Amazon, Microsoft, Facebook, etc. are opening their internal AI infrastructure to the public, offering ML/AI cloud computing as a service, mostly running NVIDIA's GPUs or dedicated NCU (Neural Computing Units) in their servers.
+<!--#### Mobile AI-->
+<!--Machine Learning/AI frameworks and pipelines are used to be executed or deployed in a kind of PC+GPU hardware solution. Recently Google, Amazon, Microsoft, Facebook, etc. are opening their internal AI infrastructure to the public, offering ML/AI cloud computing as a service, mostly running NVIDIA's GPUs or dedicated NCU (Neural Computing Units) in their servers.-->
 
-This solution works pretty well on applications and services that does offline, analytics, defers computing, or does not have hard real time requirements, however, most of the mobile first, upcoming IOT, UAV applications, are pushing for more connected sensors, more data flowing into the cloud, and UX with none or close to zero latencies.
+<!--This solution works pretty well on applications and services that does offline, analytics, defers computing, or does not have hard real time requirements, however, most of the mobile first, upcoming IOT, UAV applications, are pushing for more connected sensors, more data flowing into the cloud, and UX with none or close to zero latencies.-->
 
-With more powerful mobile and embedded chipsets with specific GPUs, AI/ML in mobile or IOT edge devices become possible, doing most or "enough" processing into the device itself, offloading some cloud computing processing and bandwidth for specifics.
+<!--With more powerful mobile and embedded chipsets with specific GPUs, AI/ML in mobile or IOT edge devices become possible, doing most or "enough" processing into the device itself, offloading some cloud computing processing and bandwidth for specifics.-->
 
-Current SOCs and platform status are probably not enough for the most advanced applications or uses cases, but those are first steps, there is already good open source and community support and is good enough to start playing with it.
+<!--Current SOCs and platform status are probably not enough for the most advanced applications or uses cases, but those are first steps, there is already good open source and community support and is good enough to start playing with it.-->
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
@@ -84,6 +78,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+
+### March 3, 2018
+* Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption ([Raj](members/raj), [presentation](presentations/Spatial_Bloom_Filters.pdf))
+* Mobile AI (Emilio, [presentation](presentations/mobile_AI.pdf))
+* Speed it up with .. Python? ([Martin](members/martin), [presentation](presentations/Speed_it_up_with_..._Python.pdf))
 
 ### February 17, 2018
 * Velocity Obstacles: Autonomous Navigation on 2D Environments ([Vincent](members/vincent), [presentation](presentations/Autonomous_Navigation_2D_Environments.pdf))
