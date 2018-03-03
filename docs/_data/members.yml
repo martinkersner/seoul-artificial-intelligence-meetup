@@ -6,6 +6,10 @@ martin:
   email: m.kersner@gmail.com
   bio: Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
   presentations:
+    - date: March 3, 2018
+      title: Speed it up with ... Python?
+      pdf: ../presentations/Speed_it_up_with_..._Python.pdf
+
     - date: January 6, 2018
       title: CNN Visualizations
       pdf: ../presentations/CNN_Visualizations.pdf
@@ -150,6 +154,10 @@ raj:
   rajweb: https://www.inf.tc
   bio: Cryptocurrency and blockchain specialist with an interest in Artificial Intelligence. Currently working at [INF Trading](https://www.inf.tc).
   presentations:
+    - date: March 3, 2018
+      title: Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption
+      pdf: ../presentations/Spatial_Bloom_Filters.pdf
+
     - date: February 17, 2018
       title: Homomorphic Encryption and Applications for Machine Learning and Other Areas
       pdf: ../presentations/Homomorphic_Encryption.pdf
