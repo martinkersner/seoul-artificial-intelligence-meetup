@@ -16,21 +16,17 @@ Saturday, March 17, 2018
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-TBD
-<!--02:00 - 02:15 Networking-->
+<!--TBD-->
+02:00 - 02:15 Networking
 
-<!--#### Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption-->
-<!--Spatial Bloom Filters allow for a client and a server to interact without either party having to trust the other. For example, a server might want to check if a user falls under a blacklist based on their identity information. Using a spatial Bloom Filter along with homomorphic encryption, the server can hide the identity of the blacklisted individuals it is searching for while the user can hide their identity from the server. Even without them having to trust each other, the user can still prove that they do not belong to a blacklist.-->
+02:15 - 03:00 Kx, kdb+ and q – An introduction (Kate Jory)
 
+03:00 - 04:00 TBD
 
-<!--#### Mobile AI-->
-<!--Machine Learning/AI frameworks and pipelines are used to be executed or deployed in a kind of PC+GPU hardware solution. Recently Google, Amazon, Microsoft, Facebook, etc. are opening their internal AI infrastructure to the public, offering ML/AI cloud computing as a service, mostly running NVIDIA's GPUs or dedicated NCU (Neural Computing Units) in their servers.-->
+#### Kx, kdb+ and q – An introduction
+The basis for Kx Technology is a uniquely integrated platform which includes a high-performance historical time-series columnar database called kdb+, an in-memory compute engine, and a real-time streaming processor all unified with an expressive query and programming language called q. Designed from the start for extreme scale, and running on industry standard servers, the kdb+ database has been proven to solve complex problems faster than any of its competitors. This talk will give you a high-level overview of Kx Technology as well as an introduction to our Kx Technology Fund - a global investment initiative that focuses on Big Data start-ups.
 
-<!--This solution works pretty well on applications and services that does offline, analytics, defers computing, or does not have hard real time requirements, however, most of the mobile first, upcoming IOT, UAV applications, are pushing for more connected sensors, more data flowing into the cloud, and UX with none or close to zero latencies.-->
-
-<!--With more powerful mobile and embedded chipsets with specific GPUs, AI/ML in mobile or IOT edge devices become possible, doing most or "enough" processing into the device itself, offloading some cloud computing processing and bandwidth for specifics.-->
-
-<!--Current SOCs and platform status are probably not enough for the most advanced applications or uses cases, but those are first steps, there is already good open source and community support and is good enough to start playing with it.-->
+Kate Jory will be presenting from Kx, she is the Kx Business Development Director for South Korea and is based full-time in Seoul. Her academic background is in Physics and International Business and her professional experience is in Global Business Development predominantly in the software industry.
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
