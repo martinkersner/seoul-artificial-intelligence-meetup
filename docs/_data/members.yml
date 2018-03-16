@@ -207,3 +207,16 @@ vincent:
     - date: February 17, 2018
       title: Autonomous Navigation on 2D Environments
       pdf: ../presentations/Autonomous_Navigation_2D_Environments.pdf
+
+emilio:
+  fullname: Emilio Jose Coronado Lopez
+  github:
+  gitlab:
+  linkedin: emiliocoronadolopez
+  email:
+  rajweb:
+  bio: Emilio is a visiting professor of IT Department in Gachon University in Seoul, long career developing mobile devices. His interest is in big data, IOT, distributed computing, running machine learning, AI frameworks in mobile devices or embedded chipsets with reasonable performance.
+  presentations:
+    - date: March 3, 2018
+      title: Mobile AI
+      pdf: ../presentations/Mobile_AI.pdf

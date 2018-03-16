@@ -83,7 +83,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 ### March 3, 2018
 * Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption ([Raj](members/raj), [presentation](presentations/Spatial_Bloom_Filters.pdf))
-* Mobile AI (Emilio, [presentation](presentations/mobile_AI.pdf))
+* Mobile AI (Emilio, [presentation](presentations/Mobile_AI.pdf))
 * Speed it up with ... Python? ([Martin](members/martin), [presentation](presentations/Speed_it_up_with_..._Python.pdf))
 
 ### February 17, 2018
