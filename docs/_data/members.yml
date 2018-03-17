@@ -153,7 +153,7 @@ raj:
   email: raj.contact@inf.tc
   rajweb: https://www.inf.tc
   bio: Cryptocurrency and blockchain specialist with an interest in Artificial Intelligence. Currently working at [INF Trading](https://www.inf.tc).
-  presentations:Smart contracts and scalability
+  presentations:
     - date: March 17, 2018
       title: Smart contracts and scalability
       pdf: ../presentations/Smart_Contracts_and_Scalability.pdf
