@@ -26,13 +26,13 @@ Saturday, March 31, 2018
 03:20 - 04:00 TBD
 
 
-#### Kx, kdb+ and q – An introduction
-The basis for Kx Technology is a uniquely integrated platform which includes a high-performance historical time-series columnar database called kdb+, an in-memory compute engine, and a real-time streaming processor all unified with an expressive query and programming language called q. Designed from the start for extreme scale, and running on industry standard servers, the kdb+ database has been proven to solve complex problems faster than any of its competitors. This talk will give you a high-level overview of Kx Technology as well as an introduction to our Kx Technology Fund - a global investment initiative that focuses on Big Data start-ups.
+<!--#### Kx, kdb+ and q – An introduction-->
+<!--The basis for Kx Technology is a uniquely integrated platform which includes a high-performance historical time-series columnar database called kdb+, an in-memory compute engine, and a real-time streaming processor all unified with an expressive query and programming language called q. Designed from the start for extreme scale, and running on industry standard servers, the kdb+ database has been proven to solve complex problems faster than any of its competitors. This talk will give you a high-level overview of Kx Technology as well as an introduction to our Kx Technology Fund - a global investment initiative that focuses on Big Data start-ups.-->
 
-Kate Jory will be presenting from Kx, she is the Kx Business Development Director for South Korea and is based full-time in Seoul. Her academic background is in Physics and International Business and her professional experience is in Global Business Development predominantly in the software industry.
+<!--Kate Jory will be presenting from Kx, she is the Kx Business Development Director for South Korea and is based full-time in Seoul. Her academic background is in Physics and International Business and her professional experience is in Global Business Development predominantly in the software industry.-->
 
-#### Introduction to Topological Data Analysis
-Topological Data Analysis is an approach to data analysis based on computational topology. It benefits the importance of "shape" of data in the broad sense. Aleksei will introduce basic concepts and tools and will discuss current advancements in the field.
+<!--#### Introduction to Topological Data Analysis-->
+<!--Topological Data Analysis is an approach to data analysis based on computational topology. It benefits the importance of "shape" of data in the broad sense. Aleksei will introduce basic concepts and tools and will discuss current advancements in the field.-->
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
@@ -84,7 +84,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 ### March 17, 2018
 * Kx, kdb+ and q – An introduction (Kate, [presentation](presentations/kx.pdf))
 * Introduction to Topological Data Analysis (Aleksei, [presentation](presentations/Introduction_to_Topological_Data_Analysis.pdf))
-* Smart Contracts and Scalability ([Raj](members/raj), [presentations](presentations/Smart_Contracts_and_Scalability.pdf))
+* Smart Contracts and Scalability ([Raj](members/raj), [presentation](presentations/Smart_Contracts_and_Scalability.pdf))
 
 ### March 3, 2018
 * Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption ([Raj](members/raj), [presentation](presentations/Spatial_Bloom_Filters.pdf))
