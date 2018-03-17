@@ -10,7 +10,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-Saturday, March 17, 2018
+Saturday, March 31, 2018
 
 02:00 PM to 04:00 PM
 <!--01:00 PM to 06:00 PM-->
@@ -19,11 +19,11 @@ Saturday, March 17, 2018
 <!--TBD-->
 02:00 - 02:15 Networking
 
-02:15 - 02:50 Kx, kdb+ and q – An introduction (Kate)
+02:15 - 03:00 MAML and Reptile ([Martin](members/martin))
 
-02:50 - 03:40 Introduction to Topological Data Analysis (Aleksei)
+03:00 - 03:20 Homomorphic voting schemes ([Raj](members/raj))
 
-03:40 - 04:00 TBD
+03:20 - 04:00 TBD
 
 
 #### Kx, kdb+ and q – An introduction
@@ -80,6 +80,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+
+### March 17, 2018
+* Kx, kdb+ and q – An introduction (Kate, [presentation](presentations/kx.pdf))
+* Introduction to Topological Data Analysis (Aleksei, [presentation](presentations/Introduction_to_Topological_Data_Analysis.pdf))
+* Smart Contracts and Scalability ([Raj](members/raj), [presentations](presentations/Smart_Contracts_and_Scalability.pdf))
 
 ### March 3, 2018
 * Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption ([Raj](members/raj), [presentation](presentations/Spatial_Bloom_Filters.pdf))
