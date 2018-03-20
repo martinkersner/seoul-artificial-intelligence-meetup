@@ -26,11 +26,11 @@ Saturday, March 31, 2018
 03:20 - 04:00 TBD
 
 
-### MAML and Reptile
+#### MAML and Reptile
 MAML and Reptile are meta-learning algorithms which learn parameter initialization that can be fine-tuned quickly on a new task.
 The goal of meta-learning is to train a model on a variety of learning tasks, such that it can solve new learning tasks using only a small number of training samples.
 
-### Homomorphic voting schemes
+#### Homomorphic voting schemes
 Current voting systems have a number of flaws and are inherently untrustable as there is no way for voters to audit and validate their votes. At the same time, open schemes where users present their votes  to everyone directly have flaws in that this allows for voters to sell their votes and for those who vote against some directive to be persecuted. Homomorphic encryption based voting schemes offer interesting solutions to both of these issues with more general applications as well.
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
