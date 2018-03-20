@@ -26,13 +26,12 @@ Saturday, March 31, 2018
 03:20 - 04:00 TBD
 
 
-<!--#### Kx, kdb+ and q – An introduction-->
-<!--The basis for Kx Technology is a uniquely integrated platform which includes a high-performance historical time-series columnar database called kdb+, an in-memory compute engine, and a real-time streaming processor all unified with an expressive query and programming language called q. Designed from the start for extreme scale, and running on industry standard servers, the kdb+ database has been proven to solve complex problems faster than any of its competitors. This talk will give you a high-level overview of Kx Technology as well as an introduction to our Kx Technology Fund - a global investment initiative that focuses on Big Data start-ups.-->
+### MAML and Reptile
+MAML and Reptile are meta-learning algorithms which learn parameter initialization that can be fine-tuned quickly on a new task.
+The goal of meta-learning is to train a model on a variety of learning tasks, such that it can solve new learning tasks using only a small number of training samples.
 
-<!--Kate Jory will be presenting from Kx, she is the Kx Business Development Director for South Korea and is based full-time in Seoul. Her academic background is in Physics and International Business and her professional experience is in Global Business Development predominantly in the software industry.-->
-
-<!--#### Introduction to Topological Data Analysis-->
-<!--Topological Data Analysis is an approach to data analysis based on computational topology. It benefits the importance of "shape" of data in the broad sense. Aleksei will introduce basic concepts and tools and will discuss current advancements in the field.-->
+### Homomorphic voting schemes
+Current voting systems have a number of flaws and are inherently untrustable as there is no way for voters to audit and validate their votes. At the same time, open schemes where users present their votes  to everyone directly have flaws in that this allows for voters to sell their votes and for those who vote against some directive to be persecuted. Homomorphic encryption based voting schemes offer interesting solutions to both of these issues with more general applications as well.
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
