@@ -35,7 +35,7 @@ Current voting systems have a number of flaws and are inherently untrustable as 
 
 ### Data Selfie
 Mozilla Fellow Hang Do Thi Duc has made a very cool art project using Facebook APIs, YOLO,and Watson NLP frameworks to create user data profiles based on shared information and Facebook usage
-https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/. This talk will be a basic presentation about the app architecture and what other use cases might fit.
+[https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/](https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/). This talk will be a basic presentation about the app architecture and what other use cases might fit.
 
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
