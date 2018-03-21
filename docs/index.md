@@ -21,9 +21,9 @@ Saturday, March 31, 2018
 
 02:15 - 03:00 MAML and Reptile ([Martin](members/martin))
 
-03:00 - 03:20 Homomorphic voting schemes ([Raj](members/raj))
+03:00 - 03:30 Homomorphic voting schemes ([Raj](members/raj))
 
-03:20 - 04:00 TBD
+03:30 - 04:00 Data Selfie ([Emilio](members/emilio))
 
 
 #### MAML and Reptile
@@ -32,6 +32,11 @@ The goal of meta-learning is to train a model on a variety of learning tasks, su
 
 #### Homomorphic voting schemes
 Current voting systems have a number of flaws and are inherently untrustable as there is no way for voters to audit and validate their votes. At the same time, open schemes where users present their votes  to everyone directly have flaws in that this allows for voters to sell their votes and for those who vote against some directive to be persecuted. Homomorphic encryption based voting schemes offer interesting solutions to both of these issues with more general applications as well.
+
+### Data Selfie
+Mozilla Fellow Hang Do Thi Duc has made a very cool art project using Facebook APIs, YOLO,and Watson NLP frameworks to create user data profiles based on shared information and Facebook usage
+https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/. This talk will be a basic presentation about the app architecture and what other use cases might fit.
+
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
 
@@ -87,7 +92,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 ### March 3, 2018
 * Spatial Bloom Filters and Privacy Preservation with Homomorphic Encryption ([Raj](members/raj), [presentation](presentations/Spatial_Bloom_Filters.pdf))
-* Mobile AI (Emilio, [presentation](presentations/Mobile_AI.pdf))
+* Mobile AI ([Emilio](members/emilio), [presentation](presentations/Mobile_AI.pdf))
 * Speed it up with ... Python? ([Martin](members/martin), [presentation](presentations/Speed_it_up_with_..._Python.pdf))
 
 ### February 17, 2018
