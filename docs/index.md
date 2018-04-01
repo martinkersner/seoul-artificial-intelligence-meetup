@@ -10,32 +10,32 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-Saturday, March 31, 2018
+Saturday, April 14, 2018
 
 02:00 PM to 04:00 PM
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-<!--TBD-->
-02:00 - 02:15 Networking
+1 year anniversary!
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 03:00 MAML and Reptile ([Martin](members/martin))
+<!--02:15 - 03:00 MAML and Reptile ([Martin](members/martin))-->
 
-03:00 - 03:30 Homomorphic voting schemes ([Raj](members/raj))
+<!--03:00 - 03:30 Homomorphic voting schemes ([Raj](members/raj))-->
 
-03:30 - 04:00 Data Selfie ([Emilio](members/emilio))
+<!--03:30 - 04:00 Data Selfie ([Emilio](members/emilio))-->
 
 
-#### MAML and Reptile
-MAML and Reptile are meta-learning algorithms which learn parameter initialization that can be fine-tuned quickly on a new task.
-The goal of meta-learning is to train a model on a variety of learning tasks, such that it can solve new learning tasks using only a small number of training samples.
+<!--#### MAML and Reptile-->
+<!--MAML and Reptile are meta-learning algorithms which learn parameter initialization that can be fine-tuned quickly on a new task.-->
+<!--The goal of meta-learning is to train a model on a variety of learning tasks, such that it can solve new learning tasks using only a small number of training samples.-->
 
-#### Homomorphic voting schemes
-Current voting systems have a number of flaws and are inherently untrustable as there is no way for voters to audit and validate their votes. At the same time, open schemes where users present their votes  to everyone directly have flaws in that this allows for voters to sell their votes and for those who vote against some directive to be persecuted. Homomorphic encryption based voting schemes offer interesting solutions to both of these issues with more general applications as well.
+<!--#### Homomorphic voting schemes-->
+<!--Current voting systems have a number of flaws and are inherently untrustable as there is no way for voters to audit and validate their votes. At the same time, open schemes where users present their votes  to everyone directly have flaws in that this allows for voters to sell their votes and for those who vote against some directive to be persecuted. Homomorphic encryption based voting schemes offer interesting solutions to both of these issues with more general applications as well.-->
 
-### Data Selfie
-Mozilla Fellow Hang Do Thi Duc has made a very cool art project using Facebook APIs, YOLO,and Watson NLP frameworks to create user data profiles based on shared information and Facebook usage
-[https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/](https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/). This talk will be a basic presentation about the app architecture and what other use cases might fit.
+<!--### Data Selfie-->
+<!--Mozilla Fellow Hang Do Thi Duc has made a very cool art project using Facebook APIs, YOLO,and Watson NLP frameworks to create user data profiles based on shared information and Facebook usage-->
+<!--[https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/](https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/). This talk will be a basic presentation about the app architecture and what other use cases might fit.-->
 
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
@@ -84,6 +84,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+
+### March 31, 2018
+* MAML and Reptile ([Martin](members/martin), [presentation](presentations/MAML_and_Reptile.pdf))
+* Homomorphic Voting Schemes ([Raj](members/raj), [presentation](presentations/Homomorphic_Voting_Scheme.pdf))
+* Data Selfie ([Emilio](members/emilio), [presentation](presentations/Data_Selfie.pdf))
 
 ### March 17, 2018
 * Kx, kdb+ and q – An introduction (Kate, [presentation](presentations/kx.pdf))
