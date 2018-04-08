@@ -16,16 +16,15 @@ Saturday, April 14, 2018
 <!--01:00 PM to 06:00 PM-->
 
 ### Program
-1 year anniversary!
-<!--02:00 - 02:15 Networking-->
+02:00 - 02:15 Networking
 
-<!--02:15 - 03:00 MAML and Reptile ([Martin](members/martin))-->
+02:15 - 03:30 [Unconference](https://en.wikipedia.org/wiki/Unconference)
 
-<!--03:00 - 03:30 Homomorphic voting schemes ([Raj](members/raj))-->
-
-<!--03:30 - 04:00 Data Selfie ([Emilio](members/emilio))-->
+03:30 - 04:00 Celebrating 1 year anniversary of Seoul AI
 
 
+#### Unconference
+Typically at an unconference, the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space. Unconferences typically feature open discussions rather than having a single speaker at the front of the room giving a talk, although any format is permitted. This form of conference is particularly useful when the attendees generally have a high level of expertise or knowledge in the field the conference convenes to discuss.
 <!--#### MAML and Reptile-->
 <!--MAML and Reptile are meta-learning algorithms which learn parameter initialization that can be fine-tuned quickly on a new task.-->
 <!--The goal of meta-learning is to train a model on a variety of learning tasks, such that it can solve new learning tasks using only a small number of training samples.-->
