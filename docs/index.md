@@ -10,21 +10,22 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-Saturday, April 14, 2018
+TBD
+<!--Saturday, April 14, 2018-->
 
-02:00 PM to 04:00 PM
-<!--01:00 PM to 06:00 PM-->
+<!--02:00 PM to 04:00 PM-->
 
 ### Program
-02:00 - 02:15 Networking
+TBD
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 03:30 [Unconference](https://en.wikipedia.org/wiki/Unconference)
+<!--02:15 - 03:30 [Unconference](https://en.wikipedia.org/wiki/Unconference)-->
 
-03:30 - 04:00 Celebrating 1 year anniversary of Seoul AI
+<!--03:30 - 04:00 Celebrating 1 year anniversary of Seoul AI-->
 
 
-#### Unconference
-Typically at an unconference, the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space. Unconferences typically feature open discussions rather than having a single speaker at the front of the room giving a talk, although any format is permitted. This form of conference is particularly useful when the attendees generally have a high level of expertise or knowledge in the field the conference convenes to discuss.
+<!--#### Unconference-->
+<!--Typically at an unconference, the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space. Unconferences typically feature open discussions rather than having a single speaker at the front of the room giving a talk, although any format is permitted. This form of conference is particularly useful when the attendees generally have a high level of expertise or knowledge in the field the conference convenes to discuss.-->
 <!--#### MAML and Reptile-->
 <!--MAML and Reptile are meta-learning algorithms which learn parameter initialization that can be fine-tuned quickly on a new task.-->
 <!--The goal of meta-learning is to train a model on a variety of learning tasks, such that it can solve new learning tasks using only a small number of training samples.-->
@@ -83,6 +84,10 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+
+### April 14, 2018
+* Unfoncerence
+* Celebrating 1 year anniversary of Seoul AI
 
 ### March 31, 2018
 * MAML and Reptile ([Martin](members/martin), [presentation](presentations/MAML_and_Reptile.pdf))
