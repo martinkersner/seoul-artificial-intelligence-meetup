@@ -10,18 +10,20 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-TBD
-<!--Saturday, April 14, 2018-->
+<!--TBD-->
+Saturday, April 14, 2018
 
-<!--02:00 PM to 04:00 PM-->
+02:00 PM to 04:00 PM
 
 ### Program
-TBD
-<!--02:00 - 02:15 Networking-->
+<!--TBD-->
+02:00 - 02:15 Networking
 
-<!--02:15 - 03:30 [Unconference](https://en.wikipedia.org/wiki/Unconference)-->
+02:15 - 03:00 Name Entity Recognition for medicines ([Cinyoung](members/cinyoung))
 
-<!--03:30 - 04:00 Celebrating 1 year anniversary of Seoul AI-->
+03:00 - 03:30 A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel))
+
+03:30 - 04:00 uTensor ([Emilio](members/emilio))
 
 
 <!--#### Unconference-->
