@@ -11,7 +11,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 
 ### When
 <!--TBD-->
-Saturday, April 14, 2018
+Saturday, April 28, 2018
 
 02:00 PM to 04:00 PM
 
