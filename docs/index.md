@@ -26,6 +26,9 @@ Saturday, April 28, 2018
 03:30 - 04:00 uTensor / Tensorflow on Mbed Microcontrollers ([Emilio](members/emilio))
 
 
+#### Name Entity Recognition for Medicines
+This talk will be an introduction of NER and its application to extraction of drug names and dosage in documents.
+
 #### uTensor / Tensorflow on Mbed Microcontrollers
 ARM has made uTensor library to support ML/AI inference in MBED micro controllers. uTensor translates Tensorflow model into a C++ compatible library that can be imported to MBED apps. This talk will also show MNIST character recognition demo on STM32F413 development platform.
 
