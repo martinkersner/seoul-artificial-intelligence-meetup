@@ -26,22 +26,8 @@ Saturday, April 28, 2018
 03:30 - 04:00 uTensor / Tensorflow on Mbed Microcontrollers ([Emilio](members/emilio))
 
 
-### uTensor / Tensorflow on Mbed Microcontrollers
+#### uTensor / Tensorflow on Mbed Microcontrollers
 ARM has made uTensor library to support ML/AI inference in MBED micro controllers. uTensor translates Tensorflow model into a C++ compatible library that can be imported to MBED apps. This talk will also show MNIST character recognition demo on STM32F413 development platform.
-
-
-<!--#### Unconference-->
-<!--Typically at an unconference, the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space. Unconferences typically feature open discussions rather than having a single speaker at the front of the room giving a talk, although any format is permitted. This form of conference is particularly useful when the attendees generally have a high level of expertise or knowledge in the field the conference convenes to discuss.-->
-<!--#### MAML and Reptile-->
-<!--MAML and Reptile are meta-learning algorithms which learn parameter initialization that can be fine-tuned quickly on a new task.-->
-<!--The goal of meta-learning is to train a model on a variety of learning tasks, such that it can solve new learning tasks using only a small number of training samples.-->
-
-<!--#### Homomorphic voting schemes-->
-<!--Current voting systems have a number of flaws and are inherently untrustable as there is no way for voters to audit and validate their votes. At the same time, open schemes where users present their votes  to everyone directly have flaws in that this allows for voters to sell their votes and for those who vote against some directive to be persecuted. Homomorphic encryption based voting schemes offer interesting solutions to both of these issues with more general applications as well.-->
-
-<!--### Data Selfie-->
-<!--Mozilla Fellow Hang Do Thi Duc has made a very cool art project using Facebook APIs, YOLO,and Watson NLP frameworks to create user data profiles based on shared information and Facebook usage-->
-<!--[https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/](https://blog.mozilla.org/blog/2018/03/15/prepare-to-be-creeped-out/). This talk will be a basic presentation about the app architecture and what other use cases might fit.-->
 
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
