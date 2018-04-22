@@ -19,11 +19,15 @@ Saturday, April 28, 2018
 <!--TBD-->
 02:00 - 02:15 Networking
 
-02:15 - 03:00 Name Entity Recognition for medicines ([Cinyoung](members/cinyoung))
+02:15 - 03:00 Name Entity Recognition for Medicines ([Cinyoung](members/cinyoung))
 
 03:00 - 03:30 A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel))
 
-03:30 - 04:00 uTensor ([Emilio](members/emilio))
+03:30 - 04:00 uTensor / Tensorflow on Mbed Microcontrollers ([Emilio](members/emilio))
+
+
+### uTensor / Tensorflow on Mbed Microcontrollers
+ARM has made uTensor library to support ML/AI inference in MBED micro controllers. uTensor translates Tensorflow model into a C++ compatible library that can be imported to MBED apps. This talk will also show MNIST character recognition demo on STM32F413 development platform.
 
 
 <!--#### Unconference-->
