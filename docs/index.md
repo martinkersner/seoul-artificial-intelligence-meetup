@@ -29,6 +29,9 @@ Saturday, April 28, 2018
 #### Name Entity Recognition for Medicines
 This talk will be an introduction of NER and its application to extraction of drug names and dosage in documents.
 
+#### A Toy Model for Homomorphic Encryption for Linear Regression
+Over the last few years, the volume of data has exploded, the collection and manipulation of data by cloud services has been democratized. While cloud computing platforms can perform difficult computations it also raised the question of privacy. A solution is to use homomorphic encryption, a form of encryption that allows computation on encrypted data. Can machine learning algorithms be trained on encrypted data? In this talk Adel will provide a naive answer through a simple toy model for linear regression.
+
 #### uTensor / Tensorflow on Mbed Microcontrollers
 ARM has made uTensor library to support ML/AI inference in MBED micro controllers. uTensor translates Tensorflow model into a C++ compatible library that can be imported to MBED apps. This talk will also show MNIST character recognition demo on STM32F413 development platform.
 
