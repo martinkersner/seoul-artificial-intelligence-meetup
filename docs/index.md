@@ -10,30 +10,30 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--## Mini AI Hackathon-->
 
 ### When
-<!--TBD-->
-Saturday, April 28, 2018
+TBD
+<!--Saturday, April 28, 2018-->
 
-02:00 PM to 04:00 PM
+<!--02:00 PM to 04:00 PM-->
 
 ### Program
-<!--TBD-->
-02:00 - 02:15 Networking
+TBD
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 03:00 Name Entity Recognition for Medicines ([Cinyoung](members/cinyoung))
+<!--02:15 - 03:00 Name Entity Recognition for Medicines ([Cinyoung](members/cinyoung))-->
 
-03:00 - 03:30 A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel))
+<!--03:00 - 03:30 A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel))-->
 
-03:30 - 04:00 uTensor / Tensorflow on Mbed Microcontrollers ([Emilio](members/emilio))
+<!--03:30 - 04:00 uTensor / Tensorflow on Mbed Microcontrollers ([Emilio](members/emilio))-->
 
 
-#### Name Entity Recognition for Medicines
-This talk will be an introduction of NER and its application to extraction of drug names and dosage in documents.
+<!--#### Name Entity Recognition for Medicines-->
+<!--This talk will be an introduction of NER and its application to extraction of drug names and dosage in documents.-->
 
-#### A Toy Model for Homomorphic Encryption for Linear Regression
-Over the last few years, the volume of data has exploded, the collection and manipulation of data by cloud services has been democratized. While cloud computing platforms can perform difficult computations it also raised the question of privacy. A solution is to use homomorphic encryption, a form of encryption that allows computation on encrypted data. Can machine learning algorithms be trained on encrypted data? In this talk Adel will provide a naive answer through a simple toy model for linear regression.
+<!--#### A Toy Model for Homomorphic Encryption for Linear Regression-->
+<!--Over the last few years, the volume of data has exploded, the collection and manipulation of data by cloud services has been democratized. While cloud computing platforms can perform difficult computations it also raised the question of privacy. A solution is to use homomorphic encryption, a form of encryption that allows computation on encrypted data. Can machine learning algorithms be trained on encrypted data? In this talk Adel will provide a naive answer through a simple toy model for linear regression.-->
 
-#### uTensor / Tensorflow on Mbed Microcontrollers
-ARM has made uTensor library to support ML/AI inference in MBED micro controllers. uTensor translates Tensorflow model into a C++ compatible library that can be imported to MBED apps. This talk will also show MNIST character recognition demo on STM32F413 development platform.
+<!--#### uTensor / Tensorflow on Mbed Microcontrollers-->
+<!--ARM has made uTensor library to support ML/AI inference in MBED micro controllers. uTensor translates Tensorflow model into a C++ compatible library that can be imported to MBED apps. This talk will also show MNIST character recognition demo on STM32F413 development platform.-->
 
 
 <!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
@@ -82,6 +82,11 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 <br/>
 ## Previous Meetups
+
+### April 28, 2018
+* Name Entity Recognition for Medicines ([Cinyoung](members/cinyoung), [presentation](presentations/Name_Entity_Recognition_for_Medicines.pdf))
+* A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel), [presentation](presentations/A_Toy_Model_for_Homomorphic_Encryption_for_Linear_Regression.pdf))
+* uTensor / Tensorflow on Mbed Microcontrollers ([Emilio](members/emilio), [presentation](presentations/uTensor.pdf))
 
 ### April 14, 2018
 * Unfoncerence

@@ -115,6 +115,10 @@ cinyoung:
   email: cinyoung.hur@gmail.com
   bio: Medical Data Engineer, currently working at Linewalks, Inc.
   presentations:
+    - date: April 28, 2018
+      title: Name Entity Recognition for Medicines
+      pdf: ../presentations/Name_Entity_Recognition_for_Medicines.pdf
+
     - date: February 3, 2018
       title: Feature Preprocessing and Generation with Respect to Models part 2
       pdf: ../presentations/Preprocessing_Tips_part2.pdf
@@ -197,6 +201,10 @@ adel:
   rajweb:
   bio: Adel is a researcher in Quantum Information with an interest in Machine Learning.
   presentations:
+    - date: April 28, 2018
+      title: A Toy Model for Homomorphic Encryption for Linear Regression
+      pdf: ../presentations/A_Toy_Model_for_Homomorphic_Encryption_for_Linear_Regression.pdf
+
     - date: September 30, 2017
       title: Trading Bitcoin and Online Time Series Prediction
       pdf: ../presentations/Trading_Bitcoin_and_Online_Time_Series_Prediction.pdf
@@ -230,6 +238,10 @@ emilio:
   rajweb:
   bio: Emilio is a visiting professor of IT Department in Gachon University in Seoul, long career developing mobile devices. His interest is in big data, IOT, distributed computing, running machine learning, AI frameworks in mobile devices or embedded chipsets with reasonable performance.
   presentations:
+    - date: April 28, 2018
+      title: uTensor / Tensorflow on Mbed Microcontrollers
+      pdf: ../presentations/uTensor.pdf
+
     - date: March 31, 2018
       title: Data Selfie
       pdf: ../presentations/Data_Selfie.pdf
