@@ -9,6 +9,8 @@ If you are interested in any topic related to Artificial Intelligence and would 
 
 All presentations/practice sessions should be held in **English**.
 
+If you feel ready to present, fill out please this form [https://goo.gl/forms/D2bD4W5ZRnpm5ZWG2](https://goo.gl/forms/D2bD4W5ZRnpm5ZWG2).
+
 ## Examples of topic propositions
 
 * Competing in [Kaggle](https://www.kaggle.com/) or any other only data science competition
