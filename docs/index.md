@@ -4,19 +4,30 @@ summary: Seoul Artificial Intelligence (Seoul AI) is a group of enthusiasts will
 tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Machine Learning",Korea,Gangnam]
 ---
 
-If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/).
+If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/). If you want to give a talk [fill in form here](https://goo.gl/forms/BaMrDY3cddP2g82S2) please.
 
-## Upcoming Meetup
-<!--## Mini AI Hackathon-->
+<!--## Upcoming Meetup-->
+## Seoul AI Hackathon
 
 ### When
-TBD
-<!--Saturday, April 28, 2018-->
+<!--TBD-->
+Saturday, May 12, 2018
 
-<!--02:00 PM to 04:00 PM-->
+10:00 AM to 06:00 PM
 
 ### Program
-TBD
+10:00 - 10:30 1-3 minutes pitch of your topic
+
+10:30 - 12:00 Happy hacking
+
+12:00 - 13:00 Lunch break
+
+13:00 - 17:00 Happy hacking
+
+17:00 - 17:30 1-3 minutes presentation of what you've done
+
+17:30 - 18:00 AI Hackathon review
+<!--TBD-->
 <!--02:00 - 02:15 Networking-->
 
 <!--02:15 - 03:00 Name Entity Recognition for Medicines ([Cinyoung](members/cinyoung))-->
@@ -46,16 +57,16 @@ TBD
 
 <!--05:45 - 06:00 Evaluation - Each participant will get 60 seconds to explain what they achieved/learned during Mini AI Hackathon.-->
 
-<!--## Details-->
+## Details
 
-<!--It is recommended to think about project you want to work on in advance. You can continue working on some of your projects. You can learn new framework that could be useful for you later on. Or maybe you want implement some new NN architecture? Great! There are no limits to projects, however, the project should be related to Artificial Intelligence.-->
+It is recommended to think about project you want to work on in advance. You can continue working on some of your projects. You can learn new framework that could be useful for you later on. Or maybe you want implement some new NN architecture? Great! There are no limits to projects, however, the project should be related to Artificial Intelligence.
 
-<!--## Team-->
+## Team
 
-<!--Mini AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
+Seoul AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))
 
-<!--### Registration-->
-<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/246729049/).-->
+### Registration
+Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/250331263/) and [fill in](https://goo.gl/forms/ESE5U6bf4HJyZ67X2) information about your project.
 
 
 ### Price
