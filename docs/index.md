@@ -96,7 +96,7 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 
 ### April 28, 2018
 * Name Entity Recognition for Medicines ([Cinyoung](members/cinyoung), [presentation](presentations/Name_Entity_Recognition_for_Medicines.pdf))
-* A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel), [presentation](presentations/A_Toy_Model_for_Homomorphic_Encryption_for_Linear_Regression.pdf))
+* A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel), [presentation](presentations/A_Toy_Model_for_Homomorphic_Encryption_for_Linear_Regression.pdf), [Jupyter Notebook](https://github.com/adelshb/Toy-Model-for-Homomorphic-Encryption-for-Linear-Regression/blob/master/Homomorphic_Encryption_for_Lieanr_Regression.ipynb))
 * uTensor / Tensorflow on Mbed Microcontrollers ([Emilio](members/emilio), [presentation](presentations/uTensor.pdf))
 
 ### April 14, 2018
