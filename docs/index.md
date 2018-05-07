@@ -4,7 +4,7 @@ summary: Seoul Artificial Intelligence (Seoul AI) is a group of enthusiasts will
 tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Machine Learning",Korea,Gangnam]
 ---
 
-If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/). If you want to give a talk [fill in form here](https://goo.gl/forms/BaMrDY3cddP2g82S2) please.
+If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/). If you want to give a talk [fill in this form](https://goo.gl/forms/BaMrDY3cddP2g82S2). To receive (by email) the latest information about upcoming meetups, hackathons and other events organized by Seoul AI, [subscribe through this form](subscribe).
 
 <!--## Upcoming Meetup-->
 ## Seoul AI Hackathon
