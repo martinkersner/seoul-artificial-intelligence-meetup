@@ -204,6 +204,7 @@ adel:
     - date: April 28, 2018
       title: A Toy Model for Homomorphic Encryption for Linear Regression
       pdf: ../presentations/A_Toy_Model_for_Homomorphic_Encryption_for_Linear_Regression.pdf
+      pynb: https://github.com/adelshb/Toy-Model-for-Homomorphic-Encryption-for-Linear-Regression/blob/master/Homomorphic_Encryption_for_Lieanr_Regression.ipynb
 
     - date: September 30, 2017
       title: Trading Bitcoin and Online Time Series Prediction
