@@ -57,11 +57,11 @@ Saturday, May 12, 2018
 
 <!--05:45 - 06:00 Evaluation - Each participant will get 60 seconds to explain what they achieved/learned during Mini AI Hackathon.-->
 
-## Details
+### Details
 
 It is recommended to think about project you want to work on in advance. You can continue working on some of your projects. You can learn new framework that could be useful for you later on. Or maybe you want implement some new NN architecture? Great! There are no limits to projects, however, the project should be related to Artificial Intelligence.
 
-## Team
+### Team
 
 Seoul AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))
 
