@@ -90,6 +90,9 @@ Modulabs, 서울특별시 강남구 역삼동 789-4, 서울 ([map](https://www.g
 <br/>
 ## Previous Meetups
 
+### May 12, 2018
+Seoul AI Hackathon ([info](presentations/3rd_Seoul_AI_Hackathon_info.pdf), [project presentations](presentations/3rd_Seoul_AI_Hackathon.pdf))
+
 ### April 28, 2018
 * Name Entity Recognition for Medicines ([Cinyoung](members/cinyoung), [presentation](presentations/Name_Entity_Recognition_for_Medicines.pdf))
 * A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel), [presentation](presentations/A_Toy_Model_for_Homomorphic_Encryption_for_Linear_Regression.pdf), [Jupyter Notebook](https://github.com/adelshb/Toy-Model-for-Homomorphic-Encryption-for-Linear-Regression/blob/master/Homomorphic_Encryption_for_Lieanr_Regression.ipynb))
