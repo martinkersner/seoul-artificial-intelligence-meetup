@@ -6,67 +6,64 @@ tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Ma
 
 If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/). If you want to give a talk [fill in this form](https://goo.gl/forms/BaMrDY3cddP2g82S2). To receive (by email) the latest information about upcoming meetups, hackathons and other events organized by Seoul AI, [subscribe through this form](subscribe).
 
-<!--## Upcoming Meetup-->
-## Seoul AI Hackathon
+## Upcoming Meetup
+<!--## Seoul AI Hackathon-->
 
 ### When
-<!--TBD-->
-Saturday, May 12, 2018
+Saturday, May 26, 2018
 
-10:00 AM to 06:00 PM
+02:00 AM to 04:00 PM
 
 ### Program
-10:00 - 10:30 1-3 minutes pitch of your topic
+02:00 - 02:15 Networking
 
-10:30 - 12:00 Happy hacking
+02:15 - 02:45 Configuring neural style transfer for artistic visual variations (Chaehan So)
 
-12:00 - 13:00 Lunch break
+02:45 - 03:15 Brain Tumor Segmentation (Lars Sjösund)
 
-13:00 - 17:00 Happy hacking
+03:15 - 04:00 TBD
+<!--10:00 - 10:30 1-3 minutes pitch of your topic-->
 
-17:00 - 17:30 1-3 minutes presentation of what you've done
+<!--10:30 - 12:00 Happy hacking-->
 
-17:30 - 18:00 AI Hackathon review
+<!--12:00 - 13:00 Lunch break-->
+
+<!--13:00 - 17:00 Happy hacking-->
+
+<!--17:00 - 17:30 1-3 minutes presentation of what you've done-->
+
+<!--17:30 - 18:00 AI Hackathon review-->
 <!--TBD-->
-<!--02:00 - 02:15 Networking-->
 
-<!--02:15 - 03:00 Name Entity Recognition for Medicines ([Cinyoung](members/cinyoung))-->
+### Presenters
 
-<!--03:00 - 03:30 A Toy Model for Homomorphic Encryption for Linear Regression ([Adel](members/adel))-->
+#### Chaehan So
+https://kr.linkedin.com/in/chaehan-so-087261
 
-<!--03:30 - 04:00 uTensor / Tensorflow on Mbed Microcontrollers ([Emilio](members/emilio))-->
+Chaehan So is a professor of design & marketing research at Hongik University, International School of Design for Advanced Studies (IDAS) in Seoul, South Korea. His main research interests are on experience design, design thinking methodology and applied AI. Together, Dr. So is merging these methods into design psychology - new and psychologically-grounded ways of creating user experience. Dr. So has a strong interdisciplinary intent that arises from his diverse educational background - he has master’s degrees in business (Ecole Supérieure de Commerce de Paris, France) and electrical engineering (Technical University Berlin, Germany) and a Ph.D. in Psychology (Humboldt University of Berlin, Germany). Previously, Dr. So had gained over 13 years consulting experience in agile methodologies and management of online companies.
+
+##### Configuring neural style transfer for artistic visual variations
+A well-documented neural style transfer algorithm (Johnson 2016) is explored in four experiments on parameters with direct impact on visual output: number of iterations, learning rate, total variation strength, and content to style weight. Results of these experiments allow to give recommendations for the range of parameter configurations that show satisfactory variations of artistic style.
+
+#### Lars Sjösund
+https://www.linkedin.com/in/lars-lowe-sj%C3%B6sund-22429560/
+
+Lars is working as an AI research engineer at the Sweden based startup Peltarion, and in his spare time he's running Stockholm AI, the biggest AI community in Sweden. He was an exchange student at KAIST many years ago, and now he spends around 30% of his time in Korea.
+
+##### Brain Tumor Segmentation
+We'll start by going through and get intuition about the U-Net, a common baseline for image segmentation. The specific field of application will be brain tumor segmentation. After this we look at Tiramisu, an extension of U-Net that is much more parameter efficient while achieving SOTA on several benchmarks.
 
 
-<!--#### Name Entity Recognition for Medicines-->
-<!--This talk will be an introduction of NER and its application to extraction of drug names and dosage in documents.-->
+<!--### Details-->
 
-<!--#### A Toy Model for Homomorphic Encryption for Linear Regression-->
-<!--Over the last few years, the volume of data has exploded, the collection and manipulation of data by cloud services has been democratized. While cloud computing platforms can perform difficult computations it also raised the question of privacy. A solution is to use homomorphic encryption, a form of encryption that allows computation on encrypted data. Can machine learning algorithms be trained on encrypted data? In this talk Adel will provide a naive answer through a simple toy model for linear regression.-->
+<!--It is recommended to think about project you want to work on in advance. You can continue working on some of your projects. You can learn new framework that could be useful for you later on. Or maybe you want implement some new NN architecture? Great! There are no limits to projects, however, the project should be related to Artificial Intelligence.-->
 
-<!--#### uTensor / Tensorflow on Mbed Microcontrollers-->
-<!--ARM has made uTensor library to support ML/AI inference in MBED micro controllers. uTensor translates Tensorflow model into a C++ compatible library that can be imported to MBED apps. This talk will also show MNIST character recognition demo on STM32F413 development platform.-->
+<!--### Team-->
 
+<!--Seoul AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
 
-<!--01:00 - 01:15 Introduction - What is the goal of Mini AI Hackathon?-->
-
-<!--01:15 - 02:00 Hacking-->
-
-<!--02:00 - 02:00 Quick checkup on projects that participants are working on-->
-
-<!--02:00 - 05:45 Hacking-->
-
-<!--05:45 - 06:00 Evaluation - Each participant will get 60 seconds to explain what they achieved/learned during Mini AI Hackathon.-->
-
-### Details
-
-It is recommended to think about project you want to work on in advance. You can continue working on some of your projects. You can learn new framework that could be useful for you later on. Or maybe you want implement some new NN architecture? Great! There are no limits to projects, however, the project should be related to Artificial Intelligence.
-
-### Team
-
-Seoul AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))
-
-### Registration
-Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/250331263/) and [fill in](https://goo.gl/forms/ESE5U6bf4HJyZ67X2) information about your project.
+<!--### Registration-->
+<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/250331263/) and [fill in](https://goo.gl/forms/ESE5U6bf4HJyZ67X2) information about your project.-->
 
 
 ### Price
