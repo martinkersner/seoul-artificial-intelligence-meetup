@@ -38,7 +38,7 @@ Saturday, May 26, 2018
 ### Presenters
 
 #### Chaehan So
-https://kr.linkedin.com/in/chaehan-so-087261
+[https://kr.linkedin.com/in/chaehan-so-087261](https://kr.linkedin.com/in/chaehan-so-087261)
 
 Chaehan So is a professor of design & marketing research at Hongik University, International School of Design for Advanced Studies (IDAS) in Seoul, South Korea. His main research interests are on experience design, design thinking methodology and applied AI. Together, Dr. So is merging these methods into design psychology - new and psychologically-grounded ways of creating user experience. Dr. So has a strong interdisciplinary intent that arises from his diverse educational background - he has master’s degrees in business (Ecole Supérieure de Commerce de Paris, France) and electrical engineering (Technical University Berlin, Germany) and a Ph.D. in Psychology (Humboldt University of Berlin, Germany). Previously, Dr. So had gained over 13 years consulting experience in agile methodologies and management of online companies.
 
@@ -46,7 +46,7 @@ Chaehan So is a professor of design & marketing research at Hongik University, I
 A well-documented neural style transfer algorithm (Johnson 2016) is explored in four experiments on parameters with direct impact on visual output: number of iterations, learning rate, total variation strength, and content to style weight. Results of these experiments allow to give recommendations for the range of parameter configurations that show satisfactory variations of artistic style.
 
 #### Lars Sjösund
-https://www.linkedin.com/in/lars-lowe-sj%C3%B6sund-22429560/
+[https://www.linkedin.com/in/lars-lowe-sj%C3%B6sund-22429560/](https://www.linkedin.com/in/lars-lowe-sj%C3%B6sund-22429560/)
 
 Lars is working as an AI research engineer at the Sweden based startup Peltarion, and in his spare time he's running Stockholm AI, the biggest AI community in Sweden. He was an exchange student at KAIST many years ago, and now he spends around 30% of his time in Korea.
 
