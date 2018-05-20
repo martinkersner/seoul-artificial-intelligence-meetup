@@ -21,7 +21,7 @@ Saturday, May 26, 2018
 
 03:00 - 03:40 Brain Tumor Segmentation (Lars Sjösund)
 
-03:40 - 04:00 Art Science and technology; Artwork using AI
+03:40 - 04:00 Art Science and technology; Artwork using AI (Elly Yaeli Cho)
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
 
 <!--10:30 - 12:00 Happy hacking-->
