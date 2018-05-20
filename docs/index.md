@@ -17,11 +17,11 @@ Saturday, May 26, 2018
 ### Program
 02:00 - 02:15 Networking
 
-02:15 - 02:45 Configuring neural style transfer for artistic visual variations (Chaehan So)
+02:15 - 03:00 Configuring neural style transfer for artistic visual variations (Chaehan So)
 
-02:45 - 03:15 Brain Tumor Segmentation (Lars Sjösund)
+03:00 - 03:40 Brain Tumor Segmentation (Lars Sjösund)
 
-03:15 - 04:00 TBD
+03:40 - 04:00 Art Science and technology; Artwork using AI
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
 
 <!--10:30 - 12:00 Happy hacking-->
@@ -52,6 +52,14 @@ Lars is working as an AI research engineer at the Sweden based startup Peltarion
 
 ##### Brain Tumor Segmentation
 We'll start by going through and get intuition about the U-Net, a common baseline for image segmentation. The specific field of application will be brain tumor segmentation. After this we look at Tiramisu, an extension of U-Net that is much more parameter efficient while achieving SOTA on several benchmarks.
+
+#### Elly Yaeli Cho
+[https://www.linkedin.com/in/elly-cho-8098609/](https://www.linkedin.com/in/elly-cho-8098609/)
+
+Experienced Artist with a demonstrated history of working in the fine art industry. Skilled in Collage, media art, Contemporary Art, Printmaking, and Art Education. Strong arts and design professional with a Graduate of Slade School of Fine Art and graduate of Art Education from Columbia University NY.
+
+##### Art Science and technology; Artwork using AI
+I'd like to present my ideas using AI for my artwork. My works are deeply connected to history and the people's perception of nature. Recently I have been interested in how machine and human respond to each other and I have been showing a performance piece about it last year. I'd like to continue with this subject using AI as a performer.
 
 
 <!--### Details-->
