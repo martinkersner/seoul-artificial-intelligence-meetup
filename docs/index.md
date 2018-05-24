@@ -19,7 +19,7 @@ Saturday, May 26, 2018
 ### Program
 02:00 - 02:15 Networking
 
-02:15 - 03:00 Configuring neural style transfer for artistic visual variations (Chaehan So)
+02:15 - 03:00 Configuring neural style transfer for artistic visual variations (소재한, Chaehan So)
 
 03:00 - 03:40 Brain Tumor Segmentation (Lars Sjösund)
 
@@ -39,7 +39,7 @@ Saturday, May 26, 2018
 
 ### Presenters
 
-#### Chaehan So
+#### 소재한, Chaehan So
 [https://kr.linkedin.com/in/chaehan-so-087261](https://kr.linkedin.com/in/chaehan-so-087261)
 
 Chaehan So is a professor of design & marketing research at Hongik University, International School of Design for Advanced Studies (IDAS) in Seoul, South Korea. His main research interests are on experience design, design thinking methodology and applied AI. Together, Dr. So is merging these methods into design psychology - new and psychologically-grounded ways of creating user experience. Dr. So has a strong interdisciplinary intent that arises from his diverse educational background - he has master’s degrees in business (Ecole Supérieure de Commerce de Paris, France) and electrical engineering (Technical University Berlin, Germany) and a Ph.D. in Psychology (Humboldt University of Berlin, Germany). Previously, Dr. So had gained over 13 years consulting experience in agile methodologies and management of online companies.
