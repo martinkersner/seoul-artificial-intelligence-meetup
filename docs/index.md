@@ -22,7 +22,10 @@ Saturday, June 9, 2018
 
 02:15 - 02:45 Object detection transfer learning tool (Sulki Kim)
 
-02:45 - 04:00 TBD
+02:45 - 3:20 Dimensionality Reduction with t-SNE (Zaur Fataliyev)
+
+03:20 - 04:00 TBD
+
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
 
 <!--10:30 - 12:00 Happy hacking-->
@@ -36,7 +39,15 @@ Saturday, June 9, 2018
 <!--17:30 - 18:00 AI Hackathon review-->
 <!--TBD-->
 
-<!--### Presenters-->
+### Presenters
+
+#### Zaur Fataliyev
+[https://www.linkedin.com/in/fvzaur](https://www.linkedin.com/in/fvzaur)
+
+Currently working as a Senior Engineer at LG Electronics. Graduated from KAIST (Bachelor in Electrical Engineering) and Korea University (Master in Electrical and Computer Engineering).
+
+##### Dimensionality Reduction with t-SNE
+t-SNE is a nonlinear dimensionality reduction technique well-suited for embedding high-dimensional data for visualization in a low-dimensional space of two or three dimensions. It models each high-dimensional object by a two- or three-dimensional point in such a way that similar objects are modeled by nearby points and dissimilar objects are modeled by distant points with high probability.
 
 
 <!--### Details-->
