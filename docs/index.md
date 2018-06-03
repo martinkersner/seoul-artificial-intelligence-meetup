@@ -41,6 +41,14 @@ Saturday, June 9, 2018
 
 ### Presenters
 
+#### Sulki Kim
+Sulki Kim is currently working as AI Engineer at Samsung SDS.
+
+##### Object detection transfer learning tool
+Sulki Kim will present about Transfer learning and Active learning using Tensorflow object detection API.
+
+Notice: Presentation will be held in KOREAN.
+
 #### Zaur Fataliyev
 [https://www.linkedin.com/in/fvzaur](https://www.linkedin.com/in/fvzaur)
 
