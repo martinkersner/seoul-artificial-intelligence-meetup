@@ -62,7 +62,7 @@ t-SNE is a nonlinear dimensionality reduction technique well-suited for embeddin
 [https://www.linkedin.com/in/martinkersner/](https://www.linkedin.com/in/martinkersner/)
 
 Martin is currently working as Machine Learning Engineer at Hyperconnect.
-His bigest passion is learning new things and solving interesting problems.
+His biggest passion is learning new things and solving interesting problems.
 
 ##### Seoul AI Gym
 [Seoul AI Gym](https://github.com/seoulai/gym) is a toolkit for developing AI algorithms.
