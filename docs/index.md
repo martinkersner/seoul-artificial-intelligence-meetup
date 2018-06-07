@@ -24,7 +24,7 @@ Saturday, June 9, 2018
 
 02:45 - 3:20 Dimensionality Reduction with t-SNE (Zaur Fataliyev)
 
-03:20 - 04:00 TBD
+03:20 - 04:00 Seoul AI Gym ([Martin Kersner](members/martin))
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
 
@@ -56,6 +56,22 @@ Currently working as a Senior Engineer at LG Electronics. Graduated from KAIST (
 
 ##### Dimensionality Reduction with t-SNE
 t-SNE is a nonlinear dimensionality reduction technique well-suited for embedding high-dimensional data for visualization in a low-dimensional space of two or three dimensions. It models each high-dimensional object by a two- or three-dimensional point in such a way that similar objects are modeled by nearby points and dissimilar objects are modeled by distant points with high probability.
+
+
+#### Martin Kersner
+[https://www.linkedin.com/in/martinkersner/](https://www.linkedin.com/in/martinkersner/)
+
+Martin is currently working as Machine Learning Engineer at Hyperconnect.
+His bigest passion is learning new things and solving interesting problems.
+
+##### Seoul AI Gym
+[Seoul AI Gym](https://github.com/seoulai/gym) is a toolkit for developing AI algorithms.
+This gym simulates environments and enables you to apply any teaching technique on agent.
+Seoul AI Gym was inspired by [OpenAI Gym](https://github.com/openai/gym) and tries to follow its API very closely.
+There are two terms that are important to understand: *Environment* and *Agent*.
+An environment is a world (simulation) with which an agent can interact.
+An agent can observe a world and act based on its decision.
+Seoul AI Gym currently provides [Checkers](https://en.wikipedia.org/wiki/Draughts) environment.
 
 
 <!--### Details-->
