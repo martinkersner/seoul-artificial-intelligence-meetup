@@ -103,7 +103,7 @@ FREE
 
 ### May 26, 2018
 * Configuring neural style transfer for artistic visual variations ([소재한, Chaehan So](https://kr.linkedin.com/in/chaehan-so-087261), [paper](https://arxiv.org/abs/1805.10852))
-* Brain Tumor Segmentation ([Lars Sjösund](https://www.linkedin.com/in/lars-lowe-sj%C3%B6sund-22429560/), [presentation](https://www.slideshare.net/LarsLoweSjsund/brain-tumor-segmentation-seoul-ai-20180526-100235776))
+* Brain Tumor Segmentation ([Lars Sjösund](https://www.linkedin.com/in/lars-lowe-sj%C3%B6sund-22429560/), [presentation](https://www.slideshare.net/LarsLoweSjsund/brain-tumor-segmentation-seoul-ai-20180526-100235776), [demo](https://colab.research.google.com/drive/1RkvieIa5Z46fKIJqLeyGvLrSDlt0LwLJ))
 * Art Science and technology; Artwork using AI ([Elly Yaeli Cho](http://www.ellycho.net/), [presentation](presentations/mediart_ai_small.pdf))
 
 ### May 12, 2018
