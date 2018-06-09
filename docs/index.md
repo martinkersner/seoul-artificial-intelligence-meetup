@@ -10,21 +10,17 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ## Upcoming Meetup
 <!--## Seoul AI Hackathon-->
 
-<a href="images/june_9_2018.png" target="_blank">![png](images/june_9_2018.png)</a>
+<!--<a href="images/june_9_2018.png" target="_blank">![png](images/june_9_2018.png)</a>-->
 
 ### When
-Saturday, June 9, 2018
+Saturday, June 23, 2018
 
 02:00 AM to 04:00 PM
 
 ### Program
 02:00 - 02:15 Networking
 
-02:15 - 02:45 Object detection transfer learning tool (Sulki Kim)
-
-02:45 - 3:20 Dimensionality Reduction with t-SNE (Zaur Fataliyev)
-
-03:20 - 04:00 Seoul AI Gym ([Martin Kersner](members/martin))
+02:15 - 04:00 TBD
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
 
@@ -39,39 +35,39 @@ Saturday, June 9, 2018
 <!--17:30 - 18:00 AI Hackathon review-->
 <!--TBD-->
 
-### Presenters
+<!--### Presenters-->
 
-#### Sulki Kim
-Sulki Kim is currently working as AI Engineer at Samsung SDS.
+<!--#### Sulki Kim-->
+<!--Sulki Kim is currently working as AI Engineer at Samsung SDS.-->
 
-##### Object detection transfer learning tool
-Sulki Kim will present about Transfer learning and Active learning using Tensorflow object detection API.
+<!--##### Object detection transfer learning tool-->
+<!--Sulki Kim will present about Transfer learning and Active learning using Tensorflow object detection API.-->
 
-Notice: Presentation will be held in KOREAN.
+<!--Notice: Presentation will be held in KOREAN.-->
 
-#### Zaur Fataliyev
-[https://www.linkedin.com/in/fvzaur](https://www.linkedin.com/in/fvzaur)
+<!--#### Zaur Fataliyev-->
+<!--[https://www.linkedin.com/in/fvzaur](https://www.linkedin.com/in/fvzaur)-->
 
-Currently working as a Senior Engineer at LG Electronics. Graduated from KAIST (Bachelor in Electrical Engineering) and Korea University (Master in Electrical and Computer Engineering).
+<!--Currently working as a Senior Engineer at LG Electronics. Graduated from KAIST (Bachelor in Electrical Engineering) and Korea University (Master in Electrical and Computer Engineering).-->
 
-##### Dimensionality Reduction with t-SNE
-t-SNE is a nonlinear dimensionality reduction technique well-suited for embedding high-dimensional data for visualization in a low-dimensional space of two or three dimensions. It models each high-dimensional object by a two- or three-dimensional point in such a way that similar objects are modeled by nearby points and dissimilar objects are modeled by distant points with high probability.
+<!--##### Dimensionality Reduction with t-SNE-->
+<!--t-SNE is a nonlinear dimensionality reduction technique well-suited for embedding high-dimensional data for visualization in a low-dimensional space of two or three dimensions. It models each high-dimensional object by a two- or three-dimensional point in such a way that similar objects are modeled by nearby points and dissimilar objects are modeled by distant points with high probability.-->
 
 
-#### Martin Kersner
-[https://www.linkedin.com/in/martinkersner/](https://www.linkedin.com/in/martinkersner/)
+<!--#### Martin Kersner-->
+<!--[https://www.linkedin.com/in/martinkersner/](https://www.linkedin.com/in/martinkersner/)-->
 
-Martin is currently working as Machine Learning Engineer at Hyperconnect.
-His biggest passion is learning new things and solving interesting problems.
+<!--Martin is currently working as Machine Learning Engineer at Hyperconnect.-->
+<!--His biggest passion is learning new things and solving interesting problems.-->
 
-##### Seoul AI Gym
-[Seoul AI Gym](https://github.com/seoulai/gym) is a toolkit for developing AI algorithms.
-This gym simulates environments and enables you to apply any teaching technique on agent.
-Seoul AI Gym was inspired by [OpenAI Gym](https://github.com/openai/gym) and tries to follow its API very closely.
-There are two terms that are important to understand: *Environment* and *Agent*.
-An environment is a world (simulation) with which an agent can interact.
-An agent can observe a world and act based on its decision.
-Seoul AI Gym currently provides [Checkers](https://en.wikipedia.org/wiki/Draughts) environment.
+<!--##### Seoul AI Gym-->
+<!--[Seoul AI Gym](https://github.com/seoulai/gym) is a toolkit for developing AI algorithms.-->
+<!--This gym simulates environments and enables you to apply any teaching technique on agent.-->
+<!--Seoul AI Gym was inspired by [OpenAI Gym](https://github.com/openai/gym) and tries to follow its API very closely.-->
+<!--There are two terms that are important to understand: *Environment* and *Agent*.-->
+<!--An environment is a world (simulation) with which an agent can interact.-->
+<!--An agent can observe a world and act based on its decision.-->
+<!--Seoul AI Gym currently provides [Checkers](https://en.wikipedia.org/wiki/Draughts) environment.-->
 
 
 <!--### Details-->
@@ -82,8 +78,8 @@ Seoul AI Gym currently provides [Checkers](https://en.wikipedia.org/wiki/Draught
 
 <!--Seoul AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
 
-### Registration
-Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/250768706/)
+<!--### Registration-->
+<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/250768706/)-->
 
 ### Price
 FREE
