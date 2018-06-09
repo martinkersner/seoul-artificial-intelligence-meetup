@@ -101,6 +101,11 @@ FREE
 <br/>
 ## Previous Meetups
 
+### June 9, 2018
+* Object detection transfer learning tool (Sulki Kim, [presentation](presentations/Transfer_learning_Active_learning_using_tensorflow_object_detection_api.pdf))
+* Dimensionality Reduction with t-SNE (Zaur Fataliyev)
+* Seoul AI Gym ([Martin](members/martin), [presentation](presentations/Seoul_AI_Gym.pdf))
+
 ### May 26, 2018
 * Configuring neural style transfer for artistic visual variations ([소재한, Chaehan So](https://kr.linkedin.com/in/chaehan-so-087261), [paper](https://arxiv.org/abs/1805.10852))
 * Brain Tumor Segmentation ([Lars Sjösund](https://www.linkedin.com/in/lars-lowe-sj%C3%B6sund-22429560/), [presentation](https://www.slideshare.net/LarsLoweSjsund/brain-tumor-segmentation-seoul-ai-20180526-100235776), [demo](https://colab.research.google.com/drive/1RkvieIa5Z46fKIJqLeyGvLrSDlt0LwLJ))

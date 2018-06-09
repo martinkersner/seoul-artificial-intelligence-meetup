@@ -6,6 +6,11 @@ martin:
   email: m.kersner@gmail.com
   bio: Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
   presentations:
+    - date: June 6, 2018
+      title: Seoul AI Gym
+      pdf: ../presentations/Seoul_AI_Gym.pdf
+      github: https://github.com/seoulai/gym
+
     - date: March 31, 2018
       title: MAML and Reptile
       pdf: ../presentations/MAML_and_Reptile.pdf
