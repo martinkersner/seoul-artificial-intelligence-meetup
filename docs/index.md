@@ -99,7 +99,7 @@ FREE
 
 ### June 9, 2018
 * Object detection transfer learning tool (Sulki Kim, [presentation](presentations/Transfer_learning_Active_learning_using_tensorflow_object_detection_api.pdf))
-* Dimensionality Reduction with t-SNE (Zaur Fataliyev)
+* Dimensionality Reduction with t-SNE (Zaur Fataliyev, [presentation](presentations/t-SNE.pdf))
 * Seoul AI Gym ([Martin](members/martin), [presentation](presentations/Seoul_AI_Gym.pdf))
 
 ### May 26, 2018
