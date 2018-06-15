@@ -10,7 +10,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ## Upcoming Meetup
 <!--## Seoul AI Hackathon-->
 
-<!--<a href="images/june_9_2018.png" target="_blank">![png](images/june_9_2018.png)</a>-->
+<a href="images/june_23_2018.png" target="_blank">![png](images/june_23_2018.png)</a>
 
 ### When
 Saturday, June 23, 2018
@@ -20,7 +20,9 @@ Saturday, June 23, 2018
 ### Program
 02:00 - 02:15 Networking
 
-02:15 - 04:00 TBD
+02:15 - 02:50 Machine Learning and Electronic Health Records ([Cinyoung Hur](members/cinyoung))
+
+02:50 - 04:00 TBD
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
 
@@ -35,39 +37,16 @@ Saturday, June 23, 2018
 <!--17:30 - 18:00 AI Hackathon review-->
 <!--TBD-->
 
-<!--### Presenters-->
+### Presenters
 
-<!--#### Sulki Kim-->
-<!--Sulki Kim is currently working as AI Engineer at Samsung SDS.-->
+#### Cinyoung Hur
+[https://www.linkedin.com/in/cinyounghur](https://www.linkedin.com/in/cinyounghur)
 
-<!--##### Object detection transfer learning tool-->
-<!--Sulki Kim will present about Transfer learning and Active learning using Tensorflow object detection API.-->
-
-<!--Notice: Presentation will be held in KOREAN.-->
-
-<!--#### Zaur Fataliyev-->
-<!--[https://www.linkedin.com/in/fvzaur](https://www.linkedin.com/in/fvzaur)-->
-
-<!--Currently working as a Senior Engineer at LG Electronics. Graduated from KAIST (Bachelor in Electrical Engineering) and Korea University (Master in Electrical and Computer Engineering).-->
-
-<!--##### Dimensionality Reduction with t-SNE-->
-<!--t-SNE is a nonlinear dimensionality reduction technique well-suited for embedding high-dimensional data for visualization in a low-dimensional space of two or three dimensions. It models each high-dimensional object by a two- or three-dimensional point in such a way that similar objects are modeled by nearby points and dissimilar objects are modeled by distant points with high probability.-->
+Cinyoung is a Data Engineer at Linewalks. She was a Software Engineer at ETRI. She received her Bachelors and Master degree from Sookmyung Women's University. Her interests span Data mining and modeling approaches for addressing challenges related to complex healthcare data.
 
 
-<!--#### Martin Kersner-->
-<!--[https://www.linkedin.com/in/martinkersner/](https://www.linkedin.com/in/martinkersner/)-->
-
-<!--Martin is currently working as Machine Learning Engineer at Hyperconnect.-->
-<!--His biggest passion is learning new things and solving interesting problems.-->
-
-<!--##### Seoul AI Gym-->
-<!--[Seoul AI Gym](https://github.com/seoulai/gym) is a toolkit for developing AI algorithms.-->
-<!--This gym simulates environments and enables you to apply any teaching technique on agent.-->
-<!--Seoul AI Gym was inspired by [OpenAI Gym](https://github.com/openai/gym) and tries to follow its API very closely.-->
-<!--There are two terms that are important to understand: *Environment* and *Agent*.-->
-<!--An environment is a world (simulation) with which an agent can interact.-->
-<!--An agent can observe a world and act based on its decision.-->
-<!--Seoul AI Gym currently provides [Checkers](https://en.wikipedia.org/wiki/Draughts) environment.-->
+##### Machine Learning and Electronic Health Records
+This talk reviews current research on applying machine learning to clinical tasks based on electronic health records (EHR). Various machine learning techniques are used in different types of clinical applications including outcome prediction, phenotyping, and de-identification. This talk focuses outcome prediction in respect to model interpretability and data heterogeneity.
 
 
 <!--### Details-->
@@ -78,8 +57,8 @@ Saturday, June 23, 2018
 
 <!--Seoul AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
 
-<!--### Registration-->
-<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/250768706/)-->
+### Registration
+Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/251633244/)
 
 ### Price
 FREE
