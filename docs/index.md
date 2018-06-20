@@ -15,7 +15,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ### When
 Saturday, June 23, 2018
 
-02:00 AM to 04:00 PM
+02:00 PM to 04:00 PM
 
 ### Program
 02:00 - 02:15 Networking
