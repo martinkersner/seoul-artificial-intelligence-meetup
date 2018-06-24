@@ -56,7 +56,7 @@ abstract tbd
 <!--Seoul AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
 
 ### Registration
-Register at [meetup.com](https://www.meetup.com/ko-KR/Seoul-Artificial-Intelligence/events/252081468/)
+Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/252081468/)
 
 ### Price
 FREE
