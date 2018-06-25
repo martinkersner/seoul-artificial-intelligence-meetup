@@ -46,7 +46,7 @@ Saturday, July 7, 2018
 
 Neil is a problem solver who actively acquires cross-domain knowledge and provides inventive solutions. Also, he is an electrical engineer by training, software development by profession and physical science by heart. Robotic and Machine Learning are his current pursues.
 
-#### uTensor
+##### uTensor
 TBD
 
 
