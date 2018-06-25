@@ -10,19 +10,19 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ## Upcoming Meetup
 <!--## Seoul AI Hackathon-->
 
-### When
+<!-- <a href="images/june_23_2018.png" target="_blank">![png](images/june_23_2018.png)</a> -->
 
+### When
 Saturday, July 7, 2018
 
 02:00 PM to 04:00 PM
 
 ### Program
-
 02:00 - 02:15 Networking
 
 02:15 - 03:00 uTensor
 
-03:00 - 04:00 TBD. Waiting for your participation!!
+03:00 - 04:00 TBD: Waiting for your participation!
 
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
@@ -42,13 +42,12 @@ Saturday, July 7, 2018
 
 
 #### Neil Tan
-https://www.linkedin.com/in/neil-tan
+[https://www.linkedin.com/in/neil-tan](https://www.linkedin.com/in/neil-tan)
 
-He is a problem solver who actively acquires cross-domain knowledge and provides inventive solutions. Also, he is an electrical engineer by training, software development by profession and physical science by heart. Robotic and Machine Learning are his current pursues.
+Neil is a problem solver who actively acquires cross-domain knowledge and provides inventive solutions. Also, he is an electrical engineer by training, software development by profession and physical science by heart. Robotic and Machine Learning are his current pursues.
 
 #### uTensor
-abstract tbd
-
+TBD
 
 
 <!--### Details-->
@@ -79,7 +78,7 @@ FREE
 ## Previous Meetups
 
 ### June 23, 2018
-* Deep Learning and Electronic Health records ([Cinyoung Hur](members/cinyoung), [presentation](presentations/Machine Learning and  Electronic Health Records.pdf), [awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning))
+* Deep Learning and Electronic Health records ([Cinyoung Hur](members/cinyoung), [presentation](presentations/Machine_Learning_and_Electronic_Health_Records.pdf), [awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning))
 
 ### June 9, 2018
 * Object detection transfer learning tool (Sulki Kim, [presentation](presentations/Transfer_learning_Active_learning_using_tensorflow_object_detection_api.pdf))
@@ -136,4 +135,3 @@ Mini AI Hackathon ([project presentations](presentations/mini-ai-hackathon-20180
 * Feature Preprocessing and Generation with Respect to Models ([Cinyoung](members/cinyoung), [presentation](presentations/Preprocessing_Tips.pdf))
 
 ### [Presentations from 2017](2017)
-
