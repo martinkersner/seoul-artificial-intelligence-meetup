@@ -20,9 +20,11 @@ Saturday, July 7, 2018
 ### Program
 02:00 - 02:15 Networking
 
-02:15 - 03:00 uTensor
+02:15 - 02:45 Introduction to uTensor (Neil Tan)
 
-03:00 - 04:00 TBD: Waiting for your participation!
+02:45 - 03:45 CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan)
+
+03:00 - 04:00 TBD
 
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
@@ -41,13 +43,19 @@ Saturday, July 7, 2018
 ### Presenters
 
 
-#### Neil Tan
+#### ★ Neil Tan
 [https://www.linkedin.com/in/neil-tan](https://www.linkedin.com/in/neil-tan)
 
-Neil is a problem solver who actively acquires cross-domain knowledge and provides inventive solutions. Also, he is an electrical engineer by training, software development by profession and physical science by heart. Robotic and Machine Learning are his current pursues.
+Neil Tan is a developer evangelist at Arm, creator of uTensor, software and hardware hacker, robotics and physics enthusiast. He seeks out curious minds to forge new technologies together.
 
-##### uTensor
-TBD
+#### ▷ Introduction to uTensor
+uTensor is a machine learning inference framework specialized for microcontrollers. Based on Tensorflow and Mbed, its implementation for a 3-layer-fully-connected network accounts for less than 30KB in the final binary file. In additional to the background information, we are going to share brief technical insight to the inner-working and current state of uTensor. This should be a good starting point for those who wish to experiment with or to be part of the project.
+
+#### ★ Dmitriy Khvan
+Dmitriy is a software developer with background in image processing and image compression. Currently working on software solutions for vehicles. He is studying about Machine Learning on free time but hoping to work with Machine Learning on a regular basis.
+
+#### ▷ CapsuleNets - Dynamic Routing between capsules
+Deep Learning has been a focus of research in Machine Learning for over a decade now. Capsule Networks is a novel breakthrough approach to modeling large scale networks for image classification. As an alternative to vanilla CNNs CapsuleNets take more "intelligent approach" to the problem.
 
 
 <!--### Details-->
