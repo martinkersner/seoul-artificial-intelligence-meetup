@@ -24,7 +24,7 @@ Saturday, July 7, 2018
 
 02:45 - 03:45 CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan)
 
-03:00 - 04:00 TBD
+03:45 - 04:00 TBD
 
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
@@ -90,7 +90,7 @@ FREE
 
 ### June 9, 2018
 * Object detection transfer learning tool (Sulki Kim, [presentation](presentations/Transfer_learning_Active_learning_using_tensorflow_object_detection_api.pdf))
-* Dimensionality Reduction with t-SNE (Zaur Fataliyev, [presentation](presentations/t-SNE.pdf))
+* Dimensionality Reduction with t-SNE ([Zaur Fataliyev](https://www.linkedin.com/in/fvzaur), [presentation](presentations/t-SNE.pdf))
 * Seoul AI Gym ([Martin](members/martin), [presentation](presentations/Seoul_AI_Gym.pdf))
 
 ### May 26, 2018
