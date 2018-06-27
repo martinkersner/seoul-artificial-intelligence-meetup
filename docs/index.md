@@ -153,3 +153,4 @@ Mini AI Hackathon ([project presentations](presentations/mini-ai-hackathon-20180
 * Feature Preprocessing and Generation with Respect to Models ([Cinyoung](members/cinyoung), [presentation](presentations/Preprocessing_Tips.pdf))
 
 ### [Presentations from 2017](2017)
+
