@@ -10,7 +10,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ## Upcoming Meetup
 <!--## Seoul AI Hackathon-->
 
-<!-- <a href="images/june_23_2018.png" target="_blank">![png](images/june_23_2018.png)</a> -->
+ <a href="images/july_7_2018.png" target="_blank">![png](images/july_7_2018.png)</a>
 
 ### When
 Saturday, July 7, 2018
@@ -22,7 +22,9 @@ Saturday, July 7, 2018
 
 02:15 - 02:45 Introduction to uTensor (Neil Tan)
 
-02:45 - 03:45 CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan)
+02:45 - 03:35 CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan)
+
+02:35 - 03:45 Cryptocurrency trading project proposal (James Park)
 
 03:45 - 04:00 Patient Representation with Electronic Health Records - Demo (Cinyoung Hur)
 
@@ -56,6 +58,12 @@ Dmitriy is a software developer with background in image processing and image co
 
 #### ▷ CapsuleNets - Dynamic Routing between capsules
 Deep Learning has been a focus of research in Machine Learning for over a decade now. Capsule Networks is a novel breakthrough approach to modeling large scale networks for image classification. As an alternative to vanilla CNNs CapsuleNets take more "intelligent approach" to the problem.
+
+#### ★ James Park
+James is a data engineer & software developer at KIS (Korea Investment Securities). He wants to be an entrepreneur and make a business affecting the world.
+
+#### ▷ Cryptocurrency trading project proposal
+James will introduce several interesting cryptocurrency projects. He is planning to build a cryptocurrency online trading model with the latest Machine Learning techniques. Do you want to join him?
 
 #### ★ Cinyoung Hur
 
