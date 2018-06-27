@@ -24,7 +24,7 @@ Saturday, July 7, 2018
 
 02:45 - 03:45 CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan)
 
-03:45 - 04:00 TBD
+03:45 - 04:00 Patient Representation with Electronic Health Records - Demo (Cinyoung Hur)
 
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
@@ -56,6 +56,16 @@ Dmitriy is a software developer with background in image processing and image co
 
 #### ▷ CapsuleNets - Dynamic Routing between capsules
 Deep Learning has been a focus of research in Machine Learning for over a decade now. Capsule Networks is a novel breakthrough approach to modeling large scale networks for image classification. As an alternative to vanilla CNNs CapsuleNets take more "intelligent approach" to the problem.
+
+#### ★ Cinyoung Hur
+
+[https://www.linkedin.com/in/cinyounghur](https://www.linkedin.com/in/cinyounghur)
+
+Cinyoung is a Senior Researcher and Data Engineer at Linewalks. She was a Software Engineer at ETRI. She received her Bachelors and Master degree from Sookmyung Women's University. Her interests span Data mining and modeling approaches for addressing challenges related to complex healthcare data.
+
+#### ▷ Patient Representation with Electronic Health Records - Demo
+
+All aspects of patient encounters are in modern Electronic Health Record systems - diagnosis, medications, laboratory test, and procedures. Learning a patient representation is the first step to apply machine learning and deep learning techniques because it helps to transform complex high-dimensional data into lower dimensional dense representation. This talk demonstrates patient representation based on MIMIC-III which is a freely accessible critical care database.
 
 
 <!--### Details-->
@@ -143,3 +153,4 @@ Mini AI Hackathon ([project presentations](presentations/mini-ai-hackathon-20180
 * Feature Preprocessing and Generation with Respect to Models ([Cinyoung](members/cinyoung), [presentation](presentations/Preprocessing_Tips.pdf))
 
 ### [Presentations from 2017](2017)
+
