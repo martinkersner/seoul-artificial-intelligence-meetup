@@ -24,7 +24,7 @@ Saturday, July 7, 2018
 
 02:45 - 03:35 CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan)
 
-02:35 - 03:45 Cryptocurrency trading project proposal (James Park)
+03:35 - 03:45 Cryptocurrency trading project proposal (James Park)
 
 03:45 - 04:00 Patient Representation with Electronic Health Records - Demo (Cinyoung Hur)
 
