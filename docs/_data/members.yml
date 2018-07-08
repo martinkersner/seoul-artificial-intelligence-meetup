@@ -120,6 +120,10 @@ cinyoung:
   email: cinyoung.hur@gmail.com
   bio: Medical Data Engineer, currently working at Linewalks, Inc.
   presentations:
+    - date: July 7, 2018
+      title: Patient Representation with Electronic Health Records - Demo
+      pdf: ../presentations/Patient_Representation_Demo.pdf
+
     - date: June 23, 2018
       title: Deep Learning and Electronic Health Records
       pdf: ../presentations/Machine_Learning_and_Electronic_Health_Records.pdf

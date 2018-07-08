@@ -10,23 +10,20 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ## Upcoming Meetup
 <!--## Seoul AI Hackathon-->
 
- <a href="images/july_7_2018.png" target="_blank">![png](images/july_7_2018.png)</a>
+ <!--a href="images/july_7_2018.png" target="_blank">![png](images/july_7_2018.png)</a-->
 
 ### When
-Saturday, July 7, 2018
+Saturday, July 21, 2018
 
 02:00 PM to 04:00 PM
 
 ### Program
 02:00 - 02:15 Networking
 
-02:15 - 02:45 Introduction to uTensor (Neil Tan)
+02:15 - 03:00 ICML 2018 Highlights (Chan Y. Park (박찬연))
 
-02:45 - 03:35 CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan)
+03:00 - 04:00 TBD
 
-03:35 - 03:45 Cryptocurrency trading project proposal (James Park)
-
-03:45 - 04:00 Patient Representation with Electronic Health Records - Demo (Cinyoung Hur)
 
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
@@ -44,36 +41,15 @@ Saturday, July 7, 2018
 
 ### Presenters
 
+#### ★ Chan Y. Park (박찬연)
+[https://www.linkedin.com/in/chan-youn-park](https://www.linkedin.com/in/chan-youn-park)
 
-#### ★ Neil Tan
-[https://www.linkedin.com/in/neil-tan](https://www.linkedin.com/in/neil-tan)
+He is currently Principal Research Scientist of Machine Learning Lab (ML2) @ KC and CTO of Moru Labs, a start-up for product personalization.
+He was previously Fellow @ Insight AI New York and received Ph.D. in theoretical physics (string theory).
 
-Neil Tan is a developer evangelist at Arm, creator of uTensor, software and hardware hacker, robotics and physics enthusiast. He seeks out curious minds to forge new technologies together.
 
-#### ▷ Introduction to uTensor
-uTensor is a machine learning inference framework specialized for microcontrollers. Based on Tensorflow and Mbed, its implementation for a 3-layer-fully-connected network accounts for less than 30KB in the final binary file. In additional to the background information, we are going to share brief technical insight to the inner-working and current state of uTensor. This should be a good starting point for those who wish to experiment with or to be part of the project.
-
-#### ★ Dmitriy Khvan
-Dmitriy is a software developer with background in image processing and image compression. Currently working on software solutions for vehicles. He is studying about Machine Learning on free time but hoping to work with Machine Learning on a regular basis.
-
-#### ▷ CapsuleNets - Dynamic Routing between capsules
-Deep Learning has been a focus of research in Machine Learning for over a decade now. Capsule Networks is a novel breakthrough approach to modeling large scale networks for image classification. As an alternative to vanilla CNNs CapsuleNets take more "intelligent approach" to the problem.
-
-#### ★ James Park
-James is a data engineer & software developer at KIS (Korea Investment Securities). He wants to be an entrepreneur and make a business affecting the world.
-
-#### ▷ Cryptocurrency trading project proposal
-James will introduce several interesting cryptocurrency projects. He is planning to build a cryptocurrency online trading model with the latest Machine Learning techniques. Do you want to join him?
-
-#### ★ Cinyoung Hur
-
-[https://www.linkedin.com/in/cinyounghur](https://www.linkedin.com/in/cinyounghur)
-
-Cinyoung is a Senior Researcher and Data Engineer at Linewalks. She was a Software Engineer at ETRI. She received her Bachelors and Master degree from Sookmyung Women's University. Her interests span Data mining and modeling approaches for addressing challenges related to complex healthcare data.
-
-#### ▷ Patient Representation with Electronic Health Records - Demo
-
-All aspects of patient encounters are in modern Electronic Health Record systems - diagnosis, medications, laboratory test, and procedures. Learning a patient representation is the first step to apply machine learning and deep learning techniques because it helps to transform complex high-dimensional data into lower dimensional dense representation. This talk demonstrates patient representation based on MIMIC-III which is a freely accessible critical care database.
+#### ▷ ICML 2018 Highlights
+I will talk about the presentations from this year's ICML, one of the leading international academic conferences in machine learning, that I found interesting while I attend the conference.
 
 
 <!--### Details-->
@@ -85,7 +61,7 @@ All aspects of patient encounters are in modern Electronic Health Record systems
 <!--Seoul AI Hackathon allows you to participate either as a single participant or in a team. In case you want to participate in a team, all members (not more than 2 is recommended) have to RSVP to this event through meetup.com. If you want to search for potential team members, the best way is through our slack [seoulai.slack.com](https://seoulai.slack.com/) (before joining slack you have to ask for invitation at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/))-->
 
 ### Registration
-Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/252081468/)
+Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/252498816/)
 
 ### Price
 FREE
@@ -102,6 +78,12 @@ FREE
 
 <br/>
 ## Previous Meetups
+
+### July 7, 2018
+* Introduction to uTensor ([Neil Tan](https://www.linkedin.com/in/neil-tan))
+* CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan, [presentation](presentations/CapsuleNets.pdf))
+* Cryptocurrency trading project proposal (James Park)
+* Patient Representation with Electronic Health Records - Demo ([Cinyoung Hur](members/cinyoung), [presentation](presentations/Patient_Representation_Demo.pdf))
 
 ### June 23, 2018
 * Deep Learning and Electronic Health records ([Cinyoung Hur](members/cinyoung), [presentation](presentations/Machine_Learning_and_Electronic_Health_Records.pdf), [awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning))
