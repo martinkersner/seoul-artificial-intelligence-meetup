@@ -44,12 +44,12 @@ Saturday, July 21, 2018
 #### ★ Chan Y. Park (박찬연)
 [https://www.linkedin.com/in/chan-youn-park](https://www.linkedin.com/in/chan-youn-park)
 
-He is currently Principal Research Scientist of Machine Learning Lab (ML2) @ KC and CTO of Moru Labs, a start-up for product personalization.
+Chan is currently Principal Research Scientist of Machine Learning Lab (ML2) @ KC and CTO of Moru Labs, a start-up for product personalization.
 He was previously Fellow @ Insight AI New York and received Ph.D. in theoretical physics (string theory).
 
 
 #### ▷ ICML 2018 Highlights
-I will talk about the presentations from this year's ICML, one of the leading international academic conferences in machine learning, that I found interesting while I attend the conference.
+Chan will talk about the presentations from this year's ICML, one of the leading international academic conferences in machine learning, that he found interesting while he attended the conference.
 
 
 <!--### Details-->
