@@ -1,0 +1,6 @@
+apikey:
+    meetup: key1
+    facebook: key2
+    twitter: key3
+    slack: key4
+    mailing: key5
