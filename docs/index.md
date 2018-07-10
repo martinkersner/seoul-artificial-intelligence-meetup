@@ -80,7 +80,7 @@ FREE
 ## Previous Meetups
 
 ### July 7, 2018
-* Introduction to uTensor ([Neil Tan](https://www.linkedin.com/in/neil-tan))
+* Introduction to uTensor ([Neil Tan](https://www.linkedin.com/in/neil-tan), [presentation](presentations/uTensor_Intro.pdf))
 * CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan, [presentation](presentations/CapsuleNets.pdf))
 * Cryptocurrency Trading Project Proposal (James Park, [presentation](presentations/Cryptocurrency_Trading_Project_Proposal.pdf))
 * Patient Representation with Electronic Health Records - Demo ([Cinyoung Hur](members/cinyoung), [presentation](presentations/Patient_Representation_Demo.pdf))
