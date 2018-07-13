@@ -8,7 +8,8 @@ import datetime
 import re
 import facebook
 import argparse
-
+from os import listdir
+from os.path import isfile, join
 
 epoch_now = int(datetime.datetime.now().strftime("%s")) * 1000
 
@@ -22,8 +23,10 @@ with open("config.yml", 'r') as ymlfile:
   cfg = yaml.load(ymlfile)
 key_dict = cfg['apikey']
 
+# commands
 FIRE = 'fire'
 TEST = 'test'
+PHOTO = 'photo'
 
 
 def print_event(sns, msg):
@@ -95,7 +98,7 @@ def get_meetup_event():
   return event
 
 
-def publish_twitter(evt, command):
+def publish_twitter(evt, command, photo_dir):
   twitter_client = twitter.Api(consumer_key=key_dict['twitter']['consumer_key'],
                                consumer_secret=key_dict['twitter']['consumer_secret'],
                                access_token_key=key_dict['twitter']['access_token_key'],
@@ -109,9 +112,11 @@ def publish_twitter(evt, command):
     print_event('twitter', msg)
   elif command == FIRE:
     twitter_client.PostUpdate(msg)
+  elif command == PHOTO:
+    pass
 
 
-def publish_slack(evt, command):
+def publish_slack(evt, command, photo_dir):
   slack = Slacker(key_dict['slack'])
 
   msg = '{description} {event_url}'.format(
@@ -121,30 +126,39 @@ def publish_slack(evt, command):
   if command == TEST:
     print_event('slack', msg)
   elif command == FIRE:
-    slack.chat.post_message('#general', 'message')
+    slack.chat.post_message('#general', msg)
+  elif command == PHOTO:
+    pass
 
 
-def publish_facebook(evt, command):
+def publish_facebook(evt, command, photo_dir):
   msg = ''
 
   if command == TEST:
     print_event('facebook', msg)
   elif command == FIRE:
     pass
+  elif command == PHOTO:
+    pass
 
 
-def publish_mail(evt, command):
+def publish_mail(evt, command, photo_dir):
   msg = ''
 
   if command == TEST:
     print_event('mail', msg)
   elif command == FIRE:
     pass
+  elif command == PHOTO:
+    pass
 
 
 def parse_arguments(parser):
   parser.add_argument('command', type=str, metavar='<command>',
-                      help='automation command (fire, test)')
+                      help='automation command (fire, test, photo)')
+  parser.add_argument('--photo_dir', type=str, default='photo/',
+                      help='The path to the directory containing photos. If you just post event, do not use this option')
+
   args = parser.parse_args()
   return args
 
@@ -154,7 +168,7 @@ if __name__ == "__main__":
   args = parse_arguments(parser)
 
   evt = get_meetup_event()
-  publish_twitter(evt, command=args.command)
-  publish_slack(evt, command=args.command)
-  publish_facebook(evt, command=args.command)
-  publish_mail(evt, command=args.command)
+  publish_twitter(evt, command=args.command, photo_dir=args.photo_dir)
+  publish_slack(evt, command=args.command, photo_dir=args.photo_dir)
+  publish_facebook(evt, command=args.command, photo_dir=args.photo_dir)
+  publish_mail(evt, command=args.command, photo_dir=args.photo_dir)

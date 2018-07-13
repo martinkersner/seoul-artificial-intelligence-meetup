@@ -7,7 +7,7 @@ $ python publish.py -h
 usage: publish.py [-h] <command>
 
 positional arguments:
-  <command>   automation command (test, fire)
+  <command>   automation command (test, fire, photo)
 
 optional arguments:
   -h, --help  show this help message and exit
