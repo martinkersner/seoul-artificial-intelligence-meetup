@@ -111,7 +111,10 @@ def publish_twitter(evt, command, photo_dir):
   if command == TEST:
     print_event('twitter', msg)
   elif command == FIRE:
-    twitter_client.PostUpdate(msg)
+    try:
+      twitter_client.PostUpdate(msg)
+    except Exception as e:
+      print(e)
   elif command == PHOTO:
     pass
 
@@ -126,7 +129,10 @@ def publish_slack(evt, command, photo_dir):
   if command == TEST:
     print_event('slack', msg)
   elif command == FIRE:
-    slack.chat.post_message('#general', msg)
+    try:
+      slack.chat.post_message('#general', msg)
+    except Exception as e:
+      print(e)
   elif command == PHOTO:
     pass
 
