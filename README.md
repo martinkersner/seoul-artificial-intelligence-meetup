@@ -2,6 +2,15 @@
 
 # automation script
 
+- make venv
+
+```
+$ virtualenv -p python3 envname
+$ pip install -r requirements.txt
+```
+
+- script usage
+
 ```
 $ python publish.py -h
 usage: publish.py [-h] <command>
