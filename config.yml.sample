@@ -1,6 +1,10 @@
 apikey:
     meetup: key1
     facebook: key2
-    twitter: key3
+    twitter: 
+      consumer_key: key31
+      consumer_secret: key32
+      access_token_key: key33
+      access_token_secret: key34
     slack: key4
     mailing: key5
