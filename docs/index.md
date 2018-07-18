@@ -10,7 +10,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ## Upcoming Meetup
 <!--## Seoul AI Hackathon-->
 
- <!--a href="images/july_7_2018.png" target="_blank">![png](images/july_7_2018.png)</a-->
+<a href="images/july_21_2018.png" target="_blank">![png](images/july_21_2018.png)</a>
 
 ### When
 Saturday, July 21, 2018
