@@ -88,24 +88,40 @@ FREE
 * ICML 2018 Highlights (Chan Y. Park (박찬연), [presentation](presentations/ICML_2018_Highlights.pdf))
 * Deep Learning Visual Sensor Device for Industrial Applications (Jerry Byungik Ahn, [presentation](presentations/Deep_Learning_Visual_Sensor_for_Industrial_Applications.pdf))
 
+<a href="images/july_21_2018.png" target="_blank">![png](images/july_21_2018.png)</a>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fseoulai%2Fvideos%2F240792686739125%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 ### July 7, 2018
 * Introduction to uTensor ([Neil Tan](https://www.linkedin.com/in/neil-tan), [presentation](presentations/uTensor_Intro.pdf))
 * CapsuleNets - Dynamic Routing between capsules (Dmitriy Khvan, [presentation](presentations/CapsuleNets.pdf))
 * Cryptocurrency Trading Project Proposal (James Park, [presentation](presentations/Cryptocurrency_Trading_Project_Proposal.pdf))
 * Patient Representation with Electronic Health Records - Demo ([Cinyoung Hur](members/cinyoung), [presentation](presentations/Patient_Representation_Demo.pdf))
 
+<a href="images/july_7_2018.png" target="_blank">![png](images/july_7_2018.png)</a>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fseoulai%2Fvideos%2F226670068151387%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 ### June 23, 2018
 * Deep Learning and Electronic Health records ([Cinyoung Hur](members/cinyoung), [presentation](presentations/Machine_Learning_and_Electronic_Health_Records.pdf), [awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning))
+
+<a href="images/june_23_2018.png" target="_blank">![png](images/june_23_2018.png)</a>
 
 ### June 9, 2018
 * Object detection transfer learning tool (Sulki Kim, [presentation](presentations/Transfer_learning_Active_learning_using_tensorflow_object_detection_api.pdf))
 * Dimensionality Reduction with t-SNE ([Zaur Fataliyev](https://www.linkedin.com/in/fvzaur), [presentation](presentations/t-SNE.pdf))
 * Seoul AI Gym ([Martin](members/martin), [presentation](presentations/Seoul_AI_Gym.pdf))
 
+<a href="images/june_9_2018.png" target="_blank">![png](images/june_9_2018.png)</a>
+
 ### May 26, 2018
 * Configuring neural style transfer for artistic visual variations ([소재한, Chaehan So](https://kr.linkedin.com/in/chaehan-so-087261), [paper](https://arxiv.org/abs/1805.10852))
 * Brain Tumor Segmentation ([Lars Sjösund](https://www.linkedin.com/in/lars-lowe-sj%C3%B6sund-22429560/), [presentation](https://www.slideshare.net/LarsLoweSjsund/brain-tumor-segmentation-seoul-ai-20180526-100235776), [demo](https://colab.research.google.com/drive/1RkvieIa5Z46fKIJqLeyGvLrSDlt0LwLJ))
 * Art Science and technology; Artwork using AI ([Elly Yaeli Cho](http://www.ellycho.net/), [presentation](presentations/mediart_ai_small.pdf))
+
+<a href="images/may_26_2018.png" target="_blank">![png](images/may_26_2018.png)</a>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fseoulai%2Fvideos%2F193032794848448%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ### May 12, 2018
 Seoul AI Hackathon ([info](presentations/3rd_Seoul_AI_Hackathon_info.pdf), [project presentations](presentations/3rd_Seoul_AI_Hackathon.pdf))
