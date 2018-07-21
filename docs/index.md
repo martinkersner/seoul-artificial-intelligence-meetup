@@ -10,19 +10,20 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ## Upcoming Meetup
 <!--## Seoul AI Hackathon-->
 
-<a href="images/july_21_2018.png" target="_blank">![png](images/july_21_2018.png)</a>
+<!--a href="images/july_21_2018.png" target="_blank">![png](images/july_21_2018.png)</a-->
 
 ### When
-Saturday, July 21, 2018
+Saturday, August 4, 2018
 
 02:00 PM to 04:00 PM
 
 ### Program
-02:00 - 02:15 Networking
+TBD
+<!--02:00 - 02:15 Networking-->
 
-02:15 - 03:15 ICML 2018 Highlights (Chan Y. Park (박찬연))
+<!--02:15 - 03:15 ICML 2018 Highlights (Chan Y. Park (박찬연))-->
 
-03:15 - 04:00 Deep Learning Visual Sensor Device for Industrial Applications (Jerry Byungik Ahn)
+<!--03:15 - 04:00 Deep Learning Visual Sensor Device for Industrial Applications (Jerry Byungik Ahn)-->
 
 
 <!--10:00 - 10:30 1-3 minutes pitch of your topic-->
@@ -38,22 +39,22 @@ Saturday, July 21, 2018
 <!--17:30 - 18:00 AI Hackathon review-->
 <!--TBD-->
 
-### Presenters
+<!--### Presenters-->
 
-#### ★ Chan Y. Park (박찬연)
-[https://www.linkedin.com/in/chan-youn-park](https://www.linkedin.com/in/chan-youn-park)
+<!--#### ★ Chan Y. Park (박찬연)-->
+<!--[https://www.linkedin.com/in/chan-youn-park](https://www.linkedin.com/in/chan-youn-park)-->
 
-Chan is currently Principal Research Scientist of Machine Learning Lab (ML2) @ KC and CTO of Moru Labs, a start-up for product personalization.
-He was previously Fellow @ Insight AI New York and received Ph.D. in theoretical physics (string theory).
+<!--Chan is currently Principal Research Scientist of Machine Learning Lab (ML2) @ KC and CTO of Moru Labs, a start-up for product personalization.-->
+<!--He was previously Fellow @ Insight AI New York and received Ph.D. in theoretical physics (string theory).-->
 
-#### ▷ ICML 2018 Highlights
-Chan will talk about the presentations from this year's ICML, one of the leading international academic conferences in machine learning, that he found interesting while he attended the conference.
+<!--#### ▷ ICML 2018 Highlights-->
+<!--Chan will talk about the presentations from this year's ICML, one of the leading international academic conferences in machine learning, that he found interesting while he attended the conference.-->
 
-#### ★ Jerry Byungik Ahn - CEO at Neurocoms Inc
-Jerry is a developer of Deep Runner AI visual sensor device in Neurocoms Inc. He is a computer architect who published papers on a novel hardware architecture for neural networks such as DBN, BP, Neuromorphic and CNN.
+<!--#### ★ Jerry Byungik Ahn - CEO at Neurocoms Inc-->
+<!--Jerry is a developer of Deep Runner AI visual sensor device in Neurocoms Inc. He is a computer architect who published papers on a novel hardware architecture for neural networks such as DBN, BP, Neuromorphic and CNN.-->
 
-#### ▷ Deep Learning Visual Sensor Device for Industrial Applications
-Deep Runner is one of the first industrial devices based on deep learning technology. In this talk, the technical aspects of Deep Runner visual sensor device will be introduced. It's supported deep learning models, hardware architecture, training software, and applications are presented. Live demonstrations will also be shown.
+<!--#### ▷ Deep Learning Visual Sensor Device for Industrial Applications-->
+<!--Deep Runner is one of the first industrial devices based on deep learning technology. In this talk, the technical aspects of Deep Runner visual sensor device will be introduced. It's supported deep learning models, hardware architecture, training software, and applications are presented. Live demonstrations will also be shown.-->
 
 
 <!--### Details-->
@@ -82,6 +83,10 @@ FREE
 
 <br/>
 ## Previous Meetups
+
+### July 21, 2018
+* ICML 2018 Highlights (Chan Y. Park (박찬연), [presentation](presentations/ICML_2018_Highlights.pdf))
+* Deep Learning Visual Sensor Device for Industrial Applications (Jerry Byungik Ahn, [presentation](presentations/Deep_Learning_Visual_Sensor_for_Industrial_Applications.pdf))
 
 ### July 7, 2018
 * Introduction to uTensor ([Neil Tan](https://www.linkedin.com/in/neil-tan), [presentation](presentations/uTensor_Intro.pdf))
