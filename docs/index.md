@@ -13,7 +13,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <!--a href="images/july_21_2018.png" target="_blank">![png](images/july_21_2018.png)</a-->
 
 ### When
-Saturday, August 4, 2018
+Saturday, September 1, 2018
 
 02:00 PM to 04:00 PM
 
