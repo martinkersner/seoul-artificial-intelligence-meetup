@@ -9,7 +9,7 @@ If you are interested in any topic related to Artificial Intelligence and would 
 
 All presentations/practice sessions should be held in **English**.
 
-If you feel ready to present, fill out please this form [https://goo.gl/forms/D2bD4W5ZRnpm5ZWG2](https://goo.gl/forms/D2bD4W5ZRnpm5ZWG2).
+If you feel ready to present, fill out please this form [https://bit.ly/seoulai-talk-proposal](https://bit.ly/seoulai-talk-proposal).
 
 ## Examples of topic propositions
 
