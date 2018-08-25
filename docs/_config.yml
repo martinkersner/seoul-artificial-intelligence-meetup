@@ -1,8 +1,6 @@
 # Site settings
 title: Seoul AI - Hackaton
 description: Seoul AI is the largest international Artificial Intelligence community in Seoul. Group of professionals from different fields meets twice per month in the heart of Seoul to discuss about AI or implement various AI applications.
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Hackaton
@@ -12,7 +10,6 @@ email:
 twitter_username: SeoulAI
 github_username:  SeoulAI
 facebook_username:  Seoul AI
-theme: jekyll-theme-particle-master
 url: http://seoulai.com
 plugins:
     - jekyll-sitemap
