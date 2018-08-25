@@ -1,21 +1,12 @@
 # Site settings
-title: Seoul AI - Hackaton
+title: Seoul Artificial Intelligence
 description: Seoul AI is the largest international Artificial Intelligence community in Seoul. Group of professionals from different fields meets twice per month in the heart of Seoul to discuss about AI or implement various AI applications.
 
 # User settings
-username: Hackaton
 user_description: Group of professionals from different fields meets twice per month in the heart of Seoul to discuss about AI or implement various AI applications.
-user_title: Seoul AI
-email:
-twitter_username: SeoulAI
-github_username:  SeoulAI
-facebook_username:  Seoul AI
 url: http://seoulai.com
 plugins:
     - jekyll-sitemap
     - jekyll-seo-tag
-
-# Google-analytics
-google-analytics: UA-106993341-1
 
 exclude: ['package.json', 'src' , 'node_modules']
