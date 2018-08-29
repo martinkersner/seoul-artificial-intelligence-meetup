@@ -6,33 +6,39 @@ Saturday, September 1, 2018
 02:00 PM to 04:00 PM
 
 ### Program
-TBD
-<!--02:00 - 02:15 Networking-->
+02:00 - 02:15 Networking
 
-<!--02:15 - 03:15 ICML 2018 Highlights (Chan Y. Park (박찬연))-->
+02:15 - 03:15 Topological Data Analysis to understand Convolutional Neural Networks (Aleksei Prokopev)
 
-<!--03:15 - 04:00 Deep Learning Visual Sensor Device for Industrial Applications (Jerry Byungik Ahn)-->
+03:15 - 03:45 Seoul AI Gym ([members/martin](Martin Kersner))
+
+03:45 - 04:00 Spaced Repetition Systems: How to Remember Everything! ([members/raj](Raj Thimmiah))
 
 
-<!--### Presenters-->
+### Presenters
 
-<!--#### ★ Chan Y. Park (박찬연)-->
-<!--[https://www.linkedin.com/in/chan-youn-park](https://www.linkedin.com/in/chan-youn-park)-->
+#### ★ Aleksei Prokopev - AI Researcher and Developer at AKA Intelligence
+Aleksei works as an AI Researcher and Developer in AKA Intelligence. He loves Math.
 
-<!--Chan is currently Principal Research Scientist of Machine Learning Lab (ML2) @ KC and CTO of Moru Labs, a start-up for product personalization.-->
-<!--He was previously Fellow @ Insight AI New York and received Ph.D. in theoretical physics (string theory).-->
+#### ▷ Topological Data Analysis to understand Convolutional Neural Networks
+Company called Ayasdi, which specializes in Topological Data Analysis released a peculiar series of blog posts (https://www.ayasdi.com/blog/artificial-intelligence/using-topological-data-analysis-understand-behavior-convolutional-neural-networks/, https://www.ayasdi.com/blog/artificial-intelligence/going-deeper-understanding-convolutional-neural-networks-learn-using) In this talk Aleksei will describe his attempt to recreate the results of the experiments and discuss further work and possible applications.
 
-<!--#### ▷ ICML 2018 Highlights-->
-<!--Chan will talk about the presentations from this year's ICML, one of the leading international academic conferences in machine learning, that he found interesting while he attended the conference.-->
+#### ★ Martin Kersner - Machine Learning Engineer at Hyperconnect
+[https://www.linkedin.com/in/martinkersner/](https://www.linkedin.com/in/martinkersner/)
+Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
 
-<!--#### ★ Jerry Byungik Ahn - CEO at Neurocoms Inc-->
-<!--Jerry is a developer of Deep Runner AI visual sensor device in Neurocoms Inc. He is a computer architect who published papers on a novel hardware architecture for neural networks such as DBN, BP, Neuromorphic and CNN.-->
+#### ▷ Seoul AI Gym Checkers
 
-<!--#### ▷ Deep Learning Visual Sensor Device for Industrial Applications-->
-<!--Deep Runner is one of the first industrial devices based on deep learning technology. In this talk, the technical aspects of Deep Runner visual sensor device will be introduced. It's supported deep learning models, hardware architecture, training software, and applications are presented. Live demonstrations will also be shown.-->
 
-<!--### Registration-->
-<!--Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/252498816/)-->
+#### ★ Raj Thimmiah - CEO at INF TRADING
+Interested in cryptography, blockchain, artificial intelligence and on learning better. Especially interested in homomorphic encryption.
+
+#### ▷ Spaced Repetition Systems: How to Remember Everything!
+Normal studying systems make learning a gamble. When you first review a piece of information, the chance that you will be able to recall it in the future steadily declines as time passes, something represented that can be represented with a forgetting curve. If you expose yourself to the same information again, you will likely remember it longer and longer with each repetition, with the ideal time for exposure being at the moment when you are close to forgetting it. However, if you expose yourself too soon you will both waste time and not substantially increase long term recall; too late and it will be similar to learning it again from scratch. Spaced repetition systems use the forgetting curve to pinpoint for you when you are likely to forget an item and show it to you at the right time, minimizing time usage and maximizing long term recall. This talk will explain both how SRS systems work as well as how to practically use one.
+
+
+### Registration
+Register at [meetup.com](https://www.meetup.com/Seoul-Artificial-Intelligence/events/254130731/)
 
 ### Price
 FREE

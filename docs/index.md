@@ -6,8 +6,6 @@ tags: [Seoul,"Artificial Intelligence",meetup,AI,call,presenters,practioners,"Ma
 
 If you want to collaborate with us, register at [seoulai.herokuapp.com](https://seoulai.herokuapp.com/) and join our slack at [seoulai.slack.com](https://seoulai.slack.com/). If you want to give a talk [fill in this form](https://bit.ly/seoulai-talk-proposal). To receive (by email) the latest information about upcoming meetups, hackathons and other events organized by Seoul AI, [subscribe through this form](subscribe).
 
-<a href="images/call_for_proposals.png" target="_blank">![png](images/call_for_proposals.png)</a>
-
 {% include_relative upcoming_meetup.md %}
 {% include_relative upcoming_hackathon.md %}
 
