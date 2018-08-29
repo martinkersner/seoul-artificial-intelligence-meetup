@@ -25,6 +25,7 @@ Company called Ayasdi, which specializes in Topological Data Analysis released a
 
 #### ★ Martin Kersner - Machine Learning Engineer at Hyperconnect
 [https://www.linkedin.com/in/martinkersner/](https://www.linkedin.com/in/martinkersner/)
+
 Martin is Machine Learning Engineer with a passion for learning new things and solving interesting problems.
 
 #### ▷ Seoul AI Gym Checkers
