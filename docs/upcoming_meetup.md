@@ -10,9 +10,9 @@ Saturday, September 1, 2018
 
 02:15 - 03:15 Topological Data Analysis to understand Convolutional Neural Networks (Aleksei Prokopev)
 
-03:15 - 03:45 Seoul AI Gym ([members/martin](Martin Kersner))
+03:15 - 03:45 Seoul AI Gym ([Martin Kersner](members/martin))
 
-03:45 - 04:00 Spaced Repetition Systems: How to Remember Everything! ([members/raj](Raj Thimmiah))
+03:45 - 04:00 Spaced Repetition Systems: How to Remember Everything! ([Raj Thimmiah](members/raj))
 
 
 ### Presenters
