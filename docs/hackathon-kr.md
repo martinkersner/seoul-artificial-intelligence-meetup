@@ -16,12 +16,12 @@ Checkers environment requires Python 3.6+.
 We try to keep PyPI package up to date, but the latest version of the code can be always found at [GitHub](https://github.com/seoulai/gym).
 
 Install through PyPI
-```python
+```bash
 pip install seoulai_gym
 ```
 
 or install from source.
-```python
+```bash
 git clone https://github.com/seoulai/gym.git
 cd gym
 pip3 install -e
