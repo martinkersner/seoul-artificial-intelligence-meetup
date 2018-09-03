@@ -16,7 +16,7 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 ### September 1, 2018
 * Topological Data Analysis to understand Convolutional Neural Networks (Aleksei Prokopev, [presentation](presentations/Topological_Data_Analysis_to_understand_Convolutional_Neural_Networks.pdf))
 * Seoul AI Gym ([Martin](members/martin), [presentation](presentations/Seoul_AI_Gym_Checkers.pdf))
-* Spaced Repetition Systems: How to Remember Everything! ([Raj](members/raj))
+* Spaced Repetition Systems: How to Remember Everything! ([Raj](members/raj), [presentation](presentations/Spaced_Repetition_Systems.pdf))
 
 ### July 21, 2018
 * ICML 2018 Highlights (Chan Y. Park (박찬연), [presentation](presentations/ICML_2018_Highlights.pdf))
