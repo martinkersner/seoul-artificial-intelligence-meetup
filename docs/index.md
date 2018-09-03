@@ -18,6 +18,8 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 * Seoul AI Gym ([Martin](members/martin), [presentation](presentations/Seoul_AI_Gym_Checkers.pdf))
 * Spaced Repetition Systems: How to Remember Everything! ([Raj](members/raj), [presentation](presentations/Spaced_Repetition_Systems.pdf))
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fseoulai%2Fvideos%2F1112650105559055%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 ### July 21, 2018
 * ICML 2018 Highlights (Chan Y. Park (박찬연), [presentation](presentations/ICML_2018_Highlights.pdf))
 * Deep Learning Visual Sensor Device for Industrial Applications (Jerry Byungik Ahn, [presentation](presentations/Deep_Learning_Visual_Sensor_for_Industrial_Applications.pdf))
