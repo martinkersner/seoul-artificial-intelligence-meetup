@@ -13,6 +13,11 @@ If you want to collaborate with us, register at [seoulai.herokuapp.com](https://
 <br/>
 ## Previous Meetups
 
+### September 1, 2018
+* Topological Data Analysis to understand Convolutional Neural Networks (Aleksei Prokopev, [presentation](presentations/Topological_Data_Analysis_to_understand_Convolutional_Neural_Networks.pdf))
+* Seoul AI Gym ([Martin](members/martin), [presentation](presentations/Seoul_AI_Gym_Checkers.pdf))
+* Spaced Repetition Systems: How to Remember Everything! ([Raj](members/raj))
+
 ### July 21, 2018
 * ICML 2018 Highlights (Chan Y. Park (박찬연), [presentation](presentations/ICML_2018_Highlights.pdf))
 * Deep Learning Visual Sensor Device for Industrial Applications (Jerry Byungik Ahn, [presentation](presentations/Deep_Learning_Visual_Sensor_for_Industrial_Applications.pdf))
